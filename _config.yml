@@ -5,7 +5,7 @@ title: FLOSS for Science
 description: "Podcasts about Free/Libre and Open Source Software (FLOSS) for Science"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
-url: "https://flossforscience.github.io/"
+url: "https://flossforscience.github.io"
 
 # Build settings
 markdown: kramdown
