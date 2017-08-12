@@ -82,3 +82,6 @@ about: "Podcasts about Free/Libre and Open Source Software (FLOSS) for Science"
 #    message: "Our mission statement goes here"
 #    author: 
 #    position: 
+
+plugins:
+  - jekyll-seo-tag
