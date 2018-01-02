@@ -38,8 +38,10 @@ social:
 #    url:
 #  - title: facebook
 #    url:
-  - title: twitter
-    url: https://twitter.com/FLOSSforscience
+   - title: twitter
+     url: https://twitter.com/FLOSSforscience
+   - title: github
+     url: https://github.com/FLOSSforScience
 #  - title: instagram
 #    url:
 #  - title: tumblr
