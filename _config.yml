@@ -87,5 +87,20 @@ about: "Podcasts about Free/Libre and Open Source Software (FLOSS) for Science"
 #    author: 
 #    position: 
 
+#Configuration for the rss feed to handle podcasts
+podcast_url: https://flossforscience.github.io/
+podcast_album_art: /assets/base/Whaddya-Know-Joe-Album-Art.png
+podcast_title: 
+podcast_owner: FLOSSforScience
+podcast_email: flossforscience@gmail.com 
+podcast_category: 
+podcast_subcategory_one: 
+podcast_subcategory_two: 
+podcast_explicit: "no"
+podcast_author: FLOSSforScience
+podcast_description: 
+podcast_summary: 
+podcast_subtitle:
+
 plugins:
   - jekyll-seo-tag
