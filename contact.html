@@ -8,10 +8,19 @@ permalink: /contact/
 <div class="container mtb">
     <div class="row">
         <div class="col-lg-8">
-            <h4>Just Get In Touch!</h4>
+            <h4>Get In Touch!</h4>
             
             <div class="hline"></div>
-                If you interested in participating in an episode or like to suggest a project or a person for an interview please contact use via mail. 
+                <br>
+                If you like to contact us, please send us an e-mail or a message on Twitter.
+                
+             <h4>Contributing!</h4>
+            
+            <div class="hline"></div>
+                <br>
+                If you like to contribute to our project, please create an issue <a href="https://github.com/FLOSSforScience/crowdsourcingcontent">here</a>. You can either suggest a subject or some specific software/organization, you like to have an episode about. Or if you or someone is interested to be interviewed, you can sugget an episode there too.
+                
+            
         </div>
         
 
@@ -24,8 +33,12 @@ permalink: /contact/
                     {% endfor %}
                 </p>
                 <p>
-                    Email: {{ site.email }}<br/>
-                    <!--Tel: {{ site.tel }}-->
+                    {% if site.email %}email: <a href="{{ site.email }}"> {{site.email}} </a><br/>{% endif %}
+                    {% for network in site.social %}
+                    
+                    {{network.title}}: <a href="{{ network.url }}">@{{ network.name }}</a><br/>
+                    {% endfor %}
+                    {% if site.tel %}Tel: {{ site.tel }} {% endif %}
                 </p>
         </div>
     </div>
