@@ -33,12 +33,12 @@ permalink: /contact/
                     {% endfor %}
                 </p>
                 <p>
-                    {% if site.email %}email: <a href=mailto:"{{ site.email }}"> {{site.email}} </a><br/>{% endif %}
+                    {% if site.email %}email: <a href="mailto:{{site.email}}"> {{site.email}} </a><br/>{% endif %}
                     {% for network in site.social %}
                     
-                    {{network.title}}: <a href="{{ network.url }}">@{{ network.name }}</a><br/>
+                    {{network.title}}: <a href="{{network.url}}">@{{network.name}}</a><br/>
                     {% endfor %}
-                    {% if site.tel %}Tel: {{ site.tel }} {% endif %}
+                    {% if site.tel %}Tel: {{site.tel}} {% endif %}
                 </p>
         </div>
     </div>
