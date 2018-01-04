@@ -15,4 +15,8 @@ podcast_guid: 454393ac623ec4173b3a93c0bb2d943b2f81074979185bf8c4350cd9812c2677
 ---
 In this epsiode the two hosts David Brassard and Patrick Diehl of FLOSS for science introduce themself and the explain the aims of this podcast. Listen this episode here or add our rss feed to your favourite podcast app:
 
-<iframe src="https://archive.org/download/FlossforscienceEp001-Introduction/FlossforscienceEp001-Introduction.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<audio controls>
+  <source src="https://archive.org/download/FlossforscienceEp001-Introduction/FlossforscienceEp001-Introduction.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
