@@ -12,6 +12,8 @@ podcast_file_size: 5.0 MB
 podcast_duration: "10:48"
 podcast_length: 5220352
 podcast_guid: 454393ac623ec4173b3a93c0bb2d943b2f81074979185bf8c4350cd9812c2677
+podcast_subtitle: Content and aims of the podcast.
+podcast_description: In this epsiode the two hosts David Brassard and Patrick Diehl of FLOSS for science introduce themself and the explain the aims of this podcast.
 ---
 In this epsiode the two hosts David Brassard and Patrick Diehl of FLOSS for science introduce themself and the explain the aims of this podcast. 
 

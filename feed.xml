@@ -9,7 +9,6 @@ xmlns:atom="http://www.w3.org/2005/Atom"
 xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 >
  
 <channel>
@@ -47,7 +46,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <link>{{ site.url }}{{ ep.url }}</link>
     <comments>{{ site.url }}{{ ep.url }}#comments</comments>
     <pubDate>{{ ep.date | date: "%a, %d %b %Y %T %z" }}</pubDate>
-    <dc:creator><![CDATA[{{ site.author | cdata_escape }}]]></dc:creator>
+    <dc:creator><![CDATA[{{ site.podcast_author | cdata_escape }}]]></dc:creator>
 {% for category in ep.categories %}
     <category><![CDATA[{{ category | cdata_escape }}]]></category>
 {% endfor %}
@@ -56,15 +55,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 {% endfor %}
     <guid isPermaLink="{% if ep.podcast_guid %}false{% else %}true{% endif %}">{{ site.url }}{% if ep.podcast_guid %}/{{ ep.podcast_guid }}{% else %}{{ ep.url }}{% endif %}</guid>
     <description>
-        <![CDATA[{{ ep.excerpt | strip_html | truncatewords: 50 | expand_urls: site.url | cdata_escape }}]]>
+        {{ ep.podcast_description }}
     </description>
     <content:encoded>
-        <![CDATA[{{ ep.content | expand_urls: site.url | cdata_escape }}]]>
+        {{ ep.podcast_description }}
     </content:encoded>
 
     <enclosure url="{{ ep.podcast_link }}" length="{{ ep.podcast_length }}" type="audio/mpeg" />
-    <itunes:subtitle><![CDATA[{{ ep.excerpt | strip_html | truncatewords: 50 | expand_urls: site.url | cdata_escape }}]]></itunes:subtitle>
-    <itunes:summary><![CDATA[{{ ep.content | expand_urls: site.url | cdata_escape }}]]></itunes:summary>
+    <itunes:subtitle>{{ ep.podcast_subtitle }}</itunes:subtitle>
+    <itunes:summary>{{ ep.podcast_description }}</itunes:summary>
     <itunes:author>{{ site.podcast_author }}</itunes:author>
     <itunes:image href="{{ site.url }}{{ site.podcast_album_art }}" />
     <itunes:explicit>{{ site.podcast_explicit }}</itunes:explicit>
