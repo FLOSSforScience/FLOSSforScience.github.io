@@ -15,7 +15,7 @@ podcast_guid: 454393ac623ec4173b3a93c0bb2d943b2f81074979185bf8c4350cd9812c2677
 podcast_subtitle: Content and aims of the podcast.
 podcast_description: In this epsiode the two hosts David Brassard and Patrick Diehl of FLOSS for science introduce themself and the explain the aims of this podcast.
 ---
-In this epsiode the two hosts David Brassard and Patrick Diehl of FLOSS for science introduce themself and the explain the aims of this podcast. 
+In this episode the two hosts David Brassard and Patrick Diehl of FLOSS for science introduce themselves and they explain the aims of this podcast.
 
 Listen this episode here or add our [rss feed](http://localhost:4000/feed.xml) to your favourite podcast app:
 
