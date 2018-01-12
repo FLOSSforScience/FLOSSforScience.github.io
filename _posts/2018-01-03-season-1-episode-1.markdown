@@ -5,8 +5,8 @@ date: 2018-01-03 13:59:59
 author: Admin
 categories: podcast 
 #- blog 
-img: post01.jpg
-thumb: thumb01.jpg
+img: FFS001_header.png
+thumb: FFS001_thumb.png
 podcast_link: https://archive.org/download/FlossforscienceEp001-Introduction/FlossforscienceEp001-Introduction.mp3
 podcast_file_size: 5.0 MB
 podcast_duration: "10:48"
