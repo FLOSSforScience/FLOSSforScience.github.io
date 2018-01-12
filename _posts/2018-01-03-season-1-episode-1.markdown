@@ -7,7 +7,7 @@ categories: podcast
 #- blog 
 img: FFS001_header.png
 thumb: FFS001_thumb.png
-podcast_link: https://archive.org/download/FlossforscienceEp001-Introduction/FlossforscienceEp001-Introduction.mp3
+podcast_link: http://archive.org/download/FlossforscienceEp001-Introduction/FlossforscienceEp001-Introduction.mp3
 podcast_file_size: 5.0 MB
 podcast_duration: "10:48"
 podcast_length: 5220352
