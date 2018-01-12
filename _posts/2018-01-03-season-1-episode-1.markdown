@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "001: Introduction to the FLOSS for Science podcast"
-date: 2018-01-03 13:59:59
+date: 2018-01-12 13:59:59
 author: Admin
 categories: podcast 
 #- blog 
