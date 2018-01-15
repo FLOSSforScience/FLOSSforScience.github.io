@@ -3,9 +3,11 @@
 # Site settings
 title: FLOSS for Science
 description: "Podcasts about Free/Libre and Open Source Software (FLOSS) for Science"
-analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
 url: "https://flossforscience.github.io"
+
+# Google Analytics
+google_analytics: UA-112467064-1
 
 # Build settings
 markdown: kramdown
