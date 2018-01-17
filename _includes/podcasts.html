@@ -4,14 +4,8 @@
         <div class="recentitems portfolio">
             {% for post in site.posts limit:include.limit %}
                 <div class="portfolio-item graphic-design">
-                    <div class="he-wrap tpl6">
-                    <img src="{{ "//assets/img/blog/" | prepend: site.url }}{{ post.img }}" alt="">
-                        <div class="he-view">
-                            <div class="bg a0" data-animate="fadeIn">
-                                <h3 class="a1" data-animate="fadeInDown">{{ post.title }}</h3>
-                                <a href="{{  post.url | prepend: site.url }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
-                            </div><!-- he bg -->
-                        </div><!-- he view -->
+                    <div class="he-wrap tpl6" >
+                    <a href="{{  post.url | prepend: site.url }}" ><img src="{{ "//assets/img/blog/" | prepend: site.url }}{{ post.img }}" alt=""></a>
                     </div><!-- he wrap -->
                 </div><!-- end col-12 -->
             {% endfor %}
