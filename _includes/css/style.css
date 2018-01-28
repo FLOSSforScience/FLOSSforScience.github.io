@@ -269,7 +269,7 @@ a:focus {
 
 
 .portfolio-item .title:before {border-radius:0; display:none}
-.portfolio-item p {margin:0px 0 30px;}
+.portfolio-item p {margin:30px 0 30px;}
 .portfolio-item h3 {margin:-10px 0 10px; font-size:16px; text-transform:uppercase;}
 
 
