@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "002: Modeling composite materials fatigue with Python"
-date: 2018-02-07 00:00:00
+date: 2018-02-07 01:00:00
 author: Admin
 categories: podcast 
 #- blog 
