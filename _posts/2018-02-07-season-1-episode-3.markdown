@@ -19,7 +19,7 @@ podcast_subtitle: An interview with Oliver Kopp and Jörg Lenhard
 podcast_description: In Episode 3, we interview Oliver Kopp and Jörg Lenhard about the reference management tool Jabref.
 ---
 
-<iframe src="//player.blubrry.com/id/31221743/#time-0&darkOrLight-Light&shownotes-000000&shownotesBackground-f68a1d&download-ffffff&downloadBackground-384452&subscribe-000000&subscribeBackground-f68a1d&share-ffffff&shareBackground-384452" scrolling="no" width="100%" height="138px" frameborder="0"></iframe>
+<iframe src="//player.blubrry.com/id/32101725/#time-0&darkOrLight-Light&shownotes-000000&shownotesBackground-f68a1d&download-ffffff&downloadBackground-384452&subscribe-ffffff&subscribeBackground-f68a1d&share-ffffff&shareBackground-384452" scrolling="no" width="100%" height="138px" frameborder="0"></iframe>
 
 In Episode 3, we interview Oliver Kopp and Jörg Lenhard about Jabref:
 
