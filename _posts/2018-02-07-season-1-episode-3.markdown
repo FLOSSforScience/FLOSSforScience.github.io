@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "EP003 JabRef at JabCon"
-date: 2018-03-07 01:00:00
+date: 2018-03-07 00:00:00
 author: Admin
 categories: podcast 
 #- blog 
