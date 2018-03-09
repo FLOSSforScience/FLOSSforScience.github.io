@@ -3,8 +3,9 @@ layout: post
 title: "EP003 JabRef at JabCon"
 date: 2018-03-07 00:00:00
 author: Admin
-categories: podcast
-#- blog 
+categories: 
+ - developer 
+ - podcast
 img: FFS003_header.png
 thumb: FFS003_thumb.png
 podcast_link: http://media.blubrry.com/flossforscience/archive.org/download/Flossforscience-Ep003JabrefAtJabcon/FlossforscienceEp003.mp3
