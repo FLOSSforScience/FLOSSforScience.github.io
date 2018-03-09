@@ -3,7 +3,8 @@ layout: post
 title: "001: Introduction to the FLOSS for Science podcast"
 date: 2018-01-12 13:59:59
 author: Admin
-categories: podcast 
+categories: 
+ - podcast 
 #- blog 
 img: FFS001_header.png
 thumb: FFS001_thumb.png
