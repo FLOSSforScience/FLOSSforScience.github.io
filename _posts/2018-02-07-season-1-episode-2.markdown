@@ -4,8 +4,8 @@ title: "002: Modeling composite materials fatigue with Python"
 date: 2018-02-07 01:00:00
 author: Admin
 categories: 
- -podcast
- -user
+ - Podcast
+ - User
 #- blog 
 img: FFS002_header.png
 thumb: FFS002_thumb.png
