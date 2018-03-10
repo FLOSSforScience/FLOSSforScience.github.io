@@ -93,7 +93,7 @@ about: "Podcasts about Free/Libre and Open Source Software (FLOSS) for Science"
 podcast_url: https://flossforscience.github.io/
 podcast_album_art: https://raw.githubusercontent.com/FLOSSforScience/FLOSSforScience.github.io/master/assets/img/logo.png
 # podcast_album_art: /assets/img/logo.png
-podcast_title: Free and Libre Open Source Software for Science
+podcast_title: FLOSS for Science
 podcast_owner: FLOSSforScience
 podcast_email: flossforscience@gmail.com 
 podcast_category: Technology
