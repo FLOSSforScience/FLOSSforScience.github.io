@@ -46,8 +46,8 @@ social:
    - title: github
      url: https://github.com/FLOSSforScience
      name: FLOSSforscience
-#  - title: instagram
-#    url:
+   - title: rss
+     url: https://flossforscience.github.io/feed.xml 
 #  - title: tumblr
 #    url:
 
