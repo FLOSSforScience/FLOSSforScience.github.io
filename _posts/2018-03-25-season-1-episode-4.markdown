@@ -7,9 +7,9 @@ categories:
  - user
  - podcast
 #Image of the blog post
-img: FFS003_header.png
+img: FFS004_header.png
 #Thumbnail of the blog post
-thumb: FFS003_thumb.png
+thumb: FFS004_thumb.png
 #Link to the mp3 file of the episode
 podcast_link: http://media.blubrry.com/flossforscience/archive.org/download/Flossforscience-Ep003JabrefAtJabcon/FlossforscienceEp003.mp3
 #Link to the ogg file of the episode
