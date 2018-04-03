@@ -11,25 +11,25 @@ img: FFS004_header.png
 #Thumbnail of the blog post
 thumb: FFS004_thumb.png
 #Link to the mp3 file of the episode
-podcast_link: http://media.blubrry.com/flossforscience/archive.org/download/Flossforscience-Ep003JabrefAtJabcon/FlossforscienceEp003.mp3
+podcast_link: http://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP004/FLOSSforscience%20EP%20004.mp3
 #Link to the ogg file of the episode
-podcast_link_ogg: http://media.blubrry.com/flossforscience/archive.org/download/Flossforscience-Ep003JabrefAtJabcon/FlossforscienceEp003.ogg
+podcast_link_ogg: http://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP004/FLOSSforscience%20EP%20004.ogg
 #File size in MB of the mp3 file
-podcast_file_size: 18.5 MB
+podcast_file_size: 19.2 MB
 #File size in MB of the ogg file
-podcast_file_size_ogg: 15.4 MB
+podcast_file_size_ogg: 17.8 MB
 #Length of the episode in minutes (is the same for ogg and mp3)
-podcast_duration: "39:56"
+podcast_duration: "39:46"
 #File size in bytes of the mp3 file
-podcast_length: 19376128
+podcast_length: 19212188
 #File size in bytes of the ogg file
-podcast_length_ogg: 16166766
-#Unique id of the mp3 file (sha255)
-podcast_guid: 484fa7cf99b4c64e8f169743dca41b59cf621def
+podcast_length_ogg: 17821879
+#Unique id of the mp3 file (sha256)
+podcast_guid: a6e6624d95f6c9d7ca3f8687f467bb703e4e92ec6c0414dc6fb849850f302292
 #Subtitle of the episode 
 podcast_subtitle: An interview with Carl Boettinger
 #Description of the podcast
-podcast_description: In Episode 4, we interviewed Carl Boettinger about Rocker a combination of R and Docker
+podcast_description: In Episode 4, we interview Carl Boettinger, Assistant Professor in the Department of Environmental Science, Policy and Management at UC Berkeley. He introduces us to his work on ecological forecasting and decision making under uncertainty, with applications for global change, conservation and natural resource management. He presents to us the Rocker project and how it helps scientists produce reproducible science. Finally, we discuss with him about his view regarding FLOSS in science.
 ---
 
 <iframe src="//player.blubrry.com/id/32101725/#time-0&darkOrLight-Light&shownotes-000000&shownotesBackground-f68a1d&download-ffffff&downloadBackground-384452&subscribe-ffffff&subscribeBackground-f68a1d&share-ffffff&shareBackground-384452" scrolling="no" width="100%" height="138px" frameborder="0"></iframe>
