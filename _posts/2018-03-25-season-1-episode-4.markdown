@@ -32,6 +32,8 @@ podcast_subtitle: An interview with Carl Boettinger
 podcast_description: In Episode 4, we interview Carl Boettinger, Assistant Professor in the Department of Environmental Science, Policy and Management at UC Berkeley. He introduces us to his work on ecological forecasting and decision making under uncertainty, with applications for global change, conservation and natural resource management. He presents to us the Rocker project and how it helps scientists produce reproducible science. Finally, we discuss with him about his view regarding FLOSS in science.
 ---
 
+<iframe src="//player.blubrry.com/id/32908358/#time-0&darkOrLight-Light&shownotes-000000&shownotesBackground-f68a1d&download-ffffff&downloadBackground-384452&subscribe-ffffff&subscribeBackground-f68a1d&share-ffffff&shareBackground-384452" scrolling="no" width="100%" height="138px" frameborder="0"></iframe>
+
 In Episode 4, we interviewed Carl Boettinger about Rocker:
 
 [Rocker](https://rocker-project.org) is an open source community project providing Docker containers for R users.  Rocker containers help users to easily share and deploy customized and reproducible R environments on local and remote machines.  Rocker images have been downloaded over three million times and are maintained by [Carl Boettiger](https://twitter.com/cboettig) & [Dirk Eddelbuettel](https://twitter.com/eddelbuettel) with many contributions from the user community.
@@ -47,4 +49,4 @@ Links:
 
 Listen to this episode here or add our [rss feed](https://flossforscience.github.io/feed.xml) to your favourite podcast application. 
 
-You can download this episode as [MP3](http://media.blubrry.com/flossforscience/archive.org/download/Flossforscience-Ep003JabrefAtJabcon/FlossforscienceEp003.mp3) or [OGG](http://media.blubrry.com/flossforscience/archive.org/download/Flossforscience-Ep003JabrefAtJabcon/FlossforscienceEp003.ogg). 
+You can download this episode as [MP3](http://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP004/FLOSSforscience%20EP%20004.mp3) or [OGG](http://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP004/FLOSSforscience%20EP%20004.ogg). 
