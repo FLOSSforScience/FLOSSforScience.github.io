@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "004 Rocker"
+title: "EP004 Reproducible science with Rocker"
 date: 2018-04-03 00:00:00
 author: Admin
 categories: 
@@ -36,11 +36,11 @@ podcast_description: In Episode 4, we interviewed Carl Boettinger about Rocker a
 
 In Episode 4, we interviewed Carl Boettinger about Rocker:
 
-[Rocker](https://rocker-project.org) is an open source community project providing Docker containers for R users.  Rocker containers help users easily share and deploy customized and reproducible R environments on local and remote machines.  Rocker images have been downloaded over three million times and are maintained by [Carl Boettiger](https://twitter.com/cboettig) & [Dirk Eddelbuettel](https://twitter.com/eddelbuettel) with many contributions from the user community.
+[Rocker](https://rocker-project.org) is an open source community project providing Docker containers for R users.  Rocker containers help users to easily share and deploy customized and reproducible R environments on local and remote machines.  Rocker images have been downloaded over three million times and are maintained by [Carl Boettiger](https://twitter.com/cboettig) & [Dirk Eddelbuettel](https://twitter.com/eddelbuettel) with many contributions from the user community.
 
 About Carl Boettinger: 
 
-He is a Assistant Professor in the Department of Environmental Science, Policy and Management at UC Berkeley. He works on problems in ecological forecasting and decision making under uncertainty, with applications for global change, conservation and natural resource management. I am particularly interested in how we can predict or manage ecological systems that may experience regime shifts: sudden and dramatic changes that challenge both our models and available data. The rapid expansion in both computational power and the available ecological and environmental data enables and requires new mathematical, statistical and computational approaches to these questions. Ecology has much to learn about what are and are not useful from advances in informatics & computer science, just as it has from statistics and mathematics. Traditional approaches to ecological modeling and resource management such as stochastic dynamic systems, Bayesian inference, and optimal control theory must be adapted both to take advantage of all available data while also dealing with its imperfections. My approach blends ecological theory with the synthesis of heterogeneous data and the development of software -- a combination now recognized as data science.
+Carl Boettinger is an Assistant Professor in the Department of Environmental Science, Policy and Management at UC Berkeley. He works on problems in ecological forecasting and decision making under uncertainty, with applications for global change, conservation and natural resource management. He is particularly interested in how we can predict or manage ecological systems that may experience regime shifts: sudden and dramatic changes that challenge both our models and available data. The rapid expansion in both computational power and the available ecological and environmental data enables and requires new mathematical, statistical and computational approaches to these questions. Ecology has much to learn about what are and are not useful from advances in informatics & computer science, just as it has from statistics and mathematics. Traditional approaches to ecological modeling and resource management such as stochastic dynamic systems, Bayesian inference, and optimal control theory must be adapted both to take advantage of all available data while also dealing with its imperfections. His approach blends ecological theory with the synthesis of heterogeneous data and the development of software -- a combination now recognized as data science.
 
 Links:
 * [An Introduction to Rocker: Docker Containers for R](https://arxiv.org/abs/1710.03675)
