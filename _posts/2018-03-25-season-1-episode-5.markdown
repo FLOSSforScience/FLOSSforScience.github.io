@@ -4,7 +4,7 @@ title: "EP005 LibreOffice the Swiss Army Knife of Science?"
 date: 2018-05-02 00:00:00
 author: Admin
 categories: 
- - user
+ - developer
  - podcast
 #Image of the blog post
 img: FFS005_header.png
