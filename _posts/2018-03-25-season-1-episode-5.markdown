@@ -42,4 +42,6 @@ Katarina started working on LibreOffice in 2010 as a member of SUSE LibreOffice 
 
 Listen to this episode here or add our [rss feed](https://flossforscience.github.io/feed.xml) to your favourite podcast application. 
 
+For the definition of Denkmalschutz, you can consult this [link](https://dictionary.cambridge.org/dictionary/german-english/denkmalschutz)
+
 You can download this episode as [MP3](http://media.blubrry.com/flossforscience/archive.org/download/Flossforscience-Ep003JabrefAtJabcon/FlossforscienceEp003.mp3) or [OGG](http://media.blubrry.com/flossforscience/archive.org/download/Flossforscience-Ep003JabrefAtJabcon/FlossforscienceEp003.ogg). 
