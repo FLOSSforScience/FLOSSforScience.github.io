@@ -39,6 +39,19 @@ In Episode 5, we interviewed Katarina Behrens about Libre Office:
 
 About Katarina Behrens: 
 
+Katarina Behrens (aka Bubli) is one of LibreOffice core developers.
+
+She got involved with free and open-source software more than a decade ago, 
+contributing l10n to Debian project. Employed by SUSE later, she worked on 
+YaST, openSUSE's installation and configuration tool and in 2010, she became  
+member of SUSE LibreOffice team. 
+
+After a brief intermezzo in computer security business, she was hired by CIB 
+(a German company delivering document management systems) in 2015 to 
+work on LibreOffice full-time again. Apart from squashing LibreOffice bugs 
+that disturb CIB customers' good night's sleep, she engages in mentoring 
+(Google Summer of Code) and finds seeing her mentees succeed to be an 
+ultimately rewarding experience.
 
 Listen to this episode here or add our [rss feed](https://flossforscience.github.io/feed.xml) to your favourite podcast application. 
 
