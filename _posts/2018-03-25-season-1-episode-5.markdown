@@ -32,6 +32,8 @@ podcast_subtitle: An interview with Katarina Behrens
 podcast_description: In Episode 5, we interview Katarina Behrens, a consultant and software developpers of LibreOffice, LibreOffice extensions and related libraries working at CIB Group of Companies. We discuss her involvment with The Document Foundation, the capabilities of the LibreOffice suite and why an open source office suite is relevant for scientists.
 ---
 
+<iframe src="//player.blubrry.com/id/33666800/#time-0&darkOrLight-Light&shownotes-000000&shownotesBackground-f68a1d&download-ffffff&downloadBackground-384452&subscribe-ffffff&subscribeBackground-f68a1d&share-ffffff&shareBackground-384452" scrolling="no" width="100%" height="138px" frameborder="0"></iframe>
+
 In Episode 5, we interview Katarina Behrens, a consultant and software developpers of LibreOffice, LibreOffice extensions and related libraries working at CIB Group of Companies. We discuss her involvment with The Document Foundation, the capabilities of the LibreOffice suite and why an open source office suite is relevant for scientists.
 
 About Katarina Behrens: 
