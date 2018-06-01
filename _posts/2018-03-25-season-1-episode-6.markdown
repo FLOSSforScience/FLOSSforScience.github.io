@@ -40,8 +40,10 @@ In Episode 6, we interviewed  Christian Horea about the [NeuroGentoo Overlay](ht
 
 
 About Christian Horea: 
+[GitHub](https://github.com/TheChymera/)
 [@TheChymera on Twitter](https://twitter.com/TheChymera)
-[ResearchGate Profile](https://www.researchgate.net/profile/Horea_Christian)
+[ResearchGate](https://www.researchgate.net/profile/Horea_Christian)
+[LinkedIn](https://www.linkedin.com/in/horeachristian/)
 [Even more links at http://www.chymera.eu/](http://www.chymera.eu/)
 
 Listen to this episode here or add our [rss feed](https://flossforscience.github.io/feed.xml) to your favourite podcast application. 
