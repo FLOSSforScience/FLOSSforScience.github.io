@@ -11,9 +11,9 @@ img: FFS006_header.png
 #Thumbnail of the blog post
 thumb: FFS006_thumb.png
 #Link to the mp3 file of the episode
-podcast_link: http://media.blubrry.com/flossforscience/https://archive.org/download/FlossforscienceEp006-GentooLinuxForNeurosciences/FlossforscienceEp006.mp3
+podcast_link: http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp006-GentooLinuxForNeurosciences/FlossforscienceEp006.mp3
 #Link to the ogg file of the episode
-podcast_link_ogg: http://media.blubrry.com/flossforscience/https://archive.org/download/FlossforscienceEp006-GentooLinuxForNeurosciences/FlossforscienceEp006.ogg
+podcast_link_ogg: http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp006-GentooLinuxForNeurosciences/FlossforscienceEp006.ogg
 #File size in MB of the mp3 file
 podcast_file_size: 28.2 MB
 #File size in MB of the ogg file
