@@ -60,11 +60,16 @@ uniquely) makes tackling these challenges possible.
 
 Fore more details, we refer to his social media: 
 
-[GitHub](https://github.com/TheChymera/)
-[@TheChymera on Twitter](https://twitter.com/TheChymera)
-[ResearchGate](https://www.researchgate.net/profile/Horea_Christian)
-[LinkedIn](https://www.linkedin.com/in/horeachristian/)
-[Even more links at http://www.chymera.eu/](http://www.chymera.eu/)
+* [GitHub](https://github.com/TheChymera/)
+* [@TheChymera on Twitter](https://twitter.com/TheChymera)
+* [ResearchGate](https://www.researchgate.net/profile/Horea_Christian)
+* [LinkedIn](https://www.linkedin.com/in/horeachristian/)
+* [Even more links at http://www.chymera.eu/](http://www.chymera.eu/)
+
+Links:
+
+* [NeuroGentoo Overlay @ github](https://github.com/TheChymera/neurogentoo)
+* Christian, Horea & Saab, Bechara & Rudin, Markus. (2017). Gentoo Linux for Neuroscience - a replicable, flexible, scalable, rolling-release environment that provides direct access to development software. Research Ideas and Outcomes. 3. e12095. [10.3897/rio.3.e12095](https://doi.org/10.3897/rio.3.e12095). 
 
 Listen to this episode here or add our [rss feed](https://flossforscience.github.io/feed.xml) to your favourite podcast application. 
 
