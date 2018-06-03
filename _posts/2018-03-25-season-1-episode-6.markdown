@@ -37,23 +37,28 @@ podcast_description: In episode 6, we talk with Christian Horea about Gentoo Lin
 In Episode 6, we interviewed  Christian Horea about the [NeuroGentoo Overlay](https://github.com/TheChymera/neurogentoo) for Gentoo Linux which includes specific packages for Neuroscience. With this distribution many of the challenges in neuroscience software management; including: system replicability, system documentation, data analysis reproducibility, fine-grained dependency management, easy control over compilation options, and seamless access to cutting-edge software releases, are addresed. Fore more details we refer to his publication: [Gentoo Linux for Neuroscience - a replicable, flexible, scalable, rolling-release environment that provides direct access to development software](https://riojournal.com/article/12095/). 
 
 
-
-
 About Christian Horea: 
 
-Neuroscientist by day, neuroscientist by night. Coding happens
-concurrently, sleep sporadically. I don't know when I first noticed
-that the mind is notoriously hard to control and predict - but I've
-wanted to control and predict it ever since. The journey has been
-winding and it has always involved drugs and neuroimaging. I became a
-coder without ever wanting or realizing it, and could never imagine not
-being one. To help me comprehend the uncomprehended, I decided to use
-the computer as an extension of my mind, and as such it needs to
-execute on thoughts which are just as transparent, shareable, and
-reproducible as all the rest of them. I call these thoughts Free and
-Open Source Scientific Software. In fact, with my ongoing work on
-software management, these may just end up becoming some of my
-clearest, most easily shared, and best documented thoughts.  
+Horea Christian is a Doctoral Researcher at the ETH Zurich, where he
+studies the ability of psychotropic drugs to modulate brain function in
+healthy animals. He has previously engaged in research at the
+University of Heidelberg, University of Oxford, Max Planck Institute
+for Medical Research, University of Oldenburg, and the Sechenov
+Institute of Evolutionary Physiology and Biochemistry of the Russian
+Academy of Sciences. His work has spanned the gamut of neuroscience
+from electrophysiology and molecular biology all the way to
+experimental psychology — and includes an extensive excursion into the
+world of Linux, Python, and software management. He has written many
+Free and Open Source Software packages for data analysis, metadata and
+lab book management, reproducible self-publishing, and data repositing.
+We join him on part of this exciting journey, to learn about an
+initiative he started — NeuroGentoo — and how he sees Free and Open
+Source Software, freedom in choosing and picking such software, and
+transparency in the choices having been made, as instrumental to the
+neuroscience of the present and future, and how Gentoo Linux (perhaps
+uniquely) makes tackling these challenges possible.
+
+Fore more details, we refer to his social media: 
 
 [GitHub](https://github.com/TheChymera/)
 [@TheChymera on Twitter](https://twitter.com/TheChymera)
