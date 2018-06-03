@@ -40,6 +40,21 @@ In Episode 6, we interviewed  Christian Horea about the [NeuroGentoo Overlay](ht
 
 
 About Christian Horea: 
+
+Neuroscientist by day, neuroscientist by night. Coding happens
+concurrently, sleep sporadically. I don't know when I first noticed
+that the mind is notoriously hard to control and predict - but I've
+wanted to control and predict it ever since. The journey has been
+winding and it has always involved drugs and neuroimaging. I became a
+coder without ever wanting or realizing it, and could never imagine not
+being one. To help me comprehend the uncomprehended, I decided to use
+the computer as an extension of my mind, and as such it needs to
+execute on thoughts which are just as transparent, shareable, and
+reproducible as all the rest of them. I call these thoughts Free and
+Open Source Scientific Software. In fact, with my ongoing work on
+software management, these may just end up becoming some of my
+clearest, most easily shared, and best documented thoughts.  
+
 [GitHub](https://github.com/TheChymera/)
 [@TheChymera on Twitter](https://twitter.com/TheChymera)
 [ResearchGate](https://www.researchgate.net/profile/Horea_Christian)
@@ -48,4 +63,4 @@ About Christian Horea:
 
 Listen to this episode here or add our [rss feed](https://flossforscience.github.io/feed.xml) to your favourite podcast application. 
 
-You can download this episode as [MP3](http://media.blubrry.com/flossforscience/archive.org/download/Flossforscience-Ep003JabrefAtJabcon/FlossforscienceEp003.mp3) or [OGG](http://media.blubrry.com/flossforscience/archive.org/download/Flossforscience-Ep003JabrefAtJabcon/FlossforscienceEp003.ogg). 
+You can download this episode as [MP3](http://media.blubrry.com/flossforscience/archive.org/download/Flossforscience-Ep003JabrefAtJabcon/FlossforscienceEp003.mp3) or [OGG](http://media.blubrry.com/flossforscience/archive.org/download/Flossforscience-Ep003JabrefAtJabcon/FlossforscienceEp003.ogg). In addition, you can listen to the unedited recoring of this interview [here](http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp006-GentooLinuxForNeurosciences/Flossforscience_ep006_raw_unedited_not_for_distribution.mp3).
