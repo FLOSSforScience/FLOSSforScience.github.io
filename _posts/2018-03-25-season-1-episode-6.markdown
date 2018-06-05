@@ -4,7 +4,7 @@ title: "006 Gentoo Linux for Neurosciences"
 date: 2018-06-06 00:00:00
 author: Admin
 categories: 
- - user
+ - developer
  - podcast
 #Image of the blog post
 img: FFS006_header.png
