@@ -37,7 +37,7 @@ podcast_description: |
   Christian Horeais a Doctoral Researcher at the ETH Zurich, where he studies the ability of psychotropic drugs to modulate brain function in healthy animals. He has previously engaged in research at the University of Heidelberg, University of Oxford, Max Planck Institute for Medical Research, University of Oldenburg, and the Sechenov Institute of Evolutionary Physiology and Biochemistry of the Russian Academy of Sciences. His work has spanned the gamut of neuroscience from electrophysiology and molecular biology all the way to experimental psychology — and includes an extensive excursion into the world of Linux, Python, and software management. He has written many Free and Open Source Software packages for data analysis, metadata and lab book management, reproducible self-publishing, and data repositing. We join him on part of this exciting journey, to learn about an initiative he started — NeuroGentoo — and how he sees Free and Open Source Software, freedom in choosing and picking such software, and transparency in the choices having been made, as instrumental to the neuroscience of the present and future, and how Gentoo Linux (perhaps uniquely) makes tackling these challenges possible.
 ---
 
-
+<iframe src="//player.blubrry.com/id/34550566/#time-0&darkOrLight-Light&shownotes-000000&shownotesBackground-f68a1d&download-ffffff&downloadBackground-384452&subscribe-ffffff&subscribeBackground-f68a1d&share-ffffff&shareBackground-384452" scrolling="no" width="100%" height="138px" frameborder="0"></iframe>
 
 # Outline
 
