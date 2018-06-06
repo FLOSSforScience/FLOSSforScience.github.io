@@ -52,12 +52,12 @@ podcast_description: |
 
 
 
-#Outline
+# Outline
 
 In Episode 6, we interviewed  Christian Horea about the [NeuroGentoo Overlay](https://github.com/TheChymera/neurogentoo) for Gentoo Linux which includes specific packages for Neuroscience. With this distribution many of the challenges in neuroscience software management; including: system replicability, system documentation, data analysis reproducibility, fine-grained dependency management, easy control over compilation options, and seamless access to cutting-edge software releases, are addresed. Fore more details we refer to his publication: [Gentoo Linux for Neuroscience - a replicable, flexible, scalable, rolling-release environment that provides direct access to development software](https://riojournal.com/article/12095/). 
 
 
-#About Christian Horea: 
+# About Christian Horea: 
 
 Christian Horeais a Doctoral Researcher at the ETH Zurich, where he
 studies the ability of psychotropic drugs to modulate brain function in
@@ -87,7 +87,7 @@ For more details, we refer to his social media:
 * [Even more links at http://www.chymera.eu/](http://www.chymera.eu/)
 
 
-#Links:
+# Links:
 
 * [NeuroGentoo Overlay @ github](https://github.com/TheChymera/neurogentoo)
 * Christian, Horea & Saab, Bechara & Rudin, Markus. (2017). Gentoo Linux for Neuroscience - a replicable, flexible, scalable, rolling-release environment that provides direct access to development software. Research Ideas and Outcomes. 3. e12095. [10.3897/rio.3.e12095](https://doi.org/10.3897/rio.3.e12095). 
