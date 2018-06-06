@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "006 Gentoo Linux for Neurosciences"
+title: "EP006 Gentoo Linux for Neurosciences"
 date: 2018-06-06 00:00:00
 author: Admin
 categories: 
