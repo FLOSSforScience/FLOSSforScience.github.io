@@ -50,7 +50,6 @@ podcast_description: |
   * Christian, Horea & Saab, Bechara & Rudin, Markus. (2017). Gentoo Linux for Neuroscience - a replicable, flexible, scalable, rolling-release environment that provides direct access to development software. Research Ideas and Outcomes. 3. e12095. [10.3897/rio.3.e12095](https://doi.org/10.3897/rio.3.e12095). 
 ---
 
-<iframe src="//player.blubrry.com/id/32101725/#time-0&darkOrLight-Light&shownotes-000000&shownotesBackground-f68a1d&download-ffffff&downloadBackground-384452&subscribe-ffffff&subscribeBackground-f68a1d&share-ffffff&shareBackground-384452" scrolling="no" width="100%" height="138px" frameborder="0"></iframe>
 
 
 #Outline
