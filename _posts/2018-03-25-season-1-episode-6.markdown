@@ -35,19 +35,6 @@ podcast_description: |
   About Christian Horea: 
   
   Christian Horeais a Doctoral Researcher at the ETH Zurich, where he studies the ability of psychotropic drugs to modulate brain function in healthy animals. He has previously engaged in research at the University of Heidelberg, University of Oxford, Max Planck Institute for Medical Research, University of Oldenburg, and the Sechenov Institute of Evolutionary Physiology and Biochemistry of the Russian Academy of Sciences. His work has spanned the gamut of neuroscience from electrophysiology and molecular biology all the way to experimental psychology — and includes an extensive excursion into the world of Linux, Python, and software management. He has written many Free and Open Source Software packages for data analysis, metadata and lab book management, reproducible self-publishing, and data repositing. We join him on part of this exciting journey, to learn about an initiative he started — NeuroGentoo — and how he sees Free and Open Source Software, freedom in choosing and picking such software, and transparency in the choices having been made, as instrumental to the neuroscience of the present and future, and how Gentoo Linux (perhaps uniquely) makes tackling these challenges possible.
-  
-  For more details, we refer to his social media: 
- 
-  * [GitHub](https://github.com/TheChymera/)
-  * [@TheChymera on Twitter](https://twitter.com/TheChymera)
-  * [ResearchGate](https://www.researchgate.net/profile/Horea_Christian)
-  * [LinkedIn](https://www.linkedin.com/in/horeachristian/)
-  * [Even more links at http://www.chymera.eu/](http://www.chymera.eu/)
-  
-  Links:
-  
-  * [NeuroGentoo Overlay @ github](https://github.com/TheChymera/neurogentoo)
-  * Christian, Horea & Saab, Bechara & Rudin, Markus. (2017). Gentoo Linux for Neuroscience - a replicable, flexible, scalable, rolling-release environment that provides direct access to development software. Research Ideas and Outcomes. 3. e12095. [10.3897/rio.3.e12095](https://doi.org/10.3897/rio.3.e12095). 
 ---
 
 
