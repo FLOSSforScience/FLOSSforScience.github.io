@@ -37,7 +37,11 @@ podcast_description: |
   Christian Horeais a Doctoral Researcher at the ETH Zurich, where he studies the ability of psychotropic drugs to modulate brain function in healthy animals. He has previously engaged in research at the University of Heidelberg, University of Oxford, Max Planck Institute for Medical Research, University of Oldenburg, and the Sechenov Institute of Evolutionary Physiology and Biochemistry of the Russian Academy of Sciences. His work has spanned the gamut of neuroscience from electrophysiology and molecular biology all the way to experimental psychology — and includes an extensive excursion into the world of Linux, Python, and software management. He has written many Free and Open Source Software packages for data analysis, metadata and lab book management, reproducible self-publishing, and data repositing. We join him on part of this exciting journey, to learn about an initiative he started — NeuroGentoo — and how he sees Free and Open Source Software, freedom in choosing and picking such software, and transparency in the choices having been made, as instrumental to the neuroscience of the present and future, and how Gentoo Linux (perhaps uniquely) makes tackling these challenges possible.
 ---
 
-<iframe src="//player.blubrry.com/id/34550566/#time-0&darkOrLight-Light&shownotes-000000&shownotesBackground-f68a1d&download-ffffff&downloadBackground-384452&subscribe-ffffff&subscribeBackground-f68a1d&share-ffffff&shareBackground-384452" scrolling="no" width="100%" height="138px" frameborder="0"></iframe>
+<audio controls>
+  <source src="https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp006-GentooLinuxForNeurosciences/FlossforscienceEp006.ogg" type="audio/ogg">
+  <source src="https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp006-GentooLinuxForNeurosciences/FlossforscienceEp006.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 # Outline
 
@@ -81,4 +85,4 @@ For more details, we refer to his social media:
 
 Listen to this episode here or add our [rss feed](https://flossforscience.github.io/feed.xml) to your favourite podcast application. 
 
-You can download this episode as [MP3](http://media.blubrry.com/flossforscience/archive.org/download/Flossforscience-Ep003JabrefAtJabcon/FlossforscienceEp003.mp3) or [OGG](http://media.blubrry.com/flossforscience/archive.org/download/Flossforscience-Ep003JabrefAtJabcon/FlossforscienceEp003.ogg). In addition, you can listen to the unedited recoring of this interview [here](http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp006-GentooLinuxForNeurosciences/Flossforscience_ep006_raw_unedited_not_for_distribution.mp3).
+You can download this episode as [MP3](https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp006-GentooLinuxForNeurosciences/FlossforscienceEp006.mp3) or [OGG](https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp006-GentooLinuxForNeurosciences/FlossforscienceEp006.ogg). In addition, you can listen to the unedited recoring of this interview [here](https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp006-GentooLinuxForNeurosciences/Flossforscience_ep006_raw_unedited_not_for_distribution.mp3).
