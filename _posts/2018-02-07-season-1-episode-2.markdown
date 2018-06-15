@@ -22,8 +22,8 @@ podcast_description: In Episode 2, we interview Laurent Cormier, a research asso
 ---
 
 <audio controls>
-  <source src="http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp002-ModelingCompositeMaterialsFatigueWithPython/FlossforscienceEp002.ogg" type="audio/ogg">
-  <source src="http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp002-ModelingCompositeMaterialsFatigueWithPython/FlossforscienceEp002.mp3" type="audio/mpeg">
+  <source src="https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp002-ModelingCompositeMaterialsFatigueWithPython/FlossforscienceEp002.ogg" type="audio/ogg">
+  <source src="https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp002-ModelingCompositeMaterialsFatigueWithPython/FlossforscienceEp002.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -39,4 +39,4 @@ He also has a strong interest in Science, its methods, its philosophy and the tr
 
 Listen to this episode here or add our [rss feed](https://flossforscience.github.io/feed.xml) to your favourite podcast application. 
 
-You can download this episode as [MP3](http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp002-ModelingCompositeMaterialsFatigueWithPython/FlossforscienceEp002.mp3) or [OGG](http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp002-ModelingCompositeMaterialsFatigueWithPython/FlossforscienceEp002.ogg). 
+You can download this episode as [MP3](https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp002-ModelingCompositeMaterialsFatigueWithPython/FlossforscienceEp002.mp3) or [OGG](https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp002-ModelingCompositeMaterialsFatigueWithPython/FlossforscienceEp002.ogg). 
