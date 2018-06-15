@@ -32,7 +32,11 @@ podcast_subtitle: An interview with Carl Boettinger
 podcast_description: In Episode 4, we interview Carl Boettinger, Assistant Professor in the Department of Environmental Science, Policy and Management at UC Berkeley. He introduces us to his work on ecological forecasting and decision making under uncertainty, with applications for global change, conservation and natural resource management. He presents to us the Rocker project and how it helps scientists produce reproducible science. Finally, we discuss with him about his view regarding FLOSS in science.
 ---
 
-<iframe src="//player.blubrry.com/id/32908358/#time-0&darkOrLight-Light&shownotes-000000&shownotesBackground-f68a1d&download-ffffff&downloadBackground-384452&subscribe-ffffff&subscribeBackground-f68a1d&share-ffffff&shareBackground-384452" scrolling="no" width="100%" height="138px" frameborder="0"></iframe>
+<audio controls>
+  <source src="https://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP004/FLOSSforscience%20EP%20004.ogg" type="audio/ogg">
+  <source src="https://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP004/FLOSSforscience%20EP%20004.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 # Outline
 
@@ -51,4 +55,4 @@ Carl Boettinger is an Assistant Professor in the Department of Environmental Sci
 
 Listen to this episode here or add our [rss feed](https://flossforscience.github.io/feed.xml) to your favourite podcast application. 
 
-You can download this episode as [MP3](http://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP004/FLOSSforscience%20EP%20004.mp3) or [OGG](http://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP004/FLOSSforscience%20EP%20004.ogg). 
+You can download this episode as [MP3](https://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP004/FLOSSforscience%20EP%20004.mp3) or [OGG](https://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP004/FLOSSforscience%20EP%20004.ogg). 

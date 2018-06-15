@@ -32,7 +32,11 @@ podcast_subtitle: An interview with Katarina Behrens
 podcast_description: In Episode 5, we interview Katarina Behrens, a consultant and software developpers of LibreOffice, LibreOffice extensions and related libraries working at CIB Group of Companies. We discuss her involvment with The Document Foundation, the capabilities of the LibreOffice suite and why an open source office suite is relevant for scientists.
 ---
 
-<iframe src="//player.blubrry.com/id/33666800/#time-0&darkOrLight-Light&shownotes-000000&shownotesBackground-f68a1d&download-ffffff&downloadBackground-384452&subscribe-ffffff&subscribeBackground-f68a1d&share-ffffff&shareBackground-384452" scrolling="no" width="100%" height="138px" frameborder="0"></iframe>
+<audio controls>
+  <source src="https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp005-LibreofficeTheSwissArmyKnifeOfScience/FLOSSforscience_EP005.ogg" type="audio/ogg">
+  <source src="https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp005-LibreofficeTheSwissArmyKnifeOfScience/FLOSSforscience_EP005.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 # Outline
 
@@ -62,4 +66,4 @@ Listen to this episode here or add our [rss feed](https://flossforscience.github
 
 For the definition of Denkmalschutz, you can consult this [link](https://dictionary.cambridge.org/dictionary/german-english/denkmalschutz)
 
-You can download this episode as [MP3](http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp005-LibreofficeTheSwissArmyKnifeOfScience/FLOSSforscience_EP005.mp3) or [OGG](http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp005-LibreofficeTheSwissArmyKnifeOfScience/FLOSSforscience_EP005.ogg). 
+You can download this episode as [MP3](https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp005-LibreofficeTheSwissArmyKnifeOfScience/FLOSSforscience_EP005.mp3) or [OGG](https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp005-LibreofficeTheSwissArmyKnifeOfScience/FLOSSforscience_EP005.ogg). 
