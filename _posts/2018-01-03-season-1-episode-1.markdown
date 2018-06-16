@@ -8,7 +8,7 @@ categories:
 #- blog 
 img: FFS001_header.png
 thumb: FFS001_thumb.png
-podcast_link: http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp001-Introduction/FlossforscienceEp001-Introduction.mp3
+podcast_link: https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp001-Introduction/FlossforscienceEp001-Introduction.mp3
 podcast_link_ogg: https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp001-Introduction/FlossforscienceEp001-Introduction.ogg
 podcast_file_size: 5.0 MB
 podcast_file_size_ogg: 3.9 MB
