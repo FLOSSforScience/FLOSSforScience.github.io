@@ -34,14 +34,20 @@ podcast_description: In Episode 7, we interviewed Christian Horea about Gentoo L
 
 <iframe src="//player.blubrry.com/id/32101725/#time-0&darkOrLight-Light&shownotes-000000&shownotesBackground-f68a1d&download-ffffff&downloadBackground-384452&subscribe-ffffff&subscribeBackground-f68a1d&share-ffffff&shareBackground-384452" scrolling="no" width="100%" height="138px" frameborder="0"></iframe>
 
-In Episode 7, we interviewed Christian Horea about Gentoo Linux for Neuroscience:
+In Episode 7, we interviewed Karl Fogel and James Vasile about Chaper 9: Legal Matters: Licenses, Copyrights, Trademarks and Patents of Karl's book: Producing Open Source Software - How to Run a Successful Free Software Project. Chossing a license for ones open source project is essentiell and we discussed why one should ship their scientific open source code with an license. In addittion, we talked about the implications of providing an license. Another apsect was open source license compatibilty for the integration of libraries to an existing project.
+
+In this epsiode we focused on a general overview about licenses, implications of choosing a license, and the legal aspects of licenses.  
 
 
-About Christian Horea: 
+# About Karl Fogel:
 
-Links:
-* [Gentoo Linux for Neuroscience - a replicable, flexible, scalable, rolling-release environment that provides direct access to development software](https://riojournal.com/article/12095/)
-* [Neurogentoo](https://github.com/TheChymera/neurogentoo)
+# About James Vasile:
+
+
+# Links:
+* Fogel, K. (2005). Producing open source software: How to run a successful free software project. " O'Reilly Media, Inc.". [Link](https://producingoss.com/)
+* Short notice: Some Common Issues in Open Source Licensing. [Link](http://opentechstrategies.com/files/pub/oss-licensing-issues.pdf) 
+* More resources about starting and managing open source projects. [Link](https://opentechstrategies.com/#resources)
 
 
 Listen to this episode here or add our [rss feed](https://flossforscience.github.io/feed.xml) to your favourite podcast application. 
