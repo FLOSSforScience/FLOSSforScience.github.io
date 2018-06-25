@@ -41,6 +41,8 @@ In this epsiode we focused on a general overview about licenses, implications of
 
 # About Karl Fogel:
 
+Karl Fogel is an open source software developer, author, and consultant. In 2005 he wrote "Producing Open Source Software: How to Run a Successful Free Software Project" (O'Reilly Media, online at [producingoss.com](http://producingoss.com/), based partly on his experiences in the [Subversion](http://subversion.apache.org/) project. He has worked at [CollabNet](http://collab.net/), [Google](http://google.com/), [Canonical](http://canonical.com/), [O'Reilly Media](http://oreilly.com/), and [Code for America](http://codeforamerica.org/) / [Civic Commons](http://civiccommons.org), all as an open source specialist. He is now a partner at [Open Tech Strategies, LLC](http://opentechstrategies.com/), where he helps organizations launch and engage with open source projects. He is also an [Open Internet Tools Project Fellow](http://openitp.org/) at the [New America Foundation](http://newamerica.net/), a former member of the board of directors of the [Open Source Initative](http://opensource.org/), and a member of the [Apache Software Foundation](http://apache.org/). He is @kfogel on [Identi.ca](http://identi.ca/kfogel) and [Twitter](http://twitter.com/#!/kfogel), and his home page is [red-bean.com/kfogel](http://www.red-bean.com/kfogel/).
+
 # About James Vasile:
 
 
