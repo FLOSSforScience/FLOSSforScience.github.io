@@ -45,6 +45,12 @@ Karl Fogel is an open source software developer, author, and consultant. In 2005
 
 # About James Vasile:
 
+James Vasile has fifteen years experience as a user, developer, advocate and advisor in the free and open source software world. His expertise is in software licensing and community-building, as well as non-profit and small business startup. He focuses on free software and open source production, although his work and interests often take him far beyond the world of software. Much of what James does involves teaching people how to build successful businesses around free software and ensuring licensing alignment in multisource FOSS stacks.
+
+Previously, James was a Senior Fellow at the [Software Freedom Law Center](http://softwarefreedom.org/), where he advised and supported a wide range of free software efforts. A former Director of the [FreedomBox Foundation](http://freedomboxfoundation.org/), James remains active in several technology development efforts.
+
+James was a founding board member of Open Source Matters, the non-profit behind Joomla. He began his career at Cravath, Swaine & Moore. You can learn more about him from his [GitHub](https://github.com/jvasile) activity and his [LinkedIn](http://www.linkedin.com/profile/view?id=10459180&trk=tab_pro) profile, or by connecting with him on [Twitter](https://twitter.com/jamesvasile).
+
 
 # Links:
 * Fogel, K. (2005). Producing open source software: How to run a successful free software project. " O'Reilly Media, Inc.". [Link](https://producingoss.com/)
