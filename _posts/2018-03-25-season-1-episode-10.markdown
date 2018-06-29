@@ -59,8 +59,10 @@ multi-physics finite element solver GetDP.
 
 # Links:
 
-* 
-* 
+* [Gmsh @ selfhosted gitlab](https://gitlab.onelab.info/gmsh/)
+* C.  Geuzaine,  J.-F.  Remacle,  Gmsh:  A  3-d  finite  element  mesh  generator  with  built-in  pre-and  post-
+processing  facilities,  International  journal  for  numerical  methods  in  engineering  79  (11)  (2009)  1309–
+1331. [doi:doi.org/10.1002/nme.2579](https://doi.org/10.1002/nme.2579)
 
 Listen to this episode here or add our [rss feed](https://flossforscience.github.io/feed.xml) to your favourite podcast application. 
 
