@@ -32,21 +32,27 @@ podcast_subtitle: An interview with Carl Boettinger
 podcast_description: In Episode 4, we interview Carl Boettinger, Assistant Professor in the Department of Environmental Science, Policy and Management at UC Berkeley. He introduces us to his work on ecological forecasting and decision making under uncertainty, with applications for global change, conservation and natural resource management. He presents to us the Rocker project and how it helps scientists produce reproducible science. Finally, we discuss with him about his view regarding FLOSS in science.
 ---
 
-<iframe src="//player.blubrry.com/id/32908358/#time-0&darkOrLight-Light&shownotes-000000&shownotesBackground-f68a1d&download-ffffff&downloadBackground-384452&subscribe-ffffff&subscribeBackground-f68a1d&share-ffffff&shareBackground-384452" scrolling="no" width="100%" height="138px" frameborder="0"></iframe>
+<audio controls>
+  <source src="https://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP004/FLOSSforscience%20EP%20004.ogg" type="audio/ogg">
+  <source src="https://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP004/FLOSSforscience%20EP%20004.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+# Outline
 
 In Episode 4, we interviewed Carl Boettinger about Rocker:
 
 [Rocker](https://rocker-project.org) is an open source community project providing Docker containers for R users.  Rocker containers help users to easily share and deploy customized and reproducible R environments on local and remote machines.  Rocker images have been downloaded over three million times and are maintained by [Carl Boettiger](https://twitter.com/cboettig) & [Dirk Eddelbuettel](https://twitter.com/eddelbuettel) with many contributions from the user community.
 
-About Carl Boettinger: 
+# About Carl Boettinger
 
 Carl Boettinger is an Assistant Professor in the Department of Environmental Science, Policy and Management at UC Berkeley. He works on problems in ecological forecasting and decision making under uncertainty, with applications for global change, conservation and natural resource management. He is particularly interested in how we can predict or manage ecological systems that may experience regime shifts: sudden and dramatic changes that challenge both our models and available data. The rapid expansion in both computational power and the available ecological and environmental data enables and requires new mathematical, statistical and computational approaches to these questions. Ecology has much to learn about what are and are not useful from advances in informatics & computer science, just as it has from statistics and mathematics. Traditional approaches to ecological modeling and resource management such as stochastic dynamic systems, Bayesian inference, and optimal control theory must be adapted both to take advantage of all available data while also dealing with its imperfections. His approach blends ecological theory with the synthesis of heterogeneous data and the development of software -- a combination now recognized as data science.
 
-Links:
+# Links
 * [An Introduction to Rocker: Docker Containers for R](https://arxiv.org/abs/1710.03675)
 * [rocker-org](https://github.com/rocker-org)
 
 
 Listen to this episode here or add our [rss feed](https://flossforscience.github.io/feed.xml) to your favourite podcast application. 
 
-You can download this episode as [MP3](http://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP004/FLOSSforscience%20EP%20004.mp3) or [OGG](http://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP004/FLOSSforscience%20EP%20004.ogg). 
+You can download this episode as [MP3](https://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP004/FLOSSforscience%20EP%20004.mp3) or [OGG](https://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP004/FLOSSforscience%20EP%20004.ogg). 

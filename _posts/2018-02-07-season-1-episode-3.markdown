@@ -20,7 +20,11 @@ podcast_subtitle: An interview with Oliver Kopp and Jörg Lenhard
 podcast_description: In Episode 3, we interview Oliver Kopp and Jörg Lenhard about the reference management tool Jabref.
 ---
 
-<iframe src="//player.blubrry.com/id/32101725/#time-0&darkOrLight-Light&shownotes-000000&shownotesBackground-f68a1d&download-ffffff&downloadBackground-384452&subscribe-ffffff&subscribeBackground-f68a1d&share-ffffff&shareBackground-384452" scrolling="no" width="100%" height="138px" frameborder="0"></iframe>
+<audio controls>
+  <source src="https://media.blubrry.com/flossforscience/archive.org/download/Flossforscience-Ep003JabrefAtJabcon/FlossforscienceEp003.ogg" type="audio/ogg">
+  <source src="https://media.blubrry.com/flossforscience/archive.org/download/Flossforscience-Ep003JabrefAtJabcon/FlossforscienceEp003.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 In Episode 3, we interview Oliver Kopp and Jörg Lenhard about Jabref:
 
@@ -28,7 +32,7 @@ JabRef is an open-source, cross-platform citation and reference management tool 
 
 About Oliver Koop : 
 
-[Oliver Kopp](http://orcid.org/0000-0001-6962-4290) studied Software Engineering and defended his PhD in the field of cross-partner business process management. Currently, he researches as PostDoc in the area of [architectural decision records](https://adr.github.io/). For him, the key success factor for turning research into practice is sustainable open source software. Thus, it is a natural fit that he is project lead at [Eclipse Winery](http://eclipse.github.io/winery/), which provides a framework for research on modelling TOSCA-based (Cloud) applications.
+[Oliver Kopp](https://orcid.org/0000-0001-6962-4290) studied Software Engineering and defended his PhD in the field of cross-partner business process management. Currently, he researches as PostDoc in the area of [architectural decision records](https://adr.github.io/). For him, the key success factor for turning research into practice is sustainable open source software. Thus, it is a natural fit that he is project lead at [Eclipse Winery](https://eclipse.github.io/winery/), which provides a framework for research on modelling TOSCA-based (Cloud) applications.
 
 About Jörg Lenhard : 
 
@@ -36,4 +40,4 @@ About Jörg Lenhard :
 
 Listen to this episode here or add our [rss feed](https://flossforscience.github.io/feed.xml) to your favourite podcast application. 
 
-You can download this episode as [MP3](http://media.blubrry.com/flossforscience/archive.org/download/Flossforscience-Ep003JabrefAtJabcon/FlossforscienceEp003.mp3) or [OGG](http://media.blubrry.com/flossforscience/archive.org/download/Flossforscience-Ep003JabrefAtJabcon/FlossforscienceEp003.ogg). 
+You can download this episode as [MP3](https://media.blubrry.com/flossforscience/archive.org/download/Flossforscience-Ep003JabrefAtJabcon/FlossforscienceEp003.mp3) or [OGG](https://media.blubrry.com/flossforscience/archive.org/download/Flossforscience-Ep003JabrefAtJabcon/FlossforscienceEp003.ogg). 

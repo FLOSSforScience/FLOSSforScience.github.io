@@ -8,7 +8,7 @@ categories:
 #- blog 
 img: FFS001_header.png
 thumb: FFS001_thumb.png
-podcast_link: http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp001-Introduction/FlossforscienceEp001-Introduction.mp3
+podcast_link: https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp001-Introduction/FlossforscienceEp001-Introduction.mp3
 podcast_link_ogg: https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp001-Introduction/FlossforscienceEp001-Introduction.ogg
 podcast_file_size: 5.0 MB
 podcast_file_size_ogg: 3.9 MB
@@ -20,7 +20,11 @@ podcast_subtitle: Content and aims of the podcast.
 podcast_description: In this episode the two hosts David Brassard and Patrick Diehl of FLOSS for Science introduce themselves and they explain the aims of this podcast.
 ---
 
-<iframe src="//player.blubrry.com/id/30476654/#time-0&darkOrLight-Light&shownotes-000000&shownotesBackground-f68a1d&download-ffffff&downloadBackground-384452&subscribe-000000&subscribeBackground-f68a1d&share-ffffff&shareBackground-384452" scrolling="no" width="100%" height="138px" frameborder="0"></iframe>
+<audio controls>
+  <source src="https://archive.org/download/FlossforscienceEp001-Introduction/FlossforscienceEp001-Introduction.ogg" type="audio/ogg">
+  <source src="https://archive.org/download/FlossforscienceEp001-Introduction/FlossforscienceEp001-Introduction.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 In this episode the two hosts David Brassard and Patrick Diehl of *FLOSS for Science* introduce themselves and they explain the aims of this podcast.
 
