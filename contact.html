@@ -44,7 +44,9 @@ permalink: /contact/
                 <p>
                     {% if site.email %}email: <a href="mailto:{{site.email}}"> {{site.email}} </a><br/>{% endif %}
                     {% for network in site.social %}
+                    {% if network.title != 'rss' %}
                     {{network.title}}: <a href="{{network.url}}">@{{network.name}}</a><br/>
+                    {% endif %}
                     {% endfor %}
                     {% if site.tel %}Tel: {{site.tel}} {% endif %}
                 </p>
