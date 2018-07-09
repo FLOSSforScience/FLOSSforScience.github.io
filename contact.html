@@ -12,7 +12,12 @@ permalink: /contact/
             
             <div class="hline"></div>
                 <br>
-                If you like to contact us, please send us an <a href="mailto:{{site.email}}">e-mail</a> or a message on <a href="https://twitter.com/FLOSSforscience" target="new">Twitter</a>.
+                If you like to contact us, please send us an <a href="mailto:{{site.email}}">e-mail</a> or a message on 
+                {% for network in site.social %}
+                {% if network.title == 'twitter' %}
+                <a href="{{network.url}}" target="new">Twitter</a>.
+                {% endif %}
+                {% endfor %}
             
             <h4> Leave us an audio message
                 <iframe src="https://www.speakpipe.com/widget/inline/dxhuxmh65p1eqtdaffhvw34qltperi79" allow="microphone" width="100%" height="200" frameborder="0"></iframe>
@@ -39,7 +44,6 @@ permalink: /contact/
                 <p>
                     {% if site.email %}email: <a href="mailto:{{site.email}}"> {{site.email}} </a><br/>{% endif %}
                     {% for network in site.social %}
-                    
                     {{network.title}}: <a href="{{network.url}}">@{{network.name}}</a><br/>
                     {% endfor %}
                     {% if site.tel %}Tel: {{site.tel}} {% endif %}
