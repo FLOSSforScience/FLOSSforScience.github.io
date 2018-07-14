@@ -64,7 +64,8 @@ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
     </content:encoded>
 
     <enclosure url="{{ ep.podcast_link }}" length="{{ ep.podcast_length }}" type="audio/mpeg" />
-    <itunes:subtitle>{{ ep.podcast_subtitle }}</itunes:subtitle>
+    <itunes:episode>{{ podcast_episode_number }}</itunes:episode>
+	<itunes:subtitle>{{ ep.podcast_subtitle }}</itunes:subtitle>
     <itunes:summary>{{ ep.podcast_description }}</itunes:summary>
     <itunes:author>{{ site.podcast_author }}</itunes:author>
     <itunes:image href="{{ site.podcast_album_art }}" />
