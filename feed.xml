@@ -24,6 +24,7 @@ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 <itunes:summary>{{ site.podcast_summary }}</itunes:summary>
 <itunes:author>{{ site.podcast_author }}</itunes:author>
 <itunes:explicit>{{ site.podcast_explicit }}</itunes:explicit>
+<itunes:type>{{ site.podcast_type }}</itunes:type>
 <!-- <itunes:image href="{{ site.url }}{{ site.podcast_album_art }}" /> -->
 <itunes:image href="{{ site.podcast_album_art }}" />
 <itunes:owner>
@@ -63,12 +64,16 @@ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
     </content:encoded>
 
     <enclosure url="{{ ep.podcast_link }}" length="{{ ep.podcast_length }}" type="audio/mpeg" />
-    <itunes:subtitle>{{ ep.podcast_subtitle }}</itunes:subtitle>
+    <itunes:season>{{ ep.podcast_season_number }}</itunes:season>
+	<itunes:episode>{{ podcast_episode_number }}</itunes:episode>
+	<itunes:title>{{ ep.podcast_episode_title }}</itunes:title>
+	<itunes:subtitle>{{ ep.podcast_subtitle }}</itunes:subtitle>
     <itunes:summary>{{ ep.podcast_description }}</itunes:summary>
     <itunes:author>{{ site.podcast_author }}</itunes:author>
     <itunes:image href="{{ site.podcast_album_art }}" />
     <itunes:explicit>{{ site.podcast_explicit }}</itunes:explicit>
     <itunes:duration>{{ ep.podcast_duration }}</itunes:duration>
+	<itunes:episodeType>{{ ep.podcast_episode_type }}</itunes:episodeType>
   </item>
 {% endfor %}
 </channel>

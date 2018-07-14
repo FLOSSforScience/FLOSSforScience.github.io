@@ -6,6 +6,8 @@ author: Admin
 categories: 
  - developer 
  - podcast
+#Title of the podcast episode without the episode number
+podcast_episode_title: JabRef at JabCon
 img: FFS003_header.png
 thumb: FFS003_thumb.png
 podcast_link: http://media.blubrry.com/flossforscience/archive.org/download/Flossforscience-Ep003JabrefAtJabcon/FlossforscienceEp003.mp3
@@ -16,6 +18,10 @@ podcast_duration: "39:56"
 podcast_length: 19376128
 podcast_length_ogg: 16166766
 podcast_guid: 484fa7cf99b4c64e8f169743dca41b59cf621def
+podcast_episode_type: full
+#Season number only
+podcast_season_number: 01
+podcast_episode_number: 003
 podcast_subtitle: An interview with Oliver Kopp and Jörg Lenhard
 podcast_description: In Episode 3, we interview Oliver Kopp and Jörg Lenhard about the reference management tool Jabref.
 ---
