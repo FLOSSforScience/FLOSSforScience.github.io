@@ -26,6 +26,8 @@ podcast_length: 19212188
 podcast_length_ogg: 17821879
 #Unique id of the mp3 file (sha256)
 podcast_guid: a6e6624d95f6c9d7ca3f8687f467bb703e4e92ec6c0414dc6fb849850f302292
+#“full” for normal episodes; “trailer” to promote an upcoming show, season, or episode; or “bonus” for extra content related to a show, season, or episode.
+podcast_episode_type: full
 #Subtitle of the episode 
 podcast_subtitle: An interview with Carl Boettinger
 #Description of the podcast

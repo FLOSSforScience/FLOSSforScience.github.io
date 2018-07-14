@@ -16,6 +16,7 @@ podcast_duration: "39:56"
 podcast_length: 19376128
 podcast_length_ogg: 16166766
 podcast_guid: 484fa7cf99b4c64e8f169743dca41b59cf621def
+podcast_episode_type: full
 podcast_subtitle: An interview with Oliver Kopp and Jörg Lenhard
 podcast_description: In Episode 3, we interview Oliver Kopp and Jörg Lenhard about the reference management tool Jabref.
 ---

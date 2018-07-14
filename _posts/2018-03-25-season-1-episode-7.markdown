@@ -26,6 +26,8 @@ podcast_length: 29600303
 podcast_length_ogg: 30377951
 #Unique id of the mp3 file (sha256)
 podcast_guid: 1ed15f75ba274b68beb6860ce566521590c2a2c0861f614574c37b7b9ccca513
+#“full” for normal episodes; “trailer” to promote an upcoming show, season, or episode; or “bonus” for extra content related to a show, season, or episode.
+podcast_episode_type: full
 #Subtitle of the episode 
 podcast_subtitle: An interview with Karl Fogel and James Vasile
 #Description of the podcast

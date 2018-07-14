@@ -26,6 +26,8 @@ podcast_length: 14309138
 podcast_length_ogg: 13329533
 #Unique id of the mp3 file (sha255)
 podcast_guid: f8ecf0a788a3c7e9402656d74ffcd0eaa44f0d36d93294dc056a57353ae8e712
+#“full” for normal episodes; “trailer” to promote an upcoming show, season, or episode; or “bonus” for extra content related to a show, season, or episode.
+podcast_episode_type: full
 #Subtitle of the episode 
 podcast_subtitle: An interview with Katarina Behrens
 #Description of the podcast

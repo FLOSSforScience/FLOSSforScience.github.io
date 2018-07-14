@@ -26,6 +26,8 @@ podcast_length: 28190601
 podcast_length_ogg: 29312716
 #Unique id of the mp3 file (sha255)
 podcast_guid: a45d9910f8db37ff0a74eccc23a8c7e61600e39cada36a1dab6387e198cad3f4
+#“full” for normal episodes; “trailer” to promote an upcoming show, season, or episode; or “bonus” for extra content related to a show, season, or episode.
+podcast_episode_type: full
 #Subtitle of the episode 
 podcast_subtitle: An interview with Christian horea
 #Description of the podcast
