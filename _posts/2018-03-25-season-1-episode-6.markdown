@@ -6,6 +6,8 @@ author: Admin
 categories: 
  - developer
  - podcast
+#Title of the podcast episode without the episode number
+podcast_episode_title: Gentoo Linux for Neurosciences
 #Image of the blog post
 img: FFS006_header.png
 #Thumbnail of the blog post

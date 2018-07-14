@@ -6,6 +6,8 @@ author: Admin
 categories: 
  - developer 
  - podcast
+#Title of the podcast episode without the episode number
+podcast_episode_title: JabRef at JabCon
 img: FFS003_header.png
 thumb: FFS003_thumb.png
 podcast_link: http://media.blubrry.com/flossforscience/archive.org/download/Flossforscience-Ep003JabrefAtJabcon/FlossforscienceEp003.mp3

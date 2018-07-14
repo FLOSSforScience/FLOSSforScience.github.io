@@ -1,12 +1,14 @@
 ---
 layout: post
-title: "002: Modeling composite materials fatigue with Python"
+title: "EP002 Modeling composite materials fatigue with Python"
 date: 2018-02-07 01:00:00
 author: Admin
 categories: 
  - podcast
  - user
 #- blog 
+#Title of the podcast episode without the episode number
+podcast_episode_title: Modeling composite materials fatigue with Python
 img: FFS002_header.png
 thumb: FFS002_thumb.png
 podcast_link: http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp002-ModelingCompositeMaterialsFatigueWithPython/FlossforscienceEp002.mp3

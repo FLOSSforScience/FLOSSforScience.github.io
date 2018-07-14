@@ -6,6 +6,8 @@ author: Admin
 categories: 
  - undefined
  - podcast
+#Title of the podcast episode without the episode number
+podcast_episode_title: A Guide to Software Licenses in Science
 #Image of the blog post
 img: FFS007_header.png
 #Thumbnail of the blog post

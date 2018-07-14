@@ -6,6 +6,8 @@ author: Admin
 categories: 
  - developer
  - podcast
+#Title of the podcast episode without the episode number
+podcast_episode_title: LibreOffice the Swiss Army Knife of Science?
 #Image of the blog post
 img: FFS005_header.png
 #Thumbnail of the blog post

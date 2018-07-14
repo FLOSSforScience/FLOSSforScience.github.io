@@ -6,6 +6,8 @@ author: Admin
 categories: 
  - user
  - podcast
+#Title of the podcast episode without the episode number
+podcast_episode_title: Reproducible science with Rocker
 #Image of the blog post
 img: FFS004_header.png
 #Thumbnail of the blog post

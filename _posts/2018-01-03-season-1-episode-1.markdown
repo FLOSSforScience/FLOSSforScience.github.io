@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "001: Introduction to the FLOSS for Science podcast"
+title: "EP001 Introduction to the FLOSS for Science podcast"
 date: 2018-01-12 13:59:59
 author: Admin
 categories: 
  - podcast 
 #- blog 
+#Title of the podcast episode without the episode number
+podcast_episode_title: Introduction to the FLOSS for Science podcast
 img: FFS001_header.png
 thumb: FFS001_thumb.png
 podcast_link: https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp001-Introduction/FlossforscienceEp001-Introduction.mp3
