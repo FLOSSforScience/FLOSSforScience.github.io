@@ -30,6 +30,8 @@ podcast_length_ogg: 30377951
 podcast_guid: 1ed15f75ba274b68beb6860ce566521590c2a2c0861f614574c37b7b9ccca513
 #“full” for normal episodes; “trailer” to promote an upcoming show, season, or episode; or “bonus” for extra content related to a show, season, or episode.
 podcast_episode_type: full
+#Season number only
+podcast_season_number: 01
 #Episode number only
 podcast_episode_number: 007
 #Subtitle of the episode 
