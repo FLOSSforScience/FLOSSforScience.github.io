@@ -38,7 +38,7 @@ podcast_episode_number: 007
 podcast_subtitle: An interview with Karl Fogel and James Vasile
 #Description of the podcast
 podcast_description: |
-  For Episode 7, we interviewed Karl Fogel and James Vasile about the importance of software licenses for scientists. The discussion was inspired from Chaper 9: Legal Matters: Licenses, Copyrights, Trademarks and Patents of Karl's book: Producing Open Source Software - How to Run a Successful Free Software Project. Choosing a license for ones open source project is essentiell and we discussed why one should ship their scientific open source code with a license. In addittion, we talked about the implications of providing a license and the legal aspects of licenses. Another apsect was open source license compatibilty for the integration of libraries to an existing project. We also had a discussion in regards to the expectations of academic developers.   
+  For Episode 7, we interviewed Karl Fogel and James Vasile about the importance of software licenses for scientists. The discussion was inspired from Chapter 9: Legal Matters: Licenses, Copyrights, Trademarks and Patents of Karl's book: Producing Open Source Software - How to Run a Successful Free Software Project. Choosing a license for ones open source project is essential and we discussed why one should ship their scientific open source code with a license. In addition, we talked about the implications of providing a license and the legal aspects of licenses. Another aspect was open source license compatibility for the integration of libraries to an existing project. We also had a discussion in regards to the expectations of academic developers.   
 ---
 
 <audio controls>
@@ -49,7 +49,7 @@ Your browser does not support the audio element.
 
 # Outline
 
-For Episode 7, we interviewed Karl Fogel and James Vasile about the importance of software licenses for scientists. The discussion was inspired from Chaper 9: Legal Matters: Licenses, Copyrights, Trademarks and Patents of Karl's book: Producing Open Source Software - How to Run a Successful Free Software Project. Choosing a license for ones open source project is essentiell and we discussed why one should ship their scientific open source code with a license. In addittion, we talked about the implications of providing a license and the legal aspects of licenses. Another apsect was open source license compatibilty for the integration of libraries to an existing project. We also had a discussion in regards to the expectations of academic developers.   
+For Episode 7, we interviewed Karl Fogel and James Vasile about the importance of software licenses for scientists. The discussion was inspired from Chapter 9: Legal Matters: Licenses, Copyrights, Trademarks and Patents of Karl's book: Producing Open Source Software - How to Run a Successful Free Software Project. Choosing a license for ones open source project is essential and we discussed why one should ship their scientific open source code with a license. In addition, we talked about the implications of providing a license and the legal aspects of licenses. Another aspect was open source license compatibility for the integration of libraries to an existing project. We also had a discussion in regards to the expectations of academic developers.   
 
 # About Karl Fogel:
 
