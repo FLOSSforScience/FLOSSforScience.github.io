@@ -37,7 +37,7 @@ podcast_episode_number: 005
 #Subtitle of the episode 
 podcast_subtitle: An interview with Katarina Behrens
 #Description of the podcast
-podcast_description: In Episode 5, we interview Katarina Behrens, a consultant and software developpers of LibreOffice, LibreOffice extensions and related libraries working at CIB Group of Companies. We discuss her involvment with The Document Foundation, the capabilities of the LibreOffice suite and why an open source office suite is relevant for scientists.
+podcast_description: In Episode 5, we interview Katarina Behrens, a consultant and software developers of LibreOffice, LibreOffice extensions and related libraries working at CIB Group of Companies. We discuss her involvement with The Document Foundation, the capabilities of the LibreOffice suite and why an open source office suite is relevant for scientists.
 ---
 
 <audio controls>
@@ -48,7 +48,7 @@ Your browser does not support the audio element.
 
 # Outline
 
-In Episode 5, we interview Katarina Behrens, a consultant and software developpers of LibreOffice, LibreOffice extensions and related libraries working at CIB Group of Companies. We discuss her involvment with The Document Foundation, the capabilities of the LibreOffice suite and why an open source office suite is relevant for scientists.
+In Episode 5, we interview Katarina Behrens, a consultant and software developers of LibreOffice, LibreOffice extensions and related libraries working at CIB Group of Companies. We discuss her involvement with The Document Foundation, the capabilities of the LibreOffice suite and why an open source office suite is relevant for scientists.
 
 # About Katarina Behrens: 
 
@@ -68,9 +68,9 @@ ultimately rewarding experience.
 
 # Links
 
-You can get more informations about LibreOffice using [this link](https://www.libreoffice.org/discover/libreoffice/). If you want to get involved in the project you can get more informations [here](https://www.libreoffice.org/community/get-involved/) and a video can also be found on [Youtube](https://youtu.be/ir6KiKfnWCw). 
+You can get more information about LibreOffice using [this link](https://www.libreoffice.org/discover/libreoffice/). If you want to get involved in the project you can get more information's [here](https://www.libreoffice.org/community/get-involved/) and a video can also be found on [Youtube](https://youtu.be/ir6KiKfnWCw). 
 
-Listen to this episode here or add our [rss feed](https://flossforscience.github.io/feed.xml) to your favourite podcast application. 
+Listen to this episode here or add our [rss feed](https://flossforscience.github.io/feed.xml) to your favorite podcast application. 
 
 For the definition of Denkmalschutz, you can consult this [link](https://dictionary.cambridge.org/dictionary/german-english/denkmalschutz)
 

@@ -38,7 +38,7 @@ podcast_episode_number: 007
 podcast_subtitle: An interview with Karl Fogel and James Vasile
 #Description of the podcast
 podcast_description: |
-  For Episode 7, we interviewed Karl Fogel and James Vasile about the importance of software licenses for scientists. The discussion was inspired from Chaper 9: Legal Matters: Licenses, Copyrights, Trademarks and Patents of Karl's book: Producing Open Source Software - How to Run a Successful Free Software Project. Choosing a license for ones open source project is essentiell and we discussed why one should ship their scientific open source code with a license. In addittion, we talked about the implications of providing a license and the legal aspects of licenses. Another apsect was open source license compatibilty for the integration of libraries to an existing project. We also had a discussion in regards to the expectations of academic developers.   
+  For Episode 7, we interviewed Karl Fogel and James Vasile about the importance of software licenses for scientists. The discussion was inspired from Chapter 9: Legal Matters: Licenses, Copyrights, Trademarks and Patents of Karl's book: Producing Open Source Software - How to Run a Successful Free Software Project. Choosing a license for ones open source project is essential and we discussed why one should ship their scientific open source code with a license. In addition, we talked about the implications of providing a license and the legal aspects of licenses. Another aspect was open source license compatibility for the integration of libraries to an existing project. We also had a discussion in regards to the expectations of academic developers.   
 ---
 
 <audio controls>
@@ -49,7 +49,7 @@ Your browser does not support the audio element.
 
 # Outline
 
-For Episode 7, we interviewed Karl Fogel and James Vasile about the importance of software licenses for scientists. The discussion was inspired from Chaper 9: Legal Matters: Licenses, Copyrights, Trademarks and Patents of Karl's book: Producing Open Source Software - How to Run a Successful Free Software Project. Choosing a license for ones open source project is essentiell and we discussed why one should ship their scientific open source code with a license. In addittion, we talked about the implications of providing a license and the legal aspects of licenses. Another apsect was open source license compatibilty for the integration of libraries to an existing project. We also had a discussion in regards to the expectations of academic developers.   
+For Episode 7, we interviewed Karl Fogel and James Vasile about the importance of software licenses for scientists. The discussion was inspired from Chapter 9: Legal Matters: Licenses, Copyrights, Trademarks and Patents of Karl's book: Producing Open Source Software - How to Run a Successful Free Software Project. Choosing a license for ones open source project is essential and we discussed why one should ship their scientific open source code with a license. In addition, we talked about the implications of providing a license and the legal aspects of licenses. Another aspect was open source license compatibility for the integration of libraries to an existing project. We also had a discussion in regards to the expectations of academic developers.   
 
 # About Karl Fogel:
 
@@ -70,6 +70,6 @@ James was a founding board member of Open Source Matters, the non-profit behind 
 * More resources about starting and managing open source projects. [Link](https://opentechstrategies.com/#resources)
 
 
-Listen to this episode here or add our [rss feed](https://flossforscience.github.io/feed.xml) to your favourite podcast application. 
+Listen to this episode here or add our [rss feed](https://flossforscience.github.io/feed.xml) to your favorite podcast application. 
 
 You can download this episode as [MP3](https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp007-AGuideToSoftwareLicensesInScience/Ep007FlossForScience.mp3) or [OGG](https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp007-AGuideToSoftwareLicensesInScience/Ep007FlossForScience.ogg). 

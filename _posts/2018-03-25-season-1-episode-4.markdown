@@ -61,6 +61,6 @@ Carl Boettinger is an Assistant Professor in the Department of Environmental Sci
 * [rocker-org](https://github.com/rocker-org)
 
 
-Listen to this episode here or add our [rss feed](https://flossforscience.github.io/feed.xml) to your favourite podcast application. 
+Listen to this episode here or add our [rss feed](https://flossforscience.github.io/feed.xml) to your favorite podcast application. 
 
 You can download this episode as [MP3](https://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP004/FLOSSforscience%20EP%20004.mp3) or [OGG](https://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP004/FLOSSforscience%20EP%20004.ogg). 

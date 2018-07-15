@@ -38,7 +38,7 @@ JabRef is an open-source, cross-platform citation and reference management tool 
 
 About Oliver Koop : 
 
-[Oliver Kopp](https://orcid.org/0000-0001-6962-4290) studied Software Engineering and defended his PhD in the field of cross-partner business process management. Currently, he researches as PostDoc in the area of [architectural decision records](https://adr.github.io/). For him, the key success factor for turning research into practice is sustainable open source software. Thus, it is a natural fit that he is project lead at [Eclipse Winery](https://eclipse.github.io/winery/), which provides a framework for research on modelling TOSCA-based (Cloud) applications.
+[Oliver Kopp](https://orcid.org/0000-0001-6962-4290) studied Software Engineering and defended his PhD in the field of cross-partner business process management. Currently, he researches as PostDoc in the area of [architectural decision records](https://adr.github.io/). For him, the key success factor for turning research into practice is sustainable open source software. Thus, it is a natural fit that he is project lead at [Eclipse Winery](https://eclipse.github.io/winery/), which provides a framework for research on modeling TOSCA-based (Cloud) applications.
 
 About Jörg Lenhard : 
 
