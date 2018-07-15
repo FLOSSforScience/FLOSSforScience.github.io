@@ -39,10 +39,10 @@ About Laurent Cormier :
 
 Laurent Cormier owns a Bachelor’s degree (2006) and a research Master’s degree (2009) in mechanical engineering and received his Ph.D in engineering in 2017 from the École de technologie supérieure (ETS) in Montréal. He currently is a postdoctoral researcher working on high voltage capacitor manufacturing technology, a research associate in composite materials and a lecturer at the same institution. 
 
-His previous research topics include experimental characterization and analytical modeling of temperature and northern climates' effects on the static strength, fatigue durability and viscoelastic behavior of composites. These research topics were part of multiple projects, including the Wind Energy Strategic Network (WESNet) from the Natural Sciences and Engineering Research Council of Canada (NSERC), the Upwind program from the European Commission Sixth Framework Programme and industrial partnerships. 
+His previous research topics include experimental characterization and analytical modeling of temperature and northern climates' effects on the static strength, fatigue durability and viscoelastic behaviour of composites. These research topics were part of multiple projects, including the Wind Energy Strategic Network (WESNet) from the Natural Sciences and Engineering Research Council of Canada (NSERC), the Upwind program from the European Commission Sixth Framework Programme and industrial partnerships. 
 
 He also has a strong interest in Science, its methods, its philosophy and the transmission of knowledge. Photography, literature and politics are also part of his broader interests.
 
-Listen to this episode here or add our [rss feed](https://flossforscience.github.io/feed.xml) to your favorite podcast application. 
+Listen to this episode here or add our [rss feed](https://flossforscience.github.io/feed.xml) to your favourite podcast application. 
 
 You can download this episode as [MP3](https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp002-ModelingCompositeMaterialsFatigueWithPython/FlossforscienceEp002.mp3) or [OGG](https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp002-ModelingCompositeMaterialsFatigueWithPython/FlossforscienceEp002.ogg). 
