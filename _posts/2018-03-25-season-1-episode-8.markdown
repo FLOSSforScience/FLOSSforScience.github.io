@@ -51,7 +51,7 @@ Your browser does not support the audio element.
 
 For episode 8, we interviewed Bruno Blais about his utilization of open source software in his research about solid-liquid mixing. We started our conversation by talking about the different kinds of software packages he uses in his simulation workflow. We then asked him why and when he has decided to use FLOSS tools in is research. Following that, we talked about his philosophical and practical reasons to use FLOSS. He then shared with us how he contributes to the software he is using in his daily research. Finally, we talked with him about the significance of FLOSS for the openness of science and how it affects the society as a whole. 
 
-This episode is the first of series about finite element simulation, meshing and geometry analysis. Follow us to be informed when we will release our next episode about the open source meshing tool GMSH. 
+This episode is the first of series about finite element simulations, meshing and geometry analysis. Follow us to be informed when we will release our next episode about the open source meshing tool GMSH. 
 
 # About Bruno Blais: 
 
