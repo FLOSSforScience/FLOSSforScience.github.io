@@ -38,7 +38,7 @@ podcast_episode_number: 008
 podcast_subtitle: An interview with Bruno Blais
 #Description of the podcast
 podcast_description: |
-  For Episode 8, we interviewed Bruno Blais about.......
+  For Episode 8, we interviewed Bruno Blais about he utilizes open source software in his research for solid-liquid mixing. First, we talked about the different kind of software packages he uses in his simulation workflow. Second, we asked him why and when he have decided to use FLOSS in your research. Next, as a more tough question we asked if he uses FLOSS for philosophical or for practical reasons. Third, we looked into how he contributes to the software he is using in his daily research. Lastly, we talked about the significance of FLOSS for the openness of science and how it affects the society.   
 ---
 
 <audio controls>
@@ -49,12 +49,11 @@ Your browser does not support the audio element.
 
 # Outline
 
-
-
+For Episode 8, we interviewed Bruno Blais about he utilizes open source software in his research for solid-liquid mixing. First, we talked about the different kind of software packages he uses in his simulation workflow. Second, we asked him why and when he have decided to use FLOSS in your research. Next, as a more tough question we asked if he uses FLOSS for philosophical or for practical reasons. Third, we looked into how he contributes to the software he is using in his daily research. Lastly, we talked about the significance of FLOSS for the openness of science and how it affects the society.  
 
 # About Bruno Blais: 
 
-Bruno Blais is a Research Officer with the Automotive and Surface Transportation Portfolio of the National Research Council of Canada (NRC AST) and an associate Professor at the department of Chemical Engineering at Polytechnique Montreal. He has earned a B. Eng. in Chemical Engineering, a Grande École Engineering Diploma from ENSTA Paristech, a master in Fundamental Fluid Mechanics from ENSTA and a Ph.D. in Chemical Engineering from Polytechnique Montreal. Bruno is a Vanier Graduate Scholar (2012-2016) and has received the Govenor’s General gold academic medal for his thesis work on numerical modeling of multiphase flow. He has also received the best thesis award from Ecole Polytechnique (2017) and the North American Mixing Forum (2016-2017). Bruno has also received other recognitions such as the Da Vinci Profile of Ecole Polytechnique (2012) and the Master Île-De-France international Scholarship (2011-2012). Bruno’s expertise lies in the development, verification, and validation of high performance digital models for fluid mechanics, heat transfer, and complex multi-physical and multi-scale phenomena. His research interests are in computational fluid mechanics (CFD), reacting flow, granular and solid-fluid flow modeling, topology optimization as well as high-performance computing on distributed high-performance architecture and on GPU. He has been an active collaborator of the [CFDEM project](www.cfdem.com), an open source platform for granular and solid-fluid flows, since 2013.
+Bruno Blais is a Research Officer with the Automotive and Surface Transportation Portfolio of the National Research Council of Canada (NRC AST) and an associate Professor at the department of Chemical Engineering at Polytechnique Montreal. He has earned a B. Eng. in Chemical Engineering, a Grande École Engineering Diploma from ENSTA Paristech, a master in Fundamental Fluid Mechanics from ENSTA and a Ph.D. in Chemical Engineering from Polytechnique Montreal. Bruno is a Vanier Graduate Scholar (2012-2016) and has received the Govenor’s General gold academic medal for his thesis work on numerical modeling of multiphase flow. He has also received the best thesis award from Ecole Polytechnique (2017) and the North American Mixing Forum (2016-2017). Bruno has also received other recognition such as the Da Vinci Profile of Ecole Polytechnique (2012) and the Master Île-De-France international Scholarship (2011-2012). Bruno’s expertise lies in the development, verification, and validation of high performance digital models for fluid mechanics, heat transfer, and complex multi-physical and multi-scale phenomena. His research interests are in computational fluid mechanics (CFD), reacting flow, granular and solid-fluid flow modelling, topology optimization as well as high-performance computing on distributed high-performance architecture and on GPU. He has been an active collaborator of the [CFDEM project](www.cfdem.com), an open source platform for granular and solid-fluid flows, since 2013.
 
 # Links
 * [Google Scholar profile](https://scholar.google.ca/citations?user=BaiESu4AAAAJ&hl=fr&oi=ao)
@@ -64,4 +63,4 @@ Bruno Blais is a Research Officer with the Automotive and Surface Transportation
 
 Listen to this episode here or add our [rss feed](https://flossforscience.github.io/feed.xml) to your favourite podcast application. 
 
-You can also download this episode as [MP3](http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp008-Solid-liquidMixingModelling/FlossForScienceBrunoBlais.mp3) or [OGG](http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp008-Solid-liquidMixingModelling/FlossForScienceBrunoBlais.ogg). 
+You can also download this episode as [MP3](https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp008-Solid-liquidMixingModelling/FlossForScienceBrunoBlais.mp3) or [OGG](https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp008-Solid-liquidMixingModelling/FlossForScienceBrunoBlais.ogg). 
