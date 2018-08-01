@@ -32,7 +32,11 @@ podcast_description: In this episode the two hosts David Brassard and Patrick Di
 Your browser does not support the audio element.
 </audio>
 
+# Outline
+
 In this episode the two hosts David Brassard and Patrick Diehl of *FLOSS for Science* introduce themselves and they explain the aims of this podcast.
+
+# Links
 
 Listen this episode here or add our [rss feed](https://flossforscience.github.io/feed.xml) to your favourite podcast app:
 
