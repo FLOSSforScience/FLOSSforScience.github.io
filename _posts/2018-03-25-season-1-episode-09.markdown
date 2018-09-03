@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EP010 Gentoo Linux for Neurosciences"
+title: "EP09 Finite element meshing with gmsh"
 date: 2018-06-06 00:00:00
 author: Admin
 categories: 
@@ -37,7 +37,7 @@ podcast_description: |
 
 # Outline
 
-In Episode 11, we interviewed Christophe Geuzaine about [gmsh](https://gmsh.info/), a three-dimensional finite element mesh generator with built-in pre- and post-processing facilities. Gmsh is a free 3D finite element mesh generator with a built-in CAD engine and post-processor. Its design goal is to provide a fast, light and user-friendly meshing tool with parametric input and advanced visualization capabilities. Gmsh is built around four modules: geometry, mesh, solver and post-processing. The specification of any input to these modules is done either interactively using the graphical user interface, in ASCII text files using Gmsh's own scripting language (.geo files), or using the C++, C, Python or Julia API. 
+In Episode 9, we interviewed Christophe Geuzaine about [gmsh](https://gmsh.info/), a three-dimensional finite element mesh generator with built-in pre- and post-processing facilities. Gmsh is a free 3D finite element mesh generator with a built-in CAD engine and post-processor. Its design goal is to provide a fast, light and user-friendly meshing tool with parametric input and advanced visualization capabilities. Gmsh is built around four modules: geometry, mesh, solver and post-processing. The specification of any input to these modules is done either interactively using the graphical user interface, in ASCII text files using Gmsh's own scripting language (.geo files), or using the C++, C, Python or Julia API. 
 
 # About Christophe Geuzaine: 
 
