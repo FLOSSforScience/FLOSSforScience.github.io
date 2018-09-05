@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "EP09 Finite element meshing with gmsh"
-date: 2018-09-05 00:00:00
+date: 2018-09-04 00:00:00
 author: Admin
 categories: 
  - developer
