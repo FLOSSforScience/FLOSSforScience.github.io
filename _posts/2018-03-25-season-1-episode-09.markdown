@@ -36,7 +36,7 @@ podcast_episode_number: 009
 podcast_subtitle: An interview with Christophe Geuzaine
 #Description of the podcast
 podcast_description: |
- In Episode 9, we interviewed Christophe Geuzaine about GMSH, a three-dimensional finite element mesh generator with built-in pre- and post-processing facilities. GMSH is a free 3D finite element mesh generator with a built-in CAD engine and post-processor. Its design goal is to provide a fast, light and user-friendly meshing tool with parametric input and advanced visualization capabilities.
+ In Episode 9, we interviewed Christophe Geuzaine about Gmsh, a three-dimensional finite element mesh generator with built-in pre- and post-processing facilities. Gmsh is a free 3D finite element mesh generator with a built-in CAD engine and post-processor. Its design goal is to provide a fast, light and user-friendly meshing tool with parametric input and advanced visualization capabilities.
 ---
 
 <audio controls>
@@ -61,8 +61,7 @@ Prof. Geuzaine's research encompasses modeling, analysis, algorithm development,
 * [@OnelabModels on Twitter](https://www.twitter.com/OnelabModels)
 * [Public mailing list for Gmsh users](http://onelab.info/mailman/listinfo/gmsh/)
 * C.  Geuzaine,  J.-F.  Remacle,  Gmsh:  A  3-d  finite  element  mesh  generator  with  built-in  pre-and  post-
-processing  facilities,  International  journal  for  numerical  methods  in  engineering  79  (11)  (2009)  1309–
-1331. [doi:doi.org/10.1002/nme.2579](https://doi.org/10.1002/nme.2579)
+processing  facilities,  International  journal  for  numerical  methods  in  engineering  79  (11)  (2009)  1309–1331. [doi:doi.org/10.1002/nme.2579](https://doi.org/10.1002/nme.2579)
 
 Listen to this episode here or add our [rss feed](https://flossforscience.github.io/feed.xml) to your favourite podcast application. 
 
