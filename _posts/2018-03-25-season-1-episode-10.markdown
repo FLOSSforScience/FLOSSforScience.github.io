@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EP009 CGAL"
+title: "EP010 CGAL"
 date: 2018-06-06 00:00:00
 author: Admin
 categories: 
@@ -37,7 +37,7 @@ podcast_description: |
 
 # Outline
 
-In Episode 6, we interviewed Sébastien Loriot about CGAL. A software project that provides easy access to efficient and reliable geometric algorithms in the form of a C++ library. CGAL is used in various areas needing geometric computation, such as geographic information systems, computer aided design, molecular biology, medical imaging, computer graphics, and robotics.
+In Episode 10, we interviewed Sébastien Loriot about [CGAL](https://www.cgal.org/). A software project that provides easy access to efficient and reliable geometric algorithms in the form of a C++ library. CGAL is used in various areas needing geometric computation, such as geographic information systems, computer aided design, molecular biology, medical imaging, computer graphics, and robotics.
 
 The library offers data structures and algorithms like triangulations, Voronoi diagrams, Boolean operations on polygons and polyhedra, point set processing, arrangements of curves, surface and volume mesh generation, geometry processing, alpha shapes, convex hull algorithms, shape analysis, AABB and KD trees...
 
@@ -50,8 +50,11 @@ Sébastien is co-author of several CGAL packages and is also part of the editori
 
 # Links:
 
-* [NeuroGentoo Overlay @ github](https://github.com/TheChymera/neurogentoo)
-* Christian, Horea & Saab, Bechara & Rudin, Markus. (2017). Gentoo Linux for Neuroscience - a replicable, flexible, scalable, rolling-release environment that provides direct access to development software. Research Ideas and Outcomes. 3. e12095. [10.3897/rio.3.e12095](https://doi.org/10.3897/rio.3.e12095). 
+* The CGAL Project. CGAL User and Reference Manual. CGAL Editorial Board, 4.12.1 edition, 2018. [Link](https://doc.cgal.org/latest/Manual/packages.html)
+* [CGAL](https://github.com/CGAL/cgal)@github
+* CGAL Open Source Project Rules and Procedures. [Link](https://www.cgal.org/project_rules.html)
+* 
+
 
 Listen to this episode here or add our [rss feed](https://flossforscience.github.io/feed.xml) to your favourite podcast application. 
 
