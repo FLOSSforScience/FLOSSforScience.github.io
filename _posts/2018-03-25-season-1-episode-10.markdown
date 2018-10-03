@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "EP010 CGAL"
-date: 2018-06-06 00:00:00
+date: 2018-10-03 00:00:00
 author: Admin
 categories: 
  - developer
  - podcast
 #Image of the blog post
-img: FFS006_header.png
+img: FFS010_header.png
 #Thumbnail of the blog post
-thumb: FFS006_thumb.png
+thumb: FFS010_thumb.png
 #Link to the mp3 file of the episode
 podcast_link: http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp006-GentooLinuxForNeurosciences/FlossforscienceEp006.mp3
 #Link to the ogg file of the episode
@@ -53,7 +53,7 @@ Sébastien is co-author of several CGAL packages and is also part of the editori
 * The CGAL Project. CGAL User and Reference Manual. CGAL Editorial Board, 4.12.1 edition, 2018. [Link](https://doc.cgal.org/latest/Manual/packages.html)
 * [CGAL](https://github.com/CGAL/cgal)@github
 * CGAL Open Source Project Rules and Procedures. [Link](https://www.cgal.org/project_rules.html)
-* 
+* [Comprehensive list of projects using CGAL from various fields of art and science](https://www.cgal.org/projects.html)
 
 
 Listen to this episode here or add our [rss feed](https://flossforscience.github.io/feed.xml) to your favourite podcast application. 
