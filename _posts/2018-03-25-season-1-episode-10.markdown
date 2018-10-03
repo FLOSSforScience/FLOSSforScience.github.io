@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EP010 CGAL"
+title: "EP010 CGAL : The Computational Geometry Algorithms Library"
 date: 2018-10-03 00:00:00
 author: Admin
 categories: 
@@ -11,29 +11,42 @@ img: FFS010_header.png
 #Thumbnail of the blog post
 thumb: FFS010_thumb.png
 #Link to the mp3 file of the episode
-podcast_link: http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp006-GentooLinuxForNeurosciences/FlossforscienceEp006.mp3
+podcast_link: http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp010CgalTheComputationalGeometryAlgorithmsLibrary/FLOSSforscience_EP010_CGAL.mp3
 #Link to the ogg file of the episode
-podcast_link_ogg: http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp006-GentooLinuxForNeurosciences/FlossforscienceEp006.ogg
+podcast_link_ogg: http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp010CgalTheComputationalGeometryAlgorithmsLibrary/FLOSSforscience_EP010_CGAL.ogg
 #File size in MB of the mp3 file
-podcast_file_size: 28.2 MB
+podcast_file_size: 19.6 MB
 #File size in MB of the ogg file
-podcast_file_size_ogg: 29.3 MB
+podcast_file_size_ogg: 19.8 MB
 #Length of the episode in minutes (is the same for ogg and mp3)
-podcast_duration: "58:27"
+podcast_duration: "40:35"
 #File size in bytes of the mp3 file
-podcast_length: 28190601
+podcast_length: 19612632
 #File size in bytes of the ogg file
-podcast_length_ogg: 29312716
+podcast_length_ogg: 19798447
 #Unique id of the mp3 file (sha255)
-podcast_guid: a45d9910f8db37ff0a74eccc23a8c7e61600e39cada36a1dab6387e198cad3f4
+podcast_guid: 7a584f41a937a85608bf9074868c91bfc85772ae25a495cadfa4ece7ace66615
+#“full” for normal episodes; “trailer” to promote an upcoming show, season, or episode; or “bonus” for extra content related to a show, season, or episode.
+podcast_episode_type: full
+#Season number only
+podcast_season_number: 01
+#Episode number only
+podcast_episode_number: 010
 #Subtitle of the episode 
-podcast_subtitle: An interview with Christian horea
+podcast_subtitle: An interview with Sébastien Loriot from the CGAL project
 #Description of the podcast
 podcast_description: |
+  In Episode 10, we interviewed Sébastien Loriot about CGAL. A software project that provides easy access to efficient and reliable geometric algorithms in the form of a C++ library. CGAL is used in various areas needing geometric computation, such as geographic information systems, computer aided design, molecular biology, medical imaging, computer graphics, and robotics.
+
+  The library offers data structures and algorithms like triangulations, Voronoi diagrams, Boolean operations on polygons and polyhedra, point set processing, arrangements of curves, surface and volume mesh generation, geometry processing, alpha shapes, convex hull algorithms, shape analysis, AABB and KD trees...
  
 ---
 
-<iframe src="//player.blubrry.com/id/34550566/#time-0&darkOrLight-Light&shownotes-000000&shownotesBackground-f68a1d&download-ffffff&downloadBackground-384452&subscribe-ffffff&subscribeBackground-f68a1d&share-ffffff&shareBackground-384452" scrolling="no" width="100%" height="138px" frameborder="0"></iframe>
+<audio controls>
+  <source src="http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp010CgalTheComputationalGeometryAlgorithmsLibrary/FLOSSforscience_EP010_CGAL.ogg" type="audio/ogg">
+  <source src="http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp010CgalTheComputationalGeometryAlgorithmsLibrary/FLOSSforscience_EP010_CGAL.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 # Outline
 
@@ -50,12 +63,12 @@ Sébastien is co-author of several CGAL packages and is also part of the editori
 
 # Links:
 
-* The CGAL Project. CGAL User and Reference Manual. CGAL Editorial Board, 4.12.1 edition, 2018. [Link](https://doc.cgal.org/latest/Manual/packages.html)
+* [The CGAL Project. CGAL User and Reference Manual. CGAL Editorial Board, 4.12.1 edition, 2018.](https://doc.cgal.org/latest/Manual/packages.html)
 * [CGAL](https://github.com/CGAL/cgal)@github
-* CGAL Open Source Project Rules and Procedures. [Link](https://www.cgal.org/project_rules.html)
-* [Comprehensive list of projects using CGAL from various fields of art and science](https://www.cgal.org/projects.html)
+* [CGAL Open Source Project Rules and Procedures.](https://www.cgal.org/project_rules.html)
+* [A comprehensive list of projects using CGAL in various fields of art and science.](https://www.cgal.org/projects.html)
 
 
 Listen to this episode here or add our [rss feed](https://flossforscience.github.io/feed.xml) to your favourite podcast application. 
 
-You can download this episode as [MP3](http://media.blubrry.com/flossforscience/archive.org/download/Flossforscience-Ep003JabrefAtJabcon/FlossforscienceEp003.mp3) or [OGG](http://media.blubrry.com/flossforscience/archive.org/download/Flossforscience-Ep003JabrefAtJabcon/FlossforscienceEp003.ogg). In addition, you can listen to the unedited recoring of this interview [here](http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp006-GentooLinuxForNeurosciences/Flossforscience_ep006_raw_unedited_not_for_distribution.mp3).
+You can download this episode as [MP3](http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp010CgalTheComputationalGeometryAlgorithmsLibrary/FLOSSforscience_EP010_CGAL.mp3) or [OGG](http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp010CgalTheComputationalGeometryAlgorithmsLibrary/FLOSSforscience_EP010_CGAL.ogg). 
