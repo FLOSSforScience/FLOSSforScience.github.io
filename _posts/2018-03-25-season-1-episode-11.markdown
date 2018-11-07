@@ -11,27 +11,27 @@ img: FFS011_header.png
 #Thumbnail of the blog post
 thumb: FFS011_thumb.png
 #Link to the mp3 file of the episode
-podcast_link: http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp006-GentooLinuxForNeurosciences/FlossforscienceEp006.mp3
+podcast_link: http://media.blubrry.com/flossforscience/archive.org/download/Ep011BlackboxOptimizationWithNomad/FLOSSforscience_EP011_NOMAD.mp3
 #Link to the ogg file of the episode
-podcast_link_ogg: http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp006-GentooLinuxForNeurosciences/FlossforscienceEp006.ogg
+podcast_link_ogg: http://media.blubrry.com/flossforscience/archive.org/download/Ep011BlackboxOptimizationWithNomad/FLOSSforscience_EP011_NOMAD.ogg
 #File size in MB of the mp3 file
-podcast_file_size: 28.2 MB
+podcast_file_size: 13.7 MB
 #File size in MB of the ogg file
-podcast_file_size_ogg: 29.3 MB
+podcast_file_size_ogg: 15.4 MB
 #Length of the episode in minutes (is the same for ogg and mp3)
-podcast_duration: "58:27"
+podcast_duration: "28:18"
 #File size in bytes of the mp3 file
-podcast_length: 28190601
+podcast_length: 13722269
 #File size in bytes of the ogg file
-podcast_length_ogg: 29312716
+podcast_length_ogg: 15405438
 #Unique id of the mp3 file (sha255)
-podcast_guid: a45d9910f8db37ff0a74eccc23a8c7e61600e39cada36a1dab6387e198cad3f4
+podcast_guid: b4d848cbd2b630d43c49f65609d398666496b6a10d7c1452a9984ace00430dbc
 #“full” for normal episodes; “trailer” to promote an upcoming show, season, or episode; or “bonus” for extra content related to a show, season, or episode.
 podcast_episode_type: full
 #Season number only
-podcast_season_number: 01
+podcast_season_number: 1
 #Episode number only
-podcast_episode_number: 011
+podcast_episode_number: 11
 #Subtitle of the episode 
 podcast_subtitle: An interview with Sébastien Le Digabel
 #Description of the podcast
@@ -58,4 +58,4 @@ Sébastien Le Digabel received the M.Sc.A. degree and the Ph.D. degree in applie
 
 Listen to this episode here or add our [rss feed](https://flossforscience.github.io/feed.xml) to your favourite podcast application. 
 
-You can download this episode as [MP3](http://media.blubrry.com/flossforscience/archive.org/download/Flossforscience-Ep003JabrefAtJabcon/FlossforscienceEp003.mp3) or [OGG](http://media.blubrry.com/flossforscience/archive.org/download/Flossforscience-Ep003JabrefAtJabcon/FlossforscienceEp003.ogg). In addition, you can listen to the unedited recoring of this interview [here](http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp006-GentooLinuxForNeurosciences/Flossforscience_ep006_raw_unedited_not_for_distribution.mp3).
+You can download this episode as [MP3](http://media.blubrry.com/flossforscience/archive.org/download/Ep011BlackboxOptimizationWithNomad/FLOSSforscience_EP011_NOMAD.mp3) or [OGG](http://media.blubrry.com/flossforscience/archive.org/download/Ep011BlackboxOptimizationWithNomad/FLOSSforscience_EP011_NOMAD.ogg). 
