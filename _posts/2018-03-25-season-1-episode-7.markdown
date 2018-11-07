@@ -33,7 +33,7 @@ podcast_episode_type: full
 #Season number only
 podcast_season_number: 01
 #Episode number only
-podcast_episode_number: 007
+podcast_episode_number: 7
 #Subtitle of the episode 
 podcast_subtitle: An interview with Karl Fogel and James Vasile
 #Description of the podcast
