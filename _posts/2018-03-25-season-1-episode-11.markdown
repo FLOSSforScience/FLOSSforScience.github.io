@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EP011 Blackbox optimization with NOMAD"
+title: "EP011 Blackbox Optimization with NOMAD"
 date: 2018-11-07 00:00:00
 author: Admin
 categories: 
