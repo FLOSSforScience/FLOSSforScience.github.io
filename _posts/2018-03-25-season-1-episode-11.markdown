@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "EP008 NOMAD a blackbox optimization software"
-date: 2018-06-06 00:00:00
+title: "EP011 Blackbox optimization with NOMAD"
+date: 2018-11-07 00:00:00
 author: Admin
 categories: 
  - developer
  - podcast
 #Image of the blog post
-img: FFS006_header.png
+img: FFS011_header.png
 #Thumbnail of the blog post
-thumb: FFS006_thumb.png
+thumb: FFS011_thumb.png
 #Link to the mp3 file of the episode
 podcast_link: http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp006-GentooLinuxForNeurosciences/FlossforscienceEp006.mp3
 #Link to the ogg file of the episode
@@ -30,14 +30,14 @@ podcast_guid: a45d9910f8db37ff0a74eccc23a8c7e61600e39cada36a1dab6387e198cad3f4
 podcast_subtitle: An interview with Sébastien Le Digabel
 #Description of the podcast
 podcast_description: 
-  In Episode 8, we interviewed Sébastien Le Digabel about NOMAD a blackbox optimization software. A blackbox is a system which can be viewed in terms of its inputs and outputs, without any knowledge of its internal workings. NOMAD is a software for the optimization of such problems. It implements the Mesh Adaptive Direct Search (MADS) derivative-free optimization algorithm. NOMAD is free and intended to be easy to use. It is designed for solve real-world optimization problems from the industry. It works out of the box, as long as the objective and constraints are provided.
+  In Episode 11, we interviewed Sébastien Le Digabel about NOMAD a blackbox optimization software. A blackbox is a system which can be viewed in terms of its inputs and outputs, without any knowledge of its internal workings. NOMAD is a software for the optimization of such problems. It implements the Mesh Adaptive Direct Search (MADS) derivative-free optimization algorithm. NOMAD is free and intended to be easy to use. It is designed for solve real-world optimization problems from the industry. It works out of the box, as long as the objective and constraints are provided.
 ---
 
 <iframe src="//player.blubrry.com/id/34550566/#time-0&darkOrLight-Light&shownotes-000000&shownotesBackground-f68a1d&download-ffffff&downloadBackground-384452&subscribe-ffffff&subscribeBackground-f68a1d&share-ffffff&shareBackground-384452" scrolling="no" width="100%" height="138px" frameborder="0"></iframe>
 
 # Outline
 
-In Episode 8, we interviewed Sébastien Le Digabel about [NOMAD](www.gerad.ca/nomad) a blackbox optimization software. A blackbox is a system which can be viewed in terms of its inputs and outputs, without any knowledge of its internal workings. NOMAD is a software for the optimization of such problems. It implements the Mesh Adaptive Direct Search (MADS) derivative-free optimization algorithm. NOMAD is free and intended to be easy to use. It is designed for solve real-world optimization problems from the industry. It works out of the box, as long as the objective and constraints are provided.
+In Episode 11, we interviewed Sébastien Le Digabel about [NOMAD](www.gerad.ca/nomad) a blackbox optimization software. A blackbox is a system which can be viewed in terms of its inputs and outputs, without any knowledge of its internal workings. NOMAD is a software for the optimization of such problems. It implements the Mesh Adaptive Direct Search (MADS) derivative-free optimization algorithm. NOMAD is free and intended to be easy to use. It is designed for solve real-world optimization problems from the industry. It works out of the box, as long as the objective and constraints are provided.
 
 
 # About Sébastien Le Digabel: 
@@ -48,6 +48,7 @@ Sébastien Le Digabel received the M.Sc.A. degree and the Ph.D. degree in applie
 
 * [Nomad @ github](https://github.com/TheLoutre/nomad)
 * Le Digabel, S., 2011. Algorithm 909: NOMAD: Nonlinear Optimization with the MADS algorithm. ACM Transactions on Mathematical Software 37 (4), 44:1–44:15. [DOI](https://doi.org/10.1145/1916461.1916)
+* [NOMAD's user guide](https://www.gerad.ca/nomad/Downloads/user_guide.pdf)
 
 Listen to this episode here or add our [rss feed](https://flossforscience.github.io/feed.xml) to your favourite podcast application. 
 
