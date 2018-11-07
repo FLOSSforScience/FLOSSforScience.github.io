@@ -31,7 +31,7 @@ podcast_episode_type: full
 #Season number only
 podcast_season_number: 01
 #Episode number only
-podcast_episode_number: 009
+podcast_episode_number: 9
 #Subtitle of the episode 
 podcast_subtitle: An interview with Christophe Geuzaine
 #Description of the podcast
