@@ -31,7 +31,7 @@ podcast_episode_type: full
 #Season number only
 podcast_season_number: 01
 #Episode number only
-podcast_episode_number: 010
+podcast_episode_number: 10
 #Subtitle of the episode 
 podcast_subtitle: An interview with Sébastien Loriot from the CGAL project
 #Description of the podcast
