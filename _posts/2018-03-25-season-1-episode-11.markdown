@@ -56,7 +56,7 @@ Sébastien Le Digabel received the M.Sc.A. degree and the Ph.D. degree in applie
 
 # Links:
 
-* [Nomad @ github](https://github.com/TheLoutre/nomad)
+* [Nomad website](https://www.gerad.ca/nomad/)
 * Le Digabel, S., 2011. Algorithm 909: NOMAD: Nonlinear Optimization with the MADS algorithm. ACM Transactions on Mathematical Software 37 (4), 44:1–44:15. [DOI](https://doi.org/10.1145/1916461.1916)
 * [NOMAD's user guide](https://www.gerad.ca/nomad/Downloads/user_guide.pdf)
 
