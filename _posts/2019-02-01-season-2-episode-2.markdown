@@ -58,6 +58,7 @@ Pat David is a Free Software advocate, occasional photographer, and digital dabb
 # Links
 * [GIMP](https://www.gimp.org/)
 * [PIXLS.US](https://pixls.us/)
+* [Personal website](https://patdavid.net/)
 
 Listen to this episode here or add our [rss feed](https://flossforscience.github.io/feed.xml) to your favourite podcast application. 
 
