@@ -47,12 +47,9 @@ podcast_description: |
 Your browser does not support the audio element.
 </audio>
 
-# About rrttols:
-
-
 # About Ben Marwick: 
 
-Pat David is a Free Software advocate, occasional photographer, and digital dabbler.  He has been a member of the GIMP team for many years now, and did the recent re-design of the GIMP website.  He is also the founder of the Free Software photography community [PIXLS.US](https://pixls.us/). His time is usually spent annoying, then helping, various FL/OSS projects (in that order).
+Ben Marwick is an Associate Professor of Archaeology at the University of Washington, Seattle. His other local affiliations include the eScience Institute, the Burke Museum, the Center for Statistics and Social Sciences, the Quaternary Research Center, and the Southeast Asia Center. Ben's main research activities combine models from evolutionary ecology with analyses of archaeological evidence to investigate past human behaviour. Specific interests include the hominin colonisation of mainland Southeast Asia, forager technologies and ecology in Australia, mainland Southeast Asia and elsewhere. He also analyses how archaeology engages with local communities and popular culture. Ben has a special interest in techniques and methods for reproducible research, especially using open source software. To support this, he has lead the development of the rrtools package for the R programming language, which simplifies many of the tasks of writing a reproducible manuscript.
 
 # Links
 * [rrtools:](https://github.com/benmarwick/rrtools) Tools for Writing Reproducible Research in R
