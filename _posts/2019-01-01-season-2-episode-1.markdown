@@ -64,7 +64,7 @@ Martin is a British Free Software contractor based in Boston, Massachusetts.
 * [Martin's inkscape profile](https://inkscape.org/en/~doctormo)
 * [Martin's devianart profile](https://www.deviantart.com/doctormo)
 * [Martin's GitLab profile](https://gitlab.com/doctormo)
-* [Martin's email](doctormo@gmail.com )
+* [Martin's email](mailto:doctormo@gmail.com)
 
 Listen to this episode here or add our [rss feed](https://flossforscience.com/feed.xml) to your favourite podcast application. 
 
