@@ -38,7 +38,7 @@ podcast_episode_number: 008
 podcast_subtitle: An interview with Bruno Blais
 #Description of the podcast
 podcast_description: |
-  For episode 8, we interviewed Bruno Blais about his utilization of open source software in his research about solid-liquid mixing. We started our conversation by talking about the different kinds of software packages he uses in his simulation workflow. We then asked him why and when he has decided to use FLOSS tools in is research. Following that, we talked about his philosophical and practical reasons to use FLOSS. He then shared with us how he contributes to the software he is using in his daily research. Finally, we talked with him about the significance of FLOSS for the openness of science and how it affects the society as a whole. This episode is the first of series about computer simulations. Follow us to be informed when we will release our next episode about the open source meshing tool GMSH.  
+  For episode 13, we interviewed Martin Owens, a British Free Software contractor based in Boston Massachusetts, during the 2018 Boston Inkscape Hackfest, about the Inkscape project. After a brief presentation of Inkscape, we talked about the svg file format and the compatibility of Inkscape with other commercial proprietary offerings. He presented us a list of features planned for Inkscape 1.0, the next major version. We discussed about Inkscape in science and the wider importance of free software and open science. Follow us to be informed when we will release our next episode about the GNU image manipulation program aka GIMP.  
 ---
 
 <audio controls>
@@ -47,13 +47,13 @@ podcast_description: |
 Your browser does not support the audio element.
 </audio>
 
+# Outline
+
+For episode 13, we interviewed Martin Owens, a British Free Software contractor based in Boston Massachusetts, during the 2018 Boston Inkscape Hackfest, about the Inkscape project. After a brief presentation of Inkscape, we talked about the svg file format and the compatibility of Inkscape with other commercial proprietary offerings. He presented us a list of features planned for Inkscape 1.0, the next major version. We discussed about Inkscape in science and the wider importance of free software and open science. Follow us to be informed when we will release our next episode about the GNU image manipulation program aka GIMP.  
+
 # About Inkscape:
 
-A Free and Open Source SVG vector image editor available for
-multiple platforms. A popular way of creating physical objects,
-intricate visualisations and beautiful artworks.
-
-
+A Free and Open Source SVG vector image editor available for multiple platforms. A popular way of creating physical objects, intricate visualisations and beautiful artworks.
 
 # About Martin Owens: 
 
