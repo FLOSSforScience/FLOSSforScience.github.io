@@ -38,7 +38,7 @@ podcast_episode_number: 001
 podcast_subtitle: An interview with Martin Owens
 #Description of the podcast
 podcast_description: |
-  For episode 13, we interviewed Martin Owens, a British Free Software contractor based in Boston Massachusetts, during the 2018 Boston Inkscape Hackfest, about the Inkscape project. After a brief presentation of Inkscape, we talked about the svg file format and the compatibility of Inkscape with other commercial proprietary offerings. He presented us a list of features planned for Inkscape 1.0, the next major version. We discussed about Inkscape in science and the wider importance of free software and open science. Follow us to be informed when we will release our next episode about the GNU image manipulation program aka GIMP.  
+  For episode 13, we interviewed Martin Owens, a British Free Software contractor based in Boston Massachusetts, during the 2018 Kiel Inkscape Hackfest, about the Inkscape project. After a brief presentation of Inkscape, we talked about the svg file format and the compatibility of Inkscape with other commercial proprietary offerings. He presented us a list of features planned for Inkscape 1.0, the next major version. We discussed about Inkscape in science and the wider importance of free software and open science. Follow us to be informed when we will release our next episode about the GNU image manipulation program aka GIMP.  
 ---
 
 <audio controls>
@@ -49,7 +49,7 @@ Your browser does not support the audio element.
 
 # Outline
 
-For episode 13, we interviewed Martin Owens, a British Free Software contractor based in Boston Massachusetts, during the 2018 Boston Inkscape Hackfest, about the Inkscape project. After a brief presentation of Inkscape, we talked about the svg file format and the compatibility of Inkscape with other commercial proprietary offerings. He presented us a list of features planned for Inkscape 1.0, the next major version. We discussed about Inkscape in science and the wider importance of free software and open science. Follow us to be informed when we will release our next episode about the GNU image manipulation program aka GIMP.  
+For episode 13, we interviewed Martin Owens, a British Free Software contractor based in Boston Massachusetts, during the 2018 Kiel Inkscape Hackfest, about the Inkscape project. After a brief presentation of Inkscape, we talked about the svg file format and the compatibility of Inkscape with other commercial proprietary offerings. He presented us a list of features planned for Inkscape 1.0, the next major version. We discussed about Inkscape in science and the wider importance of free software and open science. Follow us to be informed when we will release our next episode about the GNU image manipulation program aka GIMP.  
 
 # About Inkscape:
 
