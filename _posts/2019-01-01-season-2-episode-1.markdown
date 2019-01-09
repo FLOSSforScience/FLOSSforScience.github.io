@@ -13,9 +13,9 @@ img: FFS013_header.png
 #Thumbnail of the blog post
 thumb: FFS013_thumb.png
 #Link to the mp3 file of the episode
-podcast_link: http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp008-Solid-liquidMixingModelling/FlossForScienceBrunoBlais.mp3
+podcast_link: http://media.blubrry.com/flossforscience/archive.org/download/Ep013VectorGraphicsWithInkscape/FLOSSforscience_EP013_Inkscape.mp3
 #Link to the ogg file of the episode
-podcast_link_ogg: http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp008-Solid-liquidMixingModelling/FlossForScienceBrunoBlais.ogg
+podcast_link_ogg: http://media.blubrry.com/flossforscience/archive.org/download/Ep013VectorGraphicsWithInkscape/FLOSSforscience_EP013_Inkscape.ogg
 #File size in MB of the mp3 file
 podcast_file_size: 18.2 MB
 #File size in MB of the ogg file
@@ -42,8 +42,8 @@ podcast_description: |
 ---
 
 <audio controls>
-  <source src="http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp008-Solid-liquidMixingModelling/FlossForScienceBrunoBlais.ogg" type="audio/ogg">
-  <source src="http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp008-Solid-liquidMixingModelling/FlossForScienceBrunoBlais.mp3" type="audio/mpeg">
+  <source src="http://media.blubrry.com/flossforscience/archive.org/download/Ep013VectorGraphicsWithInkscape/FLOSSforscience_EP013_Inkscape.ogg" type="audio/ogg">
+  <source src="http://media.blubrry.com/flossforscience/archive.org/download/Ep013VectorGraphicsWithInkscape/FLOSSforscience_EP013_Inkscape.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -63,7 +63,9 @@ Martin is a British Free Software contractor based in Boston, Massachusetts.
 * [Inkscape](https://inkscape.org/en/)
 * [Martin's inkscape profile](https://inkscape.org/en/~doctormo)
 * [Martin's devianart profile](https://www.deviantart.com/doctormo)
+* [Martin's GitLab profile](https://gitlab.com/doctormo)
+* [Martin's email](doctormo@gmail.com )
 
-Listen to this episode here or add our [rss feed](https://flossforscience.github.io/feed.xml) to your favourite podcast application. 
+Listen to this episode here or add our [rss feed](https://flossforscience.com/feed.xml) to your favourite podcast application. 
 
-You can also download this episode as [MP3](https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp008-Solid-liquidMixingModelling/FlossForScienceBrunoBlais.mp3) or [OGG](https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp008-Solid-liquidMixingModelling/FlossForScienceBrunoBlais.ogg). 
+You can also download this episode as [MP3](http://media.blubrry.com/flossforscience/archive.org/download/Ep013VectorGraphicsWithInkscape/FLOSSforscience_EP013_Inkscape.mp3) or [OGG](http://media.blubrry.com/flossforscience/archive.org/download/Ep013VectorGraphicsWithInkscape/FLOSSforscience_EP013_Inkscape.ogg). 
