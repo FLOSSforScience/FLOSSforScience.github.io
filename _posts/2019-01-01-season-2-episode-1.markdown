@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EP013 Vector graphics with Inkscape"
+title: "EP013 Vector Graphics with Inkscape"
 date: 2019-01-08 00:00:00
 author: Admin
 categories: 
