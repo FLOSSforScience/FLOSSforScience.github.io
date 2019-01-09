@@ -57,8 +57,7 @@ A Free and Open Source SVG vector image editor available for multiple platforms.
 
 # About Martin Owens: 
 
-A British Free Software contractor based in Boston
-Massachusetts.
+Martin is a British Free Software contractor based in Boston, Massachusetts.
 
 # Links
 * [Inkscape](https://inkscape.org/en/)
