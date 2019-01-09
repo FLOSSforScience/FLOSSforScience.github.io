@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "EP008 Solid-Liquid Mixing Modelling"
-date: 2018-08-01 00:00:00
+title: "EP013 Vector graphics with Inkscape"
+date: 2019-01-08 00:00:00
 author: Admin
 categories: 
- - user
+ - Developer
  - podcast
 #Title of the podcast episode without the episode number
-podcast_episode_title: Solid-Liquid Mixing Modelling
+podcast_episode_title: Vector graphics with Inkscape
 #Image of the blog post
-img: FFS008_header.png
+img: FFS013_header.png
 #Thumbnail of the blog post
-thumb: FFS008_thumb.png
+thumb: FFS013_thumb.png
 #Link to the mp3 file of the episode
 podcast_link: http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp008-Solid-liquidMixingModelling/FlossForScienceBrunoBlais.mp3
 #Link to the ogg file of the episode
@@ -33,9 +33,9 @@ podcast_episode_type: full
 #Season number only
 podcast_season_number: 01
 #Episode number only
-podcast_episode_number: 008
+podcast_episode_number: 013
 #Subtitle of the episode 
-podcast_subtitle: An interview with Bruno Blais
+podcast_subtitle: An interview with Martin Owens
 #Description of the podcast
 podcast_description: |
   For episode 13, we interviewed Martin Owens, a British Free Software contractor based in Boston Massachusetts, during the 2018 Boston Inkscape Hackfest, about the Inkscape project. After a brief presentation of Inkscape, we talked about the svg file format and the compatibility of Inkscape with other commercial proprietary offerings. He presented us a list of features planned for Inkscape 1.0, the next major version. We discussed about Inkscape in science and the wider importance of free software and open science. Follow us to be informed when we will release our next episode about the GNU image manipulation program aka GIMP.  
