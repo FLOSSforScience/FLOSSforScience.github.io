@@ -17,23 +17,23 @@ podcast_link: http://media.blubrry.com/flossforscience/archive.org/download/Flos
 #Link to the ogg file of the episode
 podcast_link_ogg: http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp008-Solid-liquidMixingModelling/FlossForScienceBrunoBlais.ogg
 #File size in MB of the mp3 file
-podcast_file_size: 18.3 MB
+podcast_file_size: 18.2 MB
 #File size in MB of the ogg file
-podcast_file_size_ogg: 20.7 MB
+podcast_file_size_ogg: 20.5 MB
 #Length of the episode in minutes (is the same for ogg and mp3)
-podcast_duration: "0:37:51"
+podcast_duration: "0:37:36"
 #File size in bytes of the mp3 file
-podcast_length: 18305244
+podcast_length: 18188658
 #File size in bytes of the ogg file
-podcast_length_ogg: 20654445
+podcast_length_ogg: 20493207
 #Unique id of the mp3 file (sha256)
-podcast_guid: 94ea28ec123c51807c4f1eec37ae3ea7adf458957654671f57e08cdb15fa190a
+podcast_guid: a659707a4660d8494594a2d6b14cabcb53898675f63d18a045fc7697adad7a9a
 #“full” for normal episodes; “trailer” to promote an upcoming show, season, or episode; or “bonus” for extra content related to a show, season, or episode.
 podcast_episode_type: full
 #Season number only
-podcast_season_number: 01
+podcast_season_number: 02
 #Episode number only
-podcast_episode_number: 013
+podcast_episode_number: 001
 #Subtitle of the episode 
 podcast_subtitle: An interview with Martin Owens
 #Description of the podcast
