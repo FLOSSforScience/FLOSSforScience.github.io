@@ -9,7 +9,7 @@ categories:
 #Title of the podcast episode without the episode number
 podcast_episode_title: Vector graphics with Inkscape
 #Image of the blog post
-img: FFS013_header.png
+img: FFS013_banner_750x500px-fs8.png
 #Thumbnail of the blog post
 thumb: FFS013_thumb.png
 #Link to the mp3 file of the episode
