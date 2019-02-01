@@ -11,7 +11,7 @@ podcast_episode_title: Vector graphics with Inkscape
 #Image of the blog post
 img: FFS013_banner_750x500px.png
 #Thumbnail of the blog post
-thumb: FFS013_thumb.png
+thumb: FFS013_thumb_70x47px.png
 #Link to the mp3 file of the episode
 podcast_link: http://media.blubrry.com/flossforscience/archive.org/download/Ep013VectorGraphicsWithInkscape/FLOSSforscience_EP013_Inkscape.mp3
 #Link to the ogg file of the episode
