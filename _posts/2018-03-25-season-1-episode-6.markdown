@@ -33,7 +33,7 @@ podcast_episode_type: full
 #Season number only
 podcast_season_number: 01
 #Episode number only
-podcast_episode_number: 006
+podcast_episode_number: 6
 #Subtitle of the episode 
 podcast_subtitle: An interview with Christian Horea
 #Description of the podcast

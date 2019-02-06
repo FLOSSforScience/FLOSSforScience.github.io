@@ -21,8 +21,8 @@ podcast_length_ogg: 11483928
 podcast_guid: 204efffe623ab7cc39e821a46fc39a6062ff44cd8413d4d8a4ef730e275dbb5b
 podcast_episode_type: full
 #Season number only
-podcast_season_number: 01
-podcast_episode_number: 002
+podcast_season_number: 1
+podcast_episode_number: 2
 podcast_subtitle: An interview with Laurent Cormier
 podcast_description: In Episode 2, we interview Laurent Cormier, a research associate at the Ecole de Technologie Superieure in Montreal. He introduces us to his past research regarding the evaluation of the fatigue life of composite materials and the predictive model he developed with Python. He also share with us his scientific perspective on FLOSS and tools he uses in his research workflow.
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EP09 Finite element meshing with gmsh"
+title: "EP009 Finite element meshing with gmsh"
 date: 2018-09-05 00:00:00
 author: Admin
 categories: 
@@ -31,7 +31,7 @@ podcast_episode_type: full
 #Season number only
 podcast_season_number: 01
 #Episode number only
-podcast_episode_number: 009
+podcast_episode_number: 9
 #Subtitle of the episode 
 podcast_subtitle: An interview with Christophe Geuzaine
 #Description of the podcast

@@ -33,7 +33,7 @@ podcast_episode_type: full
 #Season number only
 podcast_season_number: 01
 #Episode number only
-podcast_episode_number: 008
+podcast_episode_number: 8
 #Subtitle of the episode 
 podcast_subtitle: An interview with Bruno Blais
 #Description of the podcast
