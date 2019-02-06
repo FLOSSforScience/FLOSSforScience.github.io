@@ -14,21 +14,21 @@ img: FFS014_header.png
 #Thumbnail of the blog post
 thumb: FFS014_thumb.png
 #Link to the mp3 file of the episode
-podcast_link: http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp008-Solid-liquidMixingModelling/FlossForScienceBrunoBlais.mp3
+podcast_link: http://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP014GIMP/FLOSSforscience_EP014_GIMP.mp3
 #Link to the ogg file of the episode
-podcast_link_ogg: http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp008-Solid-liquidMixingModelling/FlossForScienceBrunoBlais.ogg
+podcast_link_ogg: http://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP014GIMP/FLOSSforscience_EP014_GIMP.ogg
 #File size in MB of the mp3 file
-podcast_file_size: 18.3 MB
+podcast_file_size: 22.9 MB
 #File size in MB of the ogg file
-podcast_file_size_ogg: 20.7 MB
+podcast_file_size_ogg: 25.2 MB
 #Length of the episode in minutes (is the same for ogg and mp3)
 podcast_duration: "0:47:23"
 #File size in bytes of the mp3 file
-podcast_length: 18305244
+podcast_length: 22882571
 #File size in bytes of the ogg file
-podcast_length_ogg: 20654445
+podcast_length_ogg: 25180006
 #Unique id of the mp3 file (sha256)
-podcast_guid: 94ea28ec123c51807c4f1eec37ae3ea7adf458957654671f57e08cdb15fa190a
+podcast_guid: 1a3b3cee9c13042e83d7c6904cc0887dae9591592fd682ecfd5027bdeb013bad
 #“full” for normal episodes; “trailer” to promote an upcoming show, season, or episode; or “bonus” for extra content related to a show, season, or episode.
 podcast_episode_type: full
 #Season number only
@@ -43,8 +43,8 @@ podcast_description: |
 ---
 
 <audio controls>
-  <source src="http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp008-Solid-liquidMixingModelling/FlossForScienceBrunoBlais.ogg" type="audio/ogg">
-  <source src="http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp008-Solid-liquidMixingModelling/FlossForScienceBrunoBlais.mp3" type="audio/mpeg">
+  <source src="http://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP014GIMP/FLOSSforscience_EP014_GIMP.ogg" type="audio/ogg">
+  <source src="http://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP014GIMP/FLOSSforscience_EP014_GIMP.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -65,6 +65,6 @@ Pat David is a Free Software advocate, occasional photographer, and digital dabb
 * [PIXLS.US](https://pixls.us/)
 * [Personal website](https://patdavid.net/)
 
-Listen to this episode here or add our [rss feed](https://flossforscience.github.io/feed.xml) to your favourite podcast application. 
+Listen to this episode here or add our [rss feed](https://flossforscience.com/feed.xml) to your favourite podcast application. 
 
-You can also download this episode as [MP3](https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp008-Solid-liquidMixingModelling/FlossForScienceBrunoBlais.mp3) or [OGG](https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp008-Solid-liquidMixingModelling/FlossForScienceBrunoBlais.ogg). 
+You can also download this episode as [MP3](http://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP014GIMP/FLOSSforscience_EP014_GIMP.mp3) or [OGG](http://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP014GIMP/FLOSSforscience_EP014_GIMP.ogg). 
