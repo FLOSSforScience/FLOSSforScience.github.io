@@ -63,6 +63,6 @@ Bruno Blais is a Research Officer with the Automotive and Surface Transportation
 * [LinkedIn profile](https://www.linkedin.com/in/bruno-blais-b39b407a/)
 * [email](mailto:bruno.blais@cnrc-nrc.gc.ca)
 
-Listen to this episode here or add our [rss feed](https://flossforscience.github.io/feed.xml) to your favourite podcast application. 
+Listen to this episode here or add our [rss feed](https://flossforscience.com/feed.xml) to your favourite podcast application. 
 
 You can also download this episode as [MP3](https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp008-Solid-liquidMixingModelling/FlossForScienceBrunoBlais.mp3) or [OGG](https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp008-Solid-liquidMixingModelling/FlossForScienceBrunoBlais.ogg). 
