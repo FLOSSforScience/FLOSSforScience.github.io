@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "EP014 Gimp Your Images for Publication"
-date: 2018-02-06 00:00:00
+date: 2019-02-06 00:00:00
 author: Admin
 categories: 
  - user
