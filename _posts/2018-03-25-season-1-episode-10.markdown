@@ -69,6 +69,6 @@ Sébastien is co-author of several CGAL packages and is also part of the editori
 * [A comprehensive list of projects using CGAL in various fields of art and science.](https://www.cgal.org/projects.html)
 
 
-Listen to this episode here or add our [rss feed](https://flossforscience.github.io/feed.xml) to your favourite podcast application. 
+Listen to this episode here or add our [rss feed](https://flossforscience.com/feed.xml) to your favourite podcast application. 
 
 You can download this episode as [MP3](http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp010CgalTheComputationalGeometryAlgorithmsLibrary/FLOSSforscience_EP010_CGAL.mp3) or [OGG](http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp010CgalTheComputationalGeometryAlgorithmsLibrary/FLOSSforscience_EP010_CGAL.ogg). 
