@@ -63,6 +63,6 @@ Prof. Geuzaine's research encompasses modeling, analysis, algorithm development,
 * C.  Geuzaine,  J.-F.  Remacle,  Gmsh:  A  3-d  finite  element  mesh  generator  with  built-in  pre-and  post-
 processing  facilities,  International  journal  for  numerical  methods  in  engineering  79  (11)  (2009)  1309–1331. [doi:doi.org/10.1002/nme.2579](https://doi.org/10.1002/nme.2579)
 
-Listen to this episode here or add our [rss feed](https://flossforscience.github.io/feed.xml) to your favourite podcast application. 
+Listen to this episode here or add our [rss feed](https://flossforscience.com/feed.xml) to your favourite podcast application. 
 
 You can download this episode as [MP3](http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp009-GmshForFiniteElementMeshes/FLOSSforscience_EP009_GMSH.mp3) or [OGG](http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp009-GmshForFiniteElementMeshes/FLOSSforscience_EP009_GMSH.ogg). 
