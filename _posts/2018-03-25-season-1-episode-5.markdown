@@ -70,7 +70,7 @@ ultimately rewarding experience.
 
 You can get more information about LibreOffice using [this link](https://www.libreoffice.org/discover/libreoffice/). If you want to get involved in the project you can get more information's [here](https://www.libreoffice.org/community/get-involved/) and a video can also be found on [Youtube](https://youtu.be/ir6KiKfnWCw). 
 
-Listen to this episode here or add our [rss feed](https://flossforscience.github.io/feed.xml) to your favourite podcast application. 
+Listen to this episode here or add our [rss feed](https://flossforscience.com/feed.xml) to your favourite podcast application. 
 
 For the definition of Denkmalschutz, you can consult this [link](https://dictionary.cambridge.org/dictionary/german-english/denkmalschutz)
 
