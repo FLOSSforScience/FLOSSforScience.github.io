@@ -70,6 +70,6 @@ James was a founding board member of Open Source Matters, the non-profit behind 
 * More resources about starting and managing open source projects. [Link](https://opentechstrategies.com/#resources)
 
 
-Listen to this episode here or add our [rss feed](https://flossforscience.github.io/feed.xml) to your favourite podcast application. 
+Listen to this episode here or add our [rss feed](https://flossforscience.com/feed.xml) to your favourite podcast application. 
 
 You can download this episode as [MP3](https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp007-AGuideToSoftwareLicensesInScience/Ep007FlossForScience.mp3) or [OGG](https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp007-AGuideToSoftwareLicensesInScience/Ep007FlossForScience.ogg). 
