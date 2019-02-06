@@ -49,19 +49,28 @@ Your browser does not support the audio element.
 
 # Outline
 
-For episode 13, we interviewed Martin Owens, a British Free Software contractor based in Boston Massachusetts, during the 2018 Kiel Inkscape Hackfest, about the Inkscape project. After a brief presentation of Inkscape, we talked about the svg file format and the compatibility of Inkscape with other commercial proprietary offerings. He presented us a list of features planned for Inkscape 1.0, the next major version. We discussed about Inkscape in science and the wider importance of free software and open science. Follow us to be informed when we will release our next episode about the GNU image manipulation program aka GIMP.  
+
 
 # About OpenHPC:
 
+
+OpenHPC is a collaborative, community effort that initiated from a desire to aggregate a number of common ingredients required to deploy and manage High Performance Computing (HPC) Linux clusters including provisioning tools, resource management, I/O clients, development and administration tools, and a variety of scientific libraries. Packages provided by OpenHPC have been pre-built with HPC integration in mind with a goal to provide re-usable building blocks for the HPC community. OpenHPC was formalized as a Linux Foundation collaborative project in June 2016 and has over 35 institutional members from academia, national labs, and industry.
 
 
 # About Karl W. Schulz: 
 
 
+Karl W. Schulz received his Ph.D. from the University of Texas (UT) in 1999.  After completing a one-year post-doc, he transitioned to the commercial software industry working for the CD-Adapco group as a Senior Project Engineer to develop and support engineering software in the field of computational fluid dynamics (CFD).  After several years in industry, Karl returned to UT in 2003, joining the research staff at the Texas Advanced Computing Center (TACC), a leading research center for advanced computational science, engineering and technology. During his 10-year tenure at TACC, Karl was actively engaged in HPC research, scientific curriculum development and teaching, technology evaluation and integration, and strategic initiatives serving on the Center’s leadership team.  Karl also served as the Chief Software Architect for the PECOS Center within the Institute for Computational Engineering and Sciences (ICES), a research group focusing on the development of next-generation software to support multi-physics simulations and uncertainty quantification.
+
+In 2014, Karl joined the Data Center Group at Intel where he led the technical design and release of OpenHPC. He continues to remain actively engaged in the project and is currently serving as the overall Project Lead. In 2018, Karl returned to UT as a Research Associate Professor in an interdisciplinary role within ICES and the Women’s Health Department at the Dell Medical School.
+
+
 # Links
-* [OpenHPC](https://openhpc.community/)
-* [OpenHPC @ github](https://github.com/openhpc)
+* [Community Site](https://openhpc.community/)
+* [OpenHPC @ github](https://github.com/openhpc/ohp)
 * [OpenHPC @ Twitter](https://twitter.com/openhpccomm)
+* [Papers and Presentations](https://github.com/openhpc/ohpc/wiki/Papers-and-Presentations
+* [User Mailing Lists](https://groups.io/g/openhpc-users)
 
 Listen to this episode here or add our [rss feed](https://flossforscience.com/feed.xml) to your favourite podcast application. 
 
