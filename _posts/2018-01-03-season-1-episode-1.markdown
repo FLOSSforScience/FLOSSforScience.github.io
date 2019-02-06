@@ -38,6 +38,6 @@ In this episode the two hosts David Brassard and Patrick Diehl of *FLOSS for Sci
 
 # Links
 
-Listen this episode here or add our [rss feed](https://flossforscience.github.io/feed.xml) to your favourite podcast app:
+Listen this episode here or add our [rss feed](https://flossforscience.com/feed.xml) to your favourite podcast app:
 
 
