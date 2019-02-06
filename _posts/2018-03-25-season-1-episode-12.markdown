@@ -69,6 +69,6 @@ For more details, we refer to his social media:
 * [HPC-UGent team @ github](https://github.com/hpcugent)
 * [How To Make Package Managers Cry" talk at FOSDEM'18](https://fosdem.org/2018/schedule/event/how_to_make_package_managers_cry)
 
-Listen to this episode here or add our [rss feed](https://flossforscience.github.io/feed.xml) to your favourite podcast application. 
+Listen to this episode here or add our [rss feed](https://flossforscience.com/feed.xml) to your favourite podcast application. 
 
 You can download this episode as [MP3](http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp012EasybuildBuildingSoftwareWithEaseForHpc/FLOSSforscience_EP012_EasyBuild.mp3) or [OGG](http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp012EasybuildBuildingSoftwareWithEaseForHpc/FLOSSforscience_EP012_EasyBuild.ogg). 
