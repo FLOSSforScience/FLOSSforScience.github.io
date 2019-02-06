@@ -91,6 +91,6 @@ For more details, we refer to his social media:
 * [NeuroGentoo Overlay @ github](https://github.com/TheChymera/neurogentoo)
 * Christian, Horea & Saab, Bechara & Rudin, Markus. (2017). Gentoo Linux for Neuroscience - a replicable, flexible, scalable, rolling-release environment that provides direct access to development software. Research Ideas and Outcomes. 3. e12095. [10.3897/rio.3.e12095](https://doi.org/10.3897/rio.3.e12095). 
 
-Listen to this episode here or add our [rss feed](https://flossforscience.github.io/feed.xml) to your favourite podcast application. 
+Listen to this episode here or add our [rss feed](https://flossforscience.com/feed.xml) to your favourite podcast application. 
 
 You can download this episode as [MP3](https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp006-GentooLinuxForNeurosciences/FlossforscienceEp006.mp3) or [OGG](https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp006-GentooLinuxForNeurosciences/FlossforscienceEp006.ogg). In addition, you can listen to the unedited recording of this interview [here](https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp006-GentooLinuxForNeurosciences/Flossforscience_ep006_raw_unedited_not_for_distribution.mp3).
