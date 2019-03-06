@@ -5,6 +5,7 @@ date: 2018-03-05 00:00:00
 author: Admin
 categories: 
  - user
+ - developer
  - podcast
 #Title of the podcast episode without the episode number
 podcast_episode_title: Reproducible Research in Archaeology with rrtools
