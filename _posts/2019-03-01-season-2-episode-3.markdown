@@ -5,6 +5,7 @@ date: 2018-03-06 00:00:00
 author: Admin
 categories: 
  - user
+ - developer
  - podcast
 #Title of the podcast episode without the episode number
 podcast_episode_title: Reproducible Research in Archaeology with rrtools
@@ -13,21 +14,21 @@ img: FFS015_header.png
 #Thumbnail of the blog post
 thumb: FFS015_thumb.png
 #Link to the mp3 file of the episode
-podcast_link: http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp008-Solid-liquidMixingModelling/FlossForScienceBrunoBlais.mp3
+podcast_link: http://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP015BenMarwick/FLOSSforscience_EP015_BenMarwick.mp3
 #Link to the ogg file of the episode
-podcast_link_ogg: http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp008-Solid-liquidMixingModelling/FlossForScienceBrunoBlais.ogg
+podcast_link_ogg: http://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP015BenMarwick/FLOSSforscience_EP015_BenMarwick.ogg
 #File size in MB of the mp3 file
-podcast_file_size: 18.3 MB
+podcast_file_size: 35.6 MB
 #File size in MB of the ogg file
-podcast_file_size_ogg: 20.7 MB
+podcast_file_size_ogg: 38.9 MB
 #Length of the episode in minutes (is the same for ogg and mp3)
-podcast_duration: "0:37:51"
+podcast_duration: "1:13:52"
 #File size in bytes of the mp3 file
-podcast_length: 18305244
+podcast_length: 35591012
 #File size in bytes of the ogg file
-podcast_length_ogg: 20654445
+podcast_length_ogg: 38911790
 #Unique id of the mp3 file (sha256)
-podcast_guid: 94ea28ec123c51807c4f1eec37ae3ea7adf458957654671f57e08cdb15fa190a
+podcast_guid: 0475c22464c90bab2682162fe7f509e0a21192bcb1a9136963abb6a2c6e9c504
 #“full” for normal episodes; “trailer” to promote an upcoming show, season, or episode; or “bonus” for extra content related to a show, season, or episode.
 podcast_episode_type: full
 #Season number only
@@ -42,8 +43,8 @@ podcast_description: |
 ---
 
 <audio controls>
-  <source src="http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp008-Solid-liquidMixingModelling/FlossForScienceBrunoBlais.ogg" type="audio/ogg">
-  <source src="http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp008-Solid-liquidMixingModelling/FlossForScienceBrunoBlais.mp3" type="audio/mpeg">
+  <source src="https://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP015BenMarwick/FLOSSforscience_EP015_BenMarwick.ogg" type="audio/ogg">
+  <source src="https://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP015BenMarwick/FLOSSforscience_EP015_BenMarwick.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -61,6 +62,6 @@ Ben Marwick is an Associate Professor of Archaeology at the University of Washin
 * Marwick B, Boettiger C, Mullen L. 2018. Packaging data analytical work reproducibly using R (and friends) PeerJ Preprints 6:e3192v2 [https://doi.org/10.7287/peerj.preprints.3192v2](https://doi.org/10.7287/peerj.preprints.3192v2)
 * Eglen SJ, Marwick B, Halchenko YO, Hanke M, Sufi S, Gleeson P, Silver RA, Davison AP, Lanyon L, Abrams M, Wachtler T. Toward standard practices for sharing computer code and programs in neuroscience. Nature neuroscience. 2017 May 25;20(6):770.
 
-Listen to this episode here or add our [rss feed](https://flossforscience.github.io/feed.xml) to your favourite podcast application. 
+Listen to this episode here or add our [rss feed](https://flossforscience.com/feed.xml) to your favourite podcast application. 
 
-You can also download this episode as [MP3](https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp008-Solid-liquidMixingModelling/FlossForScienceBrunoBlais.mp3) or [OGG](https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp008-Solid-liquidMixingModelling/FlossForScienceBrunoBlais.ogg). 
+You can also download this episode as [MP3](https://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP015BenMarwick/FLOSSforscience_EP015_BenMarwick.mp3) or [OGG](https://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP015BenMarwick/FLOSSforscience_EP015_BenMarwick.ogg). 
