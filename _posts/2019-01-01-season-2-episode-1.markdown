@@ -1,70 +1,71 @@
 ---
 layout: post
-title: "EP008 Solid-Liquid Mixing Modelling"
-date: 2018-08-01 00:00:00
+title: "EP013 Vector Graphics with Inkscape"
+date: 2019-01-08 00:00:00
 author: Admin
 categories: 
- - user
+ - developer
  - podcast
 #Title of the podcast episode without the episode number
-podcast_episode_title: Solid-Liquid Mixing Modelling
+podcast_episode_title: Vector graphics with Inkscape
 #Image of the blog post
-img: FFS008_header.png
+img: FFS013_banner_750x500px.png
 #Thumbnail of the blog post
-thumb: FFS008_thumb.png
+thumb: FFS013_thumb_70x47px.png
 #Link to the mp3 file of the episode
-podcast_link: http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp008-Solid-liquidMixingModelling/FlossForScienceBrunoBlais.mp3
+podcast_link: http://media.blubrry.com/flossforscience/archive.org/download/Ep013VectorGraphicsWithInkscape/FLOSSforscience_EP013_Inkscape.mp3
 #Link to the ogg file of the episode
-podcast_link_ogg: http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp008-Solid-liquidMixingModelling/FlossForScienceBrunoBlais.ogg
+podcast_link_ogg: http://media.blubrry.com/flossforscience/archive.org/download/Ep013VectorGraphicsWithInkscape/FLOSSforscience_EP013_Inkscape.ogg
 #File size in MB of the mp3 file
-podcast_file_size: 18.3 MB
+podcast_file_size: 18.2 MB
 #File size in MB of the ogg file
-podcast_file_size_ogg: 20.7 MB
+podcast_file_size_ogg: 20.5 MB
 #Length of the episode in minutes (is the same for ogg and mp3)
-podcast_duration: "0:37:51"
+podcast_duration: "0:37:36"
 #File size in bytes of the mp3 file
-podcast_length: 18305244
+podcast_length: 18188658
 #File size in bytes of the ogg file
-podcast_length_ogg: 20654445
+podcast_length_ogg: 20493207
 #Unique id of the mp3 file (sha256)
-podcast_guid: 94ea28ec123c51807c4f1eec37ae3ea7adf458957654671f57e08cdb15fa190a
+podcast_guid: a659707a4660d8494594a2d6b14cabcb53898675f63d18a045fc7697adad7a9a
 #“full” for normal episodes; “trailer” to promote an upcoming show, season, or episode; or “bonus” for extra content related to a show, season, or episode.
 podcast_episode_type: full
 #Season number only
-podcast_season_number: 01
+podcast_season_number: 02
 #Episode number only
-podcast_episode_number: 008
+podcast_episode_number: 001
 #Subtitle of the episode 
-podcast_subtitle: An interview with Bruno Blais
+podcast_subtitle: An interview with Martin Owens
 #Description of the podcast
 podcast_description: |
-  For episode 8, we interviewed Bruno Blais about his utilization of open source software in his research about solid-liquid mixing. We started our conversation by talking about the different kinds of software packages he uses in his simulation workflow. We then asked him why and when he has decided to use FLOSS tools in is research. Following that, we talked about his philosophical and practical reasons to use FLOSS. He then shared with us how he contributes to the software he is using in his daily research. Finally, we talked with him about the significance of FLOSS for the openness of science and how it affects the society as a whole. This episode is the first of series about computer simulations. Follow us to be informed when we will release our next episode about the open source meshing tool GMSH.  
+  For episode 13, we interviewed Martin Owens, a British Free Software contractor based in Boston Massachusetts, during the 2018 Kiel Inkscape Hackfest, about the Inkscape project. After a brief presentation of Inkscape, we talked about the svg file format and the compatibility of Inkscape with other commercial proprietary offerings. He presented us a list of features planned for Inkscape 1.0, the next major version. We discussed about Inkscape in science and the wider importance of free software and open science. Follow us to be informed when we will release our next episode about the GNU image manipulation program aka GIMP.  
 ---
 
 <audio controls>
-  <source src="http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp008-Solid-liquidMixingModelling/FlossForScienceBrunoBlais.ogg" type="audio/ogg">
-  <source src="http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp008-Solid-liquidMixingModelling/FlossForScienceBrunoBlais.mp3" type="audio/mpeg">
+  <source src="http://media.blubrry.com/flossforscience/archive.org/download/Ep013VectorGraphicsWithInkscape/FLOSSforscience_EP013_Inkscape.ogg" type="audio/ogg">
+  <source src="http://media.blubrry.com/flossforscience/archive.org/download/Ep013VectorGraphicsWithInkscape/FLOSSforscience_EP013_Inkscape.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
+# Outline
+
+For episode 13, we interviewed Martin Owens, a British Free Software contractor based in Boston Massachusetts, during the 2018 Kiel Inkscape Hackfest, about the Inkscape project. After a brief presentation of Inkscape, we talked about the svg file format and the compatibility of Inkscape with other commercial proprietary offerings. He presented us a list of features planned for Inkscape 1.0, the next major version. We discussed about Inkscape in science and the wider importance of free software and open science. Follow us to be informed when we will release our next episode about the GNU image manipulation program aka GIMP.  
+
 # About Inkscape:
 
-A Free and Open Source SVG vector image editor available for
-multiple platforms. A popular way of creating physical objects,
-intricate visualisations and beautiful artworks.
-
-
+A Free and Open Source SVG vector image editor available for multiple platforms. A popular way of creating physical objects, intricate visualisations and beautiful artworks.
 
 # About Martin Owens: 
 
-A British Free Software contractor based in Boston
-Massachusetts.
+Martin is a British Free Software contractor based in Boston, Massachusetts.
 
 # Links
 * [Inkscape](https://inkscape.org/en/)
 * [Martin's inkscape profile](https://inkscape.org/en/~doctormo)
 * [Martin's devianart profile](https://www.deviantart.com/doctormo)
+* [Martin's GitLab profile](https://gitlab.com/doctormo)
+* [Martin's email](mailto:doctormo@gmail.com)
 
-Listen to this episode here or add our [rss feed](https://flossforscience.github.io/feed.xml) to your favourite podcast application. 
+Listen to this episode here or add our [rss feed](https://flossforscience.com/feed.xml) to your favourite podcast application. 
 
-You can also download this episode as [MP3](https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp008-Solid-liquidMixingModelling/FlossForScienceBrunoBlais.mp3) or [OGG](https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp008-Solid-liquidMixingModelling/FlossForScienceBrunoBlais.ogg). 
+You can also download this episode as [MP3](http://media.blubrry.com/flossforscience/archive.org/download/Ep013VectorGraphicsWithInkscape/FLOSSforscience_EP013_Inkscape.mp3) or [OGG](http://media.blubrry.com/flossforscience/archive.org/download/Ep013VectorGraphicsWithInkscape/FLOSSforscience_EP013_Inkscape.ogg). 
