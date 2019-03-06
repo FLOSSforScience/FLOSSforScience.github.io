@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "EP015 Reproducible Research in Archaeology with rrtools"
-date: 2018-03-06 00:00:00
+date: 2018-03-05 00:00:00
 author: Admin
 categories: 
  - user
