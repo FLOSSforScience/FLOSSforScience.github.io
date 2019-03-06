@@ -4,7 +4,7 @@ title: "EP013 Vector Graphics with Inkscape"
 date: 2019-01-08 00:00:00
 author: Admin
 categories: 
- - Developer
+ - developer
  - podcast
 #Title of the podcast episode without the episode number
 podcast_episode_title: Vector graphics with Inkscape
