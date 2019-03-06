@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "EP008 Solid-Liquid Mixing Modelling"
-date: 2018-08-01 00:00:00
+title: "EP015 Reproducible Research in Archaeology with rrtools"
+date: 2018-03-06 00:00:00
 author: Admin
 categories: 
  - user
  - podcast
 #Title of the podcast episode without the episode number
-podcast_episode_title: Solid-Liquid Mixing Modelling
+podcast_episode_title: Reproducible Research in Archaeology with rrtools
 #Image of the blog post
-img: FFS008_header.png
+img: FFS015_header.png
 #Thumbnail of the blog post
-thumb: FFS008_thumb.png
+thumb: FFS015_thumb.png
 #Link to the mp3 file of the episode
 podcast_link: http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp008-Solid-liquidMixingModelling/FlossForScienceBrunoBlais.mp3
 #Link to the ogg file of the episode
@@ -31,14 +31,14 @@ podcast_guid: 94ea28ec123c51807c4f1eec37ae3ea7adf458957654671f57e08cdb15fa190a
 #“full” for normal episodes; “trailer” to promote an upcoming show, season, or episode; or “bonus” for extra content related to a show, season, or episode.
 podcast_episode_type: full
 #Season number only
-podcast_season_number: 01
+podcast_season_number: 02
 #Episode number only
-podcast_episode_number: 008
+podcast_episode_number: 003
 #Subtitle of the episode 
-podcast_subtitle: An interview with Bruno Blais
+podcast_subtitle: An interview with Ben Marwick
 #Description of the podcast
 podcast_description: |
-  For episode 8, we interviewed Bruno Blais about his utilization of open source software in his research about solid-liquid mixing. We started our conversation by talking about the different kinds of software packages he uses in his simulation workflow. We then asked him why and when he has decided to use FLOSS tools in is research. Following that, we talked about his philosophical and practical reasons to use FLOSS. He then shared with us how he contributes to the software he is using in his daily research. Finally, we talked with him about the significance of FLOSS for the openness of science and how it affects the society as a whole. This episode is the first of series about computer simulations. Follow us to be informed when we will release our next episode about the open source meshing tool GMSH.  
+  For episode 15, we interview the Associate Professor of Archaeology Ben Marwick. We start our discussion with an overview of some FLOSS tools he uses and how much FLOSS are used in  archaeology. He shares with us his experience in regard to working completely in the open with GitHub and his hope that open science will become the norm in the future. We also discuss about rrtools  and his propositions on how to greatly improve the reproducibility of science. As a closing though he shares with us his arguments why early career researchers should invest time to learn and transition to FLOSS tools.  
 ---
 
 <audio controls>
@@ -46,6 +46,10 @@ podcast_description: |
   <source src="http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp008-Solid-liquidMixingModelling/FlossForScienceBrunoBlais.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
+
+# Outline
+
+For episode 15, we interview the Associate Professor of Archaeology Ben Marwick. We start our discussion with an overview of some FLOSS tools he uses and how much FLOSS are used in  archaeology. He shares with us his experience in regard to working completely in the open with GitHub and his hope that open science will become the norm in the future. We also discuss about rrtools  and his propositions on how to greatly improve the reproducibility of science. As a closing though he shares with us his arguments why early career researchers should invest time to learn and transition to FLOSS tools.  
 
 # About Ben Marwick: 
 
