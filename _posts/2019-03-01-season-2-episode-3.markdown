@@ -50,7 +50,7 @@ Your browser does not support the audio element.
 
 # Outline
 
-For episode 15, we interview the Associate Professor of Archaeology Ben Marwick. We start our discussion with an overview of some FLOSS tools he uses and how much FLOSS are used in  archaeology. He shares with us his experience in regard to working completely in the open with GitHub and his hope that open science will become the norm in the future. We also discuss about rrtools  and his propositions on how to greatly improve the reproducibility of science. As a closing though he shares with us his arguments why early career researchers should invest time to learn and transition to FLOSS tools.  
+For episode 15, we interview the Associate Professor of Archaeology Ben Marwick. We start our discussion with an overview of some FLOSS tools he uses and how much FLOSS are used in  archaeology. He shares with us his experience in regard to working completely in the open with GitHub and his hope that open science will become the norm in the future. We also discuss about rrtools  and his propositions on how to greatly improve the reproducibility of science. As a closing though he shares with us his arguments why early career researchers should invest time to learn and transition to FLOSS tools. 
 
 # About Ben Marwick: 
 
