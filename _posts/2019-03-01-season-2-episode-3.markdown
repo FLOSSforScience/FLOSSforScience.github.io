@@ -43,8 +43,8 @@ podcast_description: |
 ---
 
 <audio controls>
-  <source src="https://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP015BenMarwick/FLOSSforscience_EP015_BenMarwick.ogg" type="audio/ogg">
-  <source src="https://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP015BenMarwick/FLOSSforscience_EP015_BenMarwick.mp3" type="audio/mpeg">
+  <source src="{{ page.podcast_link_ogg }}" type="audio/ogg">
+  <source src="{{ page.podcast_link }}" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -64,4 +64,4 @@ Ben Marwick is an Associate Professor of Archaeology at the University of Washin
 
 Listen to this episode here or add our [rss feed](https://flossforscience.com/feed.xml) to your favourite podcast application. 
 
-You can also download this episode as [MP3](https://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP015BenMarwick/FLOSSforscience_EP015_BenMarwick.mp3) or [OGG](https://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP015BenMarwick/FLOSSforscience_EP015_BenMarwick.ogg). 
+You can also download this episode as [MP3]({{ page.podcast_link }}) or [OGG]({{ page.podcast_link_ogg }}). 
