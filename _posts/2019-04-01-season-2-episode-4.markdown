@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "EP013 Vector Graphics with Inkscape"
-date: 2019-01-08 00:00:00
+title: "EP016 Management of High Performance Computing Infrastructures with OpenHPC"
+date: 2019-04-03 00:00:00
 author: Admin
 categories: 
  - Developer
@@ -33,12 +33,12 @@ podcast_episode_type: full
 #Season number only
 podcast_season_number: 02
 #Episode number only
-podcast_episode_number: 001
+podcast_episode_number: 004
 #Subtitle of the episode 
-podcast_subtitle: An interview with Martin Owens
+podcast_subtitle: An interview with Karl W. Schulz
 #Description of the podcast
 podcast_description: |
-  For episode 13, we interviewed Martin Owens, a British Free Software contractor based in Boston Massachusetts, during the 2018 Kiel Inkscape Hackfest, about the Inkscape project. After a brief presentation of Inkscape, we talked about the svg file format and the compatibility of Inkscape with other commercial proprietary offerings. He presented us a list of features planned for Inkscape 1.0, the next major version. We discussed about Inkscape in science and the wider importance of free software and open science. Follow us to be informed when we will release our next episode about the GNU image manipulation program aka GIMP.  
+  For episode 16, we interview the Research Associate Professor Karl W. Schulz. The episode starts with a discussion about High Performance Computing and how OpenHPC facilitate the managment of computing ressources. We then open the discussion towards open source tools, how they became so important for HPC and the their importance for open science. We also discussed about the inception of the OpenHPC project and its governance structure. We end the interview with our usual question in addition to a totally new one.   
 ---
 
 <audio controls>
@@ -49,7 +49,7 @@ Your browser does not support the audio element.
 
 # Outline
 
-
+For episode 16, we interview the Research Associate Professor Karl W. Schulz. The episode starts with a discussion about High Performance Computing and how OpenHPC facilitate the managment of computing ressources. We then open the discussion towards open source tools, how they became so important for HPC and the their importance for open science. We also discussed about the inception of the OpenHPC project and its governance structure. We end the interview with our usual question in addition to a totally new one. 
 
 # About OpenHPC:
 
