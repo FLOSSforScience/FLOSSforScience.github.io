@@ -54,6 +54,8 @@ For episode 17, we interviewd Adrian Serio the Scientific Program Coordinator of
 
 # About Adrian Serio:
 
+Adrian Serio is the Scientific Program Coordinator for the STE||AR group at Louisiana State University. In this role, he assists in the development of HPX, a distributed C++ runtime system for parallelism and concurrency. Adrian was surprised to find himself working in HPC after graduating with a bachelor degree in biological engineering in 2011. Nevertheless, he loves working in a university setting where he gets exposed to cutting edge research and work with an international team of collaborators.
+
 # About the C++ Standard Library for Concurrency and Parallelism (HPX):
 
 # Links
