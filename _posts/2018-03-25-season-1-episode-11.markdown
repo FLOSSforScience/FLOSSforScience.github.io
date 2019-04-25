@@ -52,7 +52,7 @@ In Episode 11, we interviewed Sébastien Le Digabel about [NOMAD](https://www.ge
 
 # About Sébastien Le Digabel: 
 
-Sébastien Le Digabel received the M.Sc.A. degree and the Ph.D. degree in applied mathematics from Polytechnique Montreal, Montreal, Quebec, Canada in 2002 and 2008 respectively, and worked as a postdoctoral fellow at the IBM Watson Research Center and the University of Chicago in 2010 and 2011. He is currently an Associate Professor in the Department of Mathematics and Industrial Engineering at Polytechnique Montreal and a regular member of the GERAD research center. His research interests include the analysis and development of algorithms for derivative-free and blackbox optimization, and the design of related software. All of his work on derivative-free optimization is included in the [NOMAD](www.gerad.ca/nomad) software, a free package for blackbox optimization.
+Sébastien Le Digabel received the M.Sc.A. degree and the Ph.D. degree in applied mathematics from Polytechnique Montreal, Montreal, Quebec, Canada in 2002 and 2008 respectively, and worked as a postdoctoral fellow at the IBM Watson Research Center and the University of Chicago in 2010 and 2011. He is currently an Associate Professor in the Department of Mathematics and Industrial Engineering at Polytechnique Montreal and a regular member of the GERAD research center. His research interests include the analysis and development of algorithms for derivative-free and blackbox optimization, and the design of related software. All of his work on derivative-free optimization is included in the [NOMAD](https://www.gerad.ca/nomad) software, a free package for blackbox optimization.
 
 # Links:
 
