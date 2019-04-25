@@ -47,7 +47,7 @@ Your browser does not support the audio element.
 
 # Outline
 
-In Episode 11, we interviewed Sébastien Le Digabel about [NOMAD](www.gerad.ca/nomad) a blackbox optimization software. A blackbox is a system which can be viewed in terms of its inputs and outputs, without any knowledge of its internal workings. NOMAD is a software for the optimization of such problems. It implements the Mesh Adaptive Direct Search (MADS) derivative-free optimization algorithm. NOMAD is free and intended to be easy to use. It is designed for solve real-world optimization problems from the industry. It works out of the box, as long as the objective and constraints are provided.
+In Episode 11, we interviewed Sébastien Le Digabel about [NOMAD](https://www.gerad.ca/nomad) a blackbox optimization software. A blackbox is a system which can be viewed in terms of its inputs and outputs, without any knowledge of its internal workings. NOMAD is a software for the optimization of such problems. It implements the Mesh Adaptive Direct Search (MADS) derivative-free optimization algorithm. NOMAD is free and intended to be easy to use. It is designed for solve real-world optimization problems from the industry. It works out of the box, as long as the objective and constraints are provided.
 
 
 # About Sébastien Le Digabel: 
