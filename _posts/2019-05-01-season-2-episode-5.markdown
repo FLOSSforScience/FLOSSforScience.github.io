@@ -7,7 +7,7 @@ categories:
  - developer
  - podcast
 #Title of the podcast episode without the episode number
-podcast_episode_title: HPX: A cure for performance impaired parallel applications
+podcast_episode_title: "HPX: A cure for performance impaired parallel applications"
 #Image of the blog post
 img: FFS017_header.png
 #Thumbnail of the blog post
