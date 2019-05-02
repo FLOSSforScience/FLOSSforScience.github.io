@@ -1,14 +1,13 @@
 ---
 layout: post
-title: "EP017 HPX: "
-date: 2019-03-05 00:00:00
+title: "EP017 HPX: A cure for performance impaired parallel applications"
+date: 2019-05-01 00:00:00
 author: Admin
 categories: 
- - user
  - developer
  - podcast
 #Title of the podcast episode without the episode number
-podcast_episode_title: Reproducible Research in Archaeology with rrtools
+podcast_episode_title: HPX: A cure for performance impaired parallel applications
 #Image of the blog post
 img: FFS015_header.png
 #Thumbnail of the blog post
@@ -39,7 +38,7 @@ podcast_episode_number: 003
 podcast_subtitle: An interview with Ben Marwick
 #Description of the podcast
 podcast_description: |
-  For episode 15, we interview the Associate Professor of Archaeology Ben Marwick. We start our discussion with an overview of some FLOSS tools he uses and how much FLOSS are used in  archaeology. He shares with us his experience in regard to working completely in the open with GitHub and his hope that open science will become the norm in the future. We also discuss about rrtools  and his propositions on how to greatly improve the reproducibility of science. As a closing though he shares with us his arguments why early career researchers should invest time to learn and transition to FLOSS tools.  
+  In episode 17, we interviewed Adrian Serio the Scientific Program Coordinator of the STELLAR group about the C++ Standard Library for Concurrency and Parallelism (HPX). We started with a general discussion about parallel computing, where it comes from, where it is going and what can we still expect to gain. We then clarified what are C++ standards and how HPX is developed to be standard compliant. HPX was compared to other parallelism libraries such as MPI and we learned that HPX is a foundation to develop other software for domain specific applications. Adrian informed us how HPX can be used to take advantage of hardware accelerators such as Intel Xeon Phi or GPUs. We looked at the inception of the project and the sources of contributions to the project
 ---
 
 <audio controls>
@@ -50,7 +49,7 @@ Your browser does not support the audio element.
 
 # Outline
 
-For episode 17, we interviewd Adrian Serio the Scientific Program Coordinator of the [Ste||ar group](http://stellar-group.org/) about the C++ Standard Library for Concurrency and Parallelism (HPX).
+In episode 17, we interviewed Adrian Serio the Scientific Program Coordinator of the [Ste||ar group](http://stellar-group.org/) about the C++ Standard Library for Concurrency and Parallelism (HPX). We started with a general discussion about parallel computing, where it comes from, where it is going and what can we still expect to gain. We then clarified what are C++ standards and how HPX is developed to be standard compliant. HPX was compared to other parallelism libraries such as MPI and we learned that HPX is a foundation to develop other software for domain specific applications. Adrian informed us how HPX can be used to take advantage of hardware accelerators such as Intel Xeon Phi or GPUs. We looked at the inception of the project and the sources of contributions to the project
 
 # About Adrian Serio:
 
