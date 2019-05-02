@@ -49,7 +49,7 @@ Your browser does not support the audio element.
 
 # Outline
 
-In episode 17, we interviewed Adrian Serio the Scientific Program Coordinator of the [Ste||ar group](http://stellar-group.org/) about the C++ Standard Library for Concurrency and Parallelism (HPX). We started with a general discussion about parallel computing, where it comes from, where it is going and what can we still expect to gain. We then clarified what are C++ standards and how HPX is developed to be standard compliant. HPX was compared to other parallelism libraries such as MPI and we learned that HPX is a foundation to develop other software for domain specific applications. Adrian informed us how HPX can be used to take advantage of hardware accelerators such as Intel Xeon Phi or GPUs. We looked at the inception of the project and the sources of contributions to the project
+In episode 17, we interviewed Adrian Serio the Scientific Program Coordinator of the [STELLAR group](http://stellar-group.org/) about the C++ Standard Library for Concurrency and Parallelism (HPX). We started with a general discussion about parallel computing, where it comes from, where it is going and what can we still expect to gain. We then clarified what are C++ standards and how HPX is developed to be standard compliant. HPX was compared to other parallelism libraries such as MPI and we learned that HPX is a foundation to develop other software for domain specific applications. Adrian informed us how HPX can be used to take advantage of hardware accelerators such as Intel Xeon Phi or GPUs. We looked at the inception of the project and the sources of contributions to the project
 
 # About Adrian Serio:
 
