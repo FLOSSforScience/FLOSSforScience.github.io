@@ -9,33 +9,33 @@ categories:
 #Title of the podcast episode without the episode number
 podcast_episode_title: HPX: A cure for performance impaired parallel applications
 #Image of the blog post
-img: FFS015_header.png
+img: FFS017_header.png
 #Thumbnail of the blog post
-thumb: FFS015_thumb.png
+thumb: FFS017_thumb.png
 #Link to the mp3 file of the episode
-podcast_link: http://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP015BenMarwick/FLOSSforscience_EP015_BenMarwick.mp3
+podcast_link: http://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP017HPX/FLOSSforscience_EP017_HPX.mp3
 #Link to the ogg file of the episode
-podcast_link_ogg: http://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP015BenMarwick/FLOSSforscience_EP015_BenMarwick.ogg
+podcast_link_ogg: http://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP017HPX/FLOSSforscience_EP017_HPX.ogg
 #File size in MB of the mp3 file
-podcast_file_size: 35.6 MB
+podcast_file_size: 22.5 MB
 #File size in MB of the ogg file
-podcast_file_size_ogg: 38.9 MB
+podcast_file_size_ogg: 22.1 MB
 #Length of the episode in minutes (is the same for ogg and mp3)
-podcast_duration: "1:13:52"
+podcast_duration: "0:46:36"
 #File size in bytes of the mp3 file
-podcast_length: 35591012
+podcast_length: 22505136
 #File size in bytes of the ogg file
-podcast_length_ogg: 38911790
+podcast_length_ogg: 22087832
 #Unique id of the mp3 file (sha256)
-podcast_guid: 0475c22464c90bab2682162fe7f509e0a21192bcb1a9136963abb6a2c6e9c504
+podcast_guid: 89dba3fae680c37778034e534345450dd5ca4d7dc66c160b39daf9be220e83eb
 #“full” for normal episodes; “trailer” to promote an upcoming show, season, or episode; or “bonus” for extra content related to a show, season, or episode.
 podcast_episode_type: full
 #Season number only
 podcast_season_number: 02
 #Episode number only
-podcast_episode_number: 003
+podcast_episode_number: 005
 #Subtitle of the episode 
-podcast_subtitle: An interview with Ben Marwick
+podcast_subtitle: An interview with Adrian Serio
 #Description of the podcast
 podcast_description: |
   In episode 17, we interviewed Adrian Serio the Scientific Program Coordinator of the STELLAR group about the C++ Standard Library for Concurrency and Parallelism (HPX). We started with a general discussion about parallel computing, where it comes from, where it is going and what can we still expect to gain. We then clarified what are C++ standards and how HPX is developed to be standard compliant. HPX was compared to other parallelism libraries such as MPI and we learned that HPX is a foundation to develop other software for domain specific applications. Adrian informed us how HPX can be used to take advantage of hardware accelerators such as Intel Xeon Phi or GPUs. We looked at the inception of the project and the sources of contributions to the project
