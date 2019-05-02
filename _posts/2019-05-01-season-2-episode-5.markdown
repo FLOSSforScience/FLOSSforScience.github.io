@@ -57,6 +57,8 @@ Adrian Serio is the Scientific Program Coordinator for the STELLAR group at Loui
 
 # About the C++ Standard Library for Concurrency and Parallelism (HPX):
 
+High Performance ParalleX (HPX) is an environment for high performance computing. It is currently under active development by the STELLAR group at Louisiana State University. Focused on scientific computing, it provides an alternative execution model to conventional approaches such as MPI. HPX aims to overcome the challenges MPI faces with increasing large supercomputers by using asynchronous communication between nodes and lightweight control objects instead of global barriers, allowing application developers to exploit fine-grained parallelism. 
+
 # Links
 * [HPX @ github](https://github.com/STEllAR-GROUP/hpx) 
 * [HPX @ wiki](https://en.wikipedia.org/wiki/HPX)
