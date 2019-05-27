@@ -11,8 +11,8 @@ categories:
 podcast_episode_title: Modeling composite materials fatigue with Python
 img: FFS002_header.png
 thumb: FFS002_thumb.png
-podcast_link: http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp002-ModelingCompositeMaterialsFatigueWithPython/FlossforscienceEp002.mp3
-podcast_link_ogg: http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp002-ModelingCompositeMaterialsFatigueWithPython/FlossforscienceEp002.ogg
+podcast_link: https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp002-ModelingCompositeMaterialsFatigueWithPython/FlossforscienceEp002.mp3
+podcast_link_ogg: https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp002-ModelingCompositeMaterialsFatigueWithPython/FlossforscienceEp002.ogg
 podcast_file_size: 14.3 MB
 podcast_file_size_ogg: 11.5 MB
 podcast_duration: "10:48"
@@ -28,8 +28,8 @@ podcast_description: In Episode 2, we interview Laurent Cormier, a research asso
 ---
 
 <audio controls>
-  <source src="https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp002-ModelingCompositeMaterialsFatigueWithPython/FlossforscienceEp002.ogg" type="audio/ogg">
-  <source src="https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp002-ModelingCompositeMaterialsFatigueWithPython/FlossforscienceEp002.mp3" type="audio/mpeg">
+  <source src="{{ page.podcast_link_ogg }}" type="audio/ogg">
+  <source src="{{ page.podcast_link }}" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -49,4 +49,4 @@ He also has a strong interest in Science, its methods, its philosophy and the tr
 
 Listen to this episode here or add our [rss feed](https://flossforscience.com/feed.xml) to your favourite podcast application. 
 
-You can download this episode as [MP3](https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp002-ModelingCompositeMaterialsFatigueWithPython/FlossforscienceEp002.mp3) or [OGG](https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp002-ModelingCompositeMaterialsFatigueWithPython/FlossforscienceEp002.ogg). 
+You can also download this episode as [MP3]({{ page.podcast_link }}) or [OGG]({{ page.podcast_link_ogg }}). 
