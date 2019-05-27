@@ -13,9 +13,9 @@ img: FFS005_header.png
 #Thumbnail of the blog post
 thumb: FFS005_thumb.png
 #Link to the mp3 file of the episode
-podcast_link: http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp005-LibreofficeTheSwissArmyKnifeOfScience/FLOSSforscience_EP005.mp3
+podcast_link: https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp005-LibreofficeTheSwissArmyKnifeOfScience/FLOSSforscience_EP005.mp3
 #Link to the ogg file of the episode
-podcast_link_ogg: http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp005-LibreofficeTheSwissArmyKnifeOfScience/FLOSSforscience_EP005.ogg
+podcast_link_ogg: https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp005-LibreofficeTheSwissArmyKnifeOfScience/FLOSSforscience_EP005.ogg
 #File size in MB of the mp3 file
 podcast_file_size: 14.3 MB
 #File size in MB of the ogg file
@@ -41,8 +41,8 @@ podcast_description: In Episode 5, we interview Katarina Behrens, a consultant a
 ---
 
 <audio controls>
-  <source src="https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp005-LibreofficeTheSwissArmyKnifeOfScience/FLOSSforscience_EP005.ogg" type="audio/ogg">
-  <source src="https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp005-LibreofficeTheSwissArmyKnifeOfScience/FLOSSforscience_EP005.mp3" type="audio/mpeg">
+  <source src="{{ page.podcast_link_ogg }}" type="audio/ogg">
+  <source src="{{ page.podcast_link }}" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -74,4 +74,4 @@ Listen to this episode here or add our [rss feed](https://flossforscience.com/fe
 
 For the definition of Denkmalschutz, you can consult this [link](https://dictionary.cambridge.org/dictionary/german-english/denkmalschutz)
 
-You can download this episode as [MP3](https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp005-LibreofficeTheSwissArmyKnifeOfScience/FLOSSforscience_EP005.mp3) or [OGG](https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp005-LibreofficeTheSwissArmyKnifeOfScience/FLOSSforscience_EP005.ogg). 
+You can also download this episode as [MP3]({{ page.podcast_link }}) or [OGG]({{ page.podcast_link_ogg }}).). 
