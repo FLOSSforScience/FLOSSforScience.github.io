@@ -13,9 +13,9 @@ img: FFS007_header.png
 #Thumbnail of the blog post
 thumb: FFS007_thumb.png
 #Link to the mp3 file of the episode
-podcast_link: http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp007-AGuideToSoftwareLicensesInScience/Ep007FlossForScience.mp3
+podcast_link: https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp007-AGuideToSoftwareLicensesInScience/Ep007FlossForScience.mp3
 #Link to the ogg file of the episode
-podcast_link_ogg: http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp007-AGuideToSoftwareLicensesInScience/Ep007FlossForScience.ogg
+podcast_link_ogg: https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp007-AGuideToSoftwareLicensesInScience/Ep007FlossForScience.ogg
 #File size in MB of the mp3 file
 podcast_file_size: 29.6 MB
 #File size in MB of the ogg file
@@ -42,8 +42,8 @@ podcast_description: |
 ---
 
 <audio controls>
-  <source src="https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp007-AGuideToSoftwareLicensesInScience/Ep007FlossForScience.ogg" type="audio/ogg">
-  <source src="https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp007-AGuideToSoftwareLicensesInScience/Ep007FlossForScience.mp3" type="audio/mpeg">
+  <source src="{{ page.podcast_link_ogg }}" type="audio/ogg">
+  <source src="{{ page.podcast_link }}" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -72,4 +72,4 @@ James was a founding board member of Open Source Matters, the non-profit behind 
 
 Listen to this episode here or add our [rss feed](https://flossforscience.com/feed.xml) to your favourite podcast application. 
 
-You can download this episode as [MP3](https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp007-AGuideToSoftwareLicensesInScience/Ep007FlossForScience.mp3) or [OGG](https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp007-AGuideToSoftwareLicensesInScience/Ep007FlossForScience.ogg). 
+You can also download this episode as [MP3]({{ page.podcast_link }}) or [OGG]({{ page.podcast_link_ogg }}) 
