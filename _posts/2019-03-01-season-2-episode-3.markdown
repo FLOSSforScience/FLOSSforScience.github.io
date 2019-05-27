@@ -14,9 +14,9 @@ img: FFS015_header.png
 #Thumbnail of the blog post
 thumb: FFS015_thumb.png
 #Link to the mp3 file of the episode
-podcast_link: http://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP015BenMarwick/FLOSSforscience_EP015_BenMarwick.mp3
+podcast_link: https://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP015BenMarwick/FLOSSforscience_EP015_BenMarwick.mp3
 #Link to the ogg file of the episode
-podcast_link_ogg: http://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP015BenMarwick/FLOSSforscience_EP015_BenMarwick.ogg
+podcast_link_ogg: https://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP015BenMarwick/FLOSSforscience_EP015_BenMarwick.ogg
 #File size in MB of the mp3 file
 podcast_file_size: 35.6 MB
 #File size in MB of the ogg file
