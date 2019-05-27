@@ -11,9 +11,9 @@ img: FFS012_header.png
 #Thumbnail of the blog post
 thumb: FFS012_thumb.png
 #Link to the mp3 file of the episode
-podcast_link: http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp012EasybuildBuildingSoftwareWithEaseForHpc/FLOSSforscience_EP012_EasyBuild.mp3
+podcast_link: https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp012EasybuildBuildingSoftwareWithEaseForHpc/FLOSSforscience_EP012_EasyBuild.mp3
 #Link to the ogg file of the episode
-podcast_link_ogg: http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp012EasybuildBuildingSoftwareWithEaseForHpc/FLOSSforscience_EP012_EasyBuild.ogg
+podcast_link_ogg: https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp012EasybuildBuildingSoftwareWithEaseForHpc/FLOSSforscience_EP012_EasyBuild.ogg
 #File size in MB of the mp3 file
 podcast_file_size: 26.9 MB
 #File size in MB of the ogg file
@@ -40,8 +40,8 @@ podcast_description: |
 ---
 
 <audio controls>
-  <source src="https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp012EasybuildBuildingSoftwareWithEaseForHpc/FLOSSforscience_EP012_EasyBuild.ogg" type="audio/ogg">
-  <source src="https://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp012EasybuildBuildingSoftwareWithEaseForHpc/FLOSSforscience_EP012_EasyBuild.mp3" type="audio/mpeg">
+  <source src="{{ page.podcast_link_ogg }}" type="audio/ogg">
+  <source src="{{ page.podcast_link }}" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -71,4 +71,4 @@ For more details, we refer to his social media:
 
 Listen to this episode here or add our [rss feed](https://flossforscience.com/feed.xml) to your favourite podcast application. 
 
-You can download this episode as [MP3](http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp012EasybuildBuildingSoftwareWithEaseForHpc/FLOSSforscience_EP012_EasyBuild.mp3) or [OGG](http://media.blubrry.com/flossforscience/archive.org/download/FlossforscienceEp012EasybuildBuildingSoftwareWithEaseForHpc/FLOSSforscience_EP012_EasyBuild.ogg). 
+You can also download this episode as [MP3]({{ page.podcast_link }}) or [OGG]({{ page.podcast_link_ogg }}). 
