@@ -27,8 +27,8 @@ podcast_description: In this episode the two hosts David Brassard and Patrick Di
 ---
 
 <audio controls>
-  <source src="https://archive.org/download/FlossforscienceEp001-Introduction/FlossforscienceEp001-Introduction.ogg" type="audio/ogg">
-  <source src="https://archive.org/download/FlossforscienceEp001-Introduction/FlossforscienceEp001-Introduction.mp3" type="audio/mpeg">
+  <source src="{{ page.podcast_link_ogg }}" type="audio/ogg">
+  <source src="{{ page.podcast_link }}" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -40,4 +40,5 @@ In this episode the two hosts David Brassard and Patrick Diehl of *FLOSS for Sci
 
 Listen this episode here or add our [rss feed](https://flossforscience.com/feed.xml) to your favourite podcast app:
 
+You can also download this episode as [MP3]({{ page.podcast_link }}) or [OGG]({{ page.podcast_link_ogg }}). 
 
