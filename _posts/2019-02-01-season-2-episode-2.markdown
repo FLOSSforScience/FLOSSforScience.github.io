@@ -14,9 +14,9 @@ img: FFS014_header.png
 #Thumbnail of the blog post
 thumb: FFS014_thumb.png
 #Link to the mp3 file of the episode
-podcast_link: http://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP014GIMP/FLOSSforscience_EP014_GIMP.mp3
+podcast_link: https://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP014GIMP/FLOSSforscience_EP014_GIMP.mp3
 #Link to the ogg file of the episode
-podcast_link_ogg: http://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP014GIMP/FLOSSforscience_EP014_GIMP.ogg
+podcast_link_ogg: https://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP014GIMP/FLOSSforscience_EP014_GIMP.ogg
 #File size in MB of the mp3 file
 podcast_file_size: 22.9 MB
 #File size in MB of the ogg file
@@ -43,8 +43,8 @@ podcast_description: |
 ---
 
 <audio controls>
-  <source src="http://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP014GIMP/FLOSSforscience_EP014_GIMP.ogg" type="audio/ogg">
-  <source src="http://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP014GIMP/FLOSSforscience_EP014_GIMP.mp3" type="audio/mpeg">
+  <source src="https://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP014GIMP/FLOSSforscience_EP014_GIMP.ogg" type="audio/ogg">
+  <source src="https://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP014GIMP/FLOSSforscience_EP014_GIMP.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -67,4 +67,4 @@ Pat David is a Free Software advocate, occasional photographer, and digital dabb
 
 Listen to this episode here or add our [rss feed](https://flossforscience.com/feed.xml) to your favourite podcast application. 
 
-You can also download this episode as [MP3](http://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP014GIMP/FLOSSforscience_EP014_GIMP.mp3) or [OGG](http://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP014GIMP/FLOSSforscience_EP014_GIMP.ogg). 
+You can also download this episode as [MP3](https://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP014GIMP/FLOSSforscience_EP014_GIMP.mp3) or [OGG](https://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP014GIMP/FLOSSforscience_EP014_GIMP.ogg). 
