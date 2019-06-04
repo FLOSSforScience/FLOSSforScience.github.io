@@ -61,6 +61,8 @@ Jesse Allison is a leader in sonic art technology, thought, and practice. Dr. Al
 * [Nexus](https://nuget.pkg.github.com/jesseallison/NEXUS): Rails applications and Javascript canvas based UI objects for Distributed Performance systems
 * [Nexus-js](https://github.com/nexus-js)
 * [Jesse's personal webpage](http://allisonic.com/)
+* [Jamoma](http://jamoma.org/) Modular Patching and Programming for Realtime Media
+* [TEDxLSU](https://www.youtube.com/watch?v=YXNO9N98rHc): Sonic Interventions
 
 Listen to this episode here or add our [rss feed](https://flossforscience.com/feed.xml) to your favourite podcast application. 
 
