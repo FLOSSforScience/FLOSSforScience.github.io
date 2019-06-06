@@ -39,7 +39,7 @@ podcast_episode_number: 018
 podcast_subtitle: An interview with Jesse Allision
 #Description of the podcast
 podcast_description: |
-  In episode 18, we interviewed Jesse Allison an Associate Professor of Experimental Music & Digital Media at Louisiana State University. We had a great discussion about his work to expand the experience and interactivy of music and sounds. He shared with us his view on how sciences and arts intersect in his projects. He listed some of the tools he uses to create sounds and how these can be applied to create sonic intervention. We had a chat about his past experiences regarding open source software and running a business based on it. We also questioned him whether or not anyone could or even should start creating music. The episode concludes with a small audio sample from his 2013 TEDx talk.  
+  In episode 18, we interviewed Jesse Allison an Associate Professor of Experimental Music and Digital Media at Louisiana State University. We had a great discussion about his work to expand the experience and interactivy of music and sounds. He shared with us his view on how sciences and arts intersect in his projects. He listed some of the tools he uses to create sounds and how these can be applied to create sonic intervention. We had a chat about his past experiences regarding open source software and running a business based on it. We also questioned him whether or not anyone could or even should start creating music. The episode concludes with a small audio sample from his 2013 TEDx talk.  
 ---
 
 <audio controls>
