@@ -14,9 +14,9 @@ img: FFS018_header.png
 #Thumbnail of the blog post
 thumb: FFS018_thumb.png
 #Link to the mp3 file of the episode
-podcast_link: http://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP018JesseAllisson/FLOSSforscience_EP018_Jesse_Allisson.mp3
+podcast_link: https://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP018JesseAllisson/FLOSSforscience_EP018_Jesse_Allisson.mp3
 #Link to the ogg file of the episode
-podcast_link_ogg: http://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP018JesseAllisson/FLOSSforscience_EP018_Jesse_Allisson.ogg
+podcast_link_ogg: https://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP018JesseAllisson/FLOSSforscience_EP018_Jesse_Allisson.ogg
 #File size in MB of the mp3 file
 podcast_file_size: 26.7 MB
 #File size in MB of the ogg file
