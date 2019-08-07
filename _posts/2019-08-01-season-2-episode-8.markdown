@@ -1,44 +1,44 @@
 ---
 layout: post
-title: "EP017 HPX: A cure for performance impaired parallel applications"
-date: 2019-05-01 00:00:00
+title: "EP020 Peer-reviewed Publication of Research Software"
+date: 2019-08-06 00:00:00
 author: Admin
 categories: 
  - developer
  - podcast
 #Title of the podcast episode without the episode number
-podcast_episode_title: "HPX: A cure for performance impaired parallel applications"
+podcast_episode_title: "Peer-reviewed Publication of Research Software"
 #Image of the blog post
-img: FFS017_header.png
+img: FFS020_header.png
 #Thumbnail of the blog post
-thumb: FFS017_thumb.png
+thumb: FFS020_thumb.png
 #Link to the mp3 file of the episode
-podcast_link: https://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP017HPX/FLOSSforscience_EP017_HPX.mp3
+podcast_link: https://media.blubrry.com/flossforscience/archive.org/download/flossforscienceep020arfonsmithjoss/FLOSSforscience_EP020_Arfon_Smith_JOSS.mp3
 #Link to the ogg file of the episode
-podcast_link_ogg: https://media.blubrry.com/flossforscience/archive.org/download/FLOSSforscienceEP017HPX/FLOSSforscience_EP017_HPX.ogg
+podcast_link_ogg: https://media.blubrry.com/flossforscience/archive.org/download/flossforscienceep020arfonsmithjoss/FLOSSforscience_EP020_Arfon_Smith_JOSS.ogg
 #File size in MB of the mp3 file
-podcast_file_size: 22.5 MB
+podcast_file_size: 30.6 MB
 #File size in MB of the ogg file
-podcast_file_size_ogg: 22.1 MB
+podcast_file_size_ogg: 33.4 MB
 #Length of the episode in minutes (is the same for ogg and mp3)
-podcast_duration: "0:46:36"
+podcast_duration: "1:03:24"
 #File size in bytes of the mp3 file
-podcast_length: 22505136
+podcast_length: 30579819
 #File size in bytes of the ogg file
-podcast_length_ogg: 22087832
+podcast_length_ogg: 33408593
 #Unique id of the mp3 file (sha256)
-podcast_guid: 89dba3fae680c37778034e534345450dd5ca4d7dc66c160b39daf9be220e83eb
+podcast_guid: 44b4ccf05c579e320fed5dac97246b460e251c4d0e6cf9463cb71e9bf12d5ed1
 #“full” for normal episodes; “trailer” to promote an upcoming show, season, or episode; or “bonus” for extra content related to a show, season, or episode.
 podcast_episode_type: full
 #Season number only
 podcast_season_number: 02
 #Episode number only
-podcast_episode_number: 005
+podcast_episode_number: 008
 #Subtitle of the episode 
-podcast_subtitle: An interview with Adrian Serio
+podcast_subtitle: An interview with Arfon Smith from the Journal of Open Source Software
 #Description of the podcast
 podcast_description: |
-  In episode 17, we interviewed Adrian Serio the Scientific Program Coordinator of the STELLAR group about the C++ Standard Library for Concurrency and Parallelism (HPX). We started with a general discussion about parallel computing, where it comes from, where it is going and what can we still expect to gain. We then clarified what are C++ standards and how HPX is developed to be standard compliant. HPX was compared to other parallelism libraries such as MPI and we learned that HPX is a foundation to develop other software for domain specific applications. Adrian informed us how HPX can be used to take advantage of hardware accelerators such as Intel Xeon Phi or GPUs. We looked at the inception of the project and the sources of contributions to the project
+  In episode 20, we interviewed Arfon Smith, Editor-in-chief of the Journal of Open Source Software (JOSS) and Head of Data Science at the Space Telescope Science Institute. We talked with him about the creation of JOSS and its role in peer reviewed publications of research software. He described to us how to start a peer reviewed scientific journal and the challenges and competition that he faces. We chatted about how, by using automation, reusing existing tools and staying nimble, JOSS manages to publish with low operational costs. We also discussed about the submission process and what is reviewed during the peer review. Finally, we had a discussion about the importance of FLOSS and  in science and how science and FLOSS could inspire each other. 
 ---
 
 <audio controls>
@@ -49,7 +49,7 @@ Your browser does not support the audio element.
 
 # Outline
 
-In episode 17, we interviewed Adrian Serio the Scientific Program Coordinator of the [STELLAR group](http://stellar-group.org/) about the C++ Standard Library for Concurrency and Parallelism (HPX). We started with a general discussion about parallel computing, where it comes from, where it is going and what can we still expect to gain. We then clarified what are C++ standards and how HPX is developed to be standard compliant. HPX was compared to other parallelism libraries such as MPI and we learned that HPX is a foundation to develop other software for domain specific applications. Adrian informed us how HPX can be used to take advantage of hardware accelerators such as Intel Xeon Phi or GPUs. We looked at the inception of the project and the sources of contributions to the project
+In episode 20, we interviewed Arfon Smith, Editor-in-chief of the Journal of Open Source Software (JOSS) and Head of Data Science at the Space Telescope Science Institute. We talked with him about the creation of JOSS and its role in peer reviewed publications of research software. He described to us how to start a peer reviewed scientific journal and the challenges and competition that he faces. We chatted about how, by using automation, reusing existing tools and staying nimble, JOSS manages to publish with low operational costs. We also discussed about the submission process and what is reviewed during the peer review. Finally, we had a discussion about the importance of FLOSS and  in science and how science and FLOSS could inspire each other. 
 
 # About Arfon Smith:
 
@@ -59,9 +59,9 @@ A lapsed academic with a passion for new models of scientific collaboration, he'
 
 He’s also been known to publish the odd paper and has also accidentally built a few academic journals in his time too including, most recently, the Journal of Open Source Software.
 
-# About the C++ Standard Library for Concurrency and Parallelism (HPX):
+# About Journal of Open Source Software:
 
-The Journal of Open Source Software is an open source, developer-friendly journal for research software packages. It’s designed to make it as easy as possible to create a software paper for your work. If a piece of software is already well documented, then paper preparation (and submission) should take no more than an hour. The primary purpose of a JOSS paper is to enable citation credit to be given to authors of research software and we have a rigorous peer review process and a first-class editorial board (http://joss.theoj.org/about#editorial_board) highly experienced at building (and reviewing) high-quality research software.
+The Journal of Open Source Software (JOSS) is an open source, developer-friendly journal for research software packages. It’s designed to make it as easy as possible to create a software paper for your work. If a piece of software is already well documented, then paper preparation (and submission) should take no more than an hour. The primary purpose of a JOSS paper is to enable citation credit to be given to authors of research software and we have a rigorous peer review process and a first-class editorial board (http://joss.theoj.org/about#editorial_board) highly experienced at building (and reviewing) high-quality research software.
 
 # Links
 
