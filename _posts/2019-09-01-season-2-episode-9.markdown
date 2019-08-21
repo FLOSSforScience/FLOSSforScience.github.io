@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "EP020 Peer-reviewed Publication of Research Software"
+title: "EP021 High-level Scientific Computing with GNU Octave"
 date: 2019-08-06 00:00:00
 author: Admin
 categories: 
  - developer
  - podcast
 #Title of the podcast episode without the episode number
-podcast_episode_title: "Peer-reviewed Publication of Research Software"
+podcast_episode_title: "High-level Scientific Computing with GNU Octave"
 #Image of the blog post
-img: FFS020_header.png
+img: FFS021_header.png
 #Thumbnail of the blog post
 thumb: FFS020_thumb.png
 #Link to the mp3 file of the episode
