@@ -38,7 +38,42 @@ podcast_episode_number: 008
 podcast_subtitle: An interview with Arfon Smith from the Journal of Open Source Software
 #Description of the podcast
 podcast_description: |
-  In episode 20, we interviewed Arfon Smith, Editor-in-chief of the Journal of Open Source Software (JOSS) and Head of Data Science at the Space Telescope Science Institute. We talked with him about the creation of JOSS and its role in peer reviewed publications of research software. He described to us how to start a peer reviewed scientific journal and the challenges and competition that he faces. We chatted about how, by using automation, reusing existing tools and staying nimble, JOSS manages to publish with low operational costs. We also discussed about the submission process and what is reviewed during the peer review. Finally, we had a discussion about the importance of FLOSS and  in science and how science and FLOSS could inspire each other. 
+  In episode 21, we interviewed Juan Pablo Carbajal, an Argentinian physicist currently working as a postdoctoral researcher in the Department of Urban Water Management at the ETH domain in Switzerland. We had a great discussion about GNU Octave and how it can help scientists. We compared its core functions and its expandability through packages to its commercial equivalent Matlab and its toolboxes. An interesting feature of GNU Octave that we explored with Juan is the possibility to migrate code from Matlab directly to GNU Octave and to a certain point maintain code compatible with both. Juan shared with us that since the introduction of an integrated GUI in 2015, he noticed a continuous growth in popularity for the project. We then discussed about a few of the reasons why companies are  interested by GNU Octave and why universities should teach using free/libre software. Before asking our usual quick questions, Juan talked with us about the reasons why FLOSS is important for science and the importance of exposing non-FLOSS users to the benefits of FLOSS.
+
+00:00:00 Message to our listeners
+00:00:29 Intro
+00:00:45 Introducing Juan Pablo Carbajal
+00:01:32 30 seconds elevator pitch for GNU Octave
+00:02:20 How does the Octave programming language compares to other common programming languages
+00:03:23 Compatibility between GNU Octave and Matlab
+00:06:29 Matlab's toolboxes compared to GNU Octave packages
+00:07:31 Simulink models with GNU Octave
+00:09:06 Parallel processing with GNU Octave
+00:10:40 The issue with CUDA in GNU Octave
+00:11:48 How GNU Octaves differs rom other open source Matlab equivalents
+00:13:34 Syntax compatibility to ease transition and reusing code from Matlab
+00:15:11 Resources to start using GNU Octave
+00:16:40 GNU Octave's graphical user interface and the old QT Octave GUI
+00:20:14 GNU Octave's graphical user interface compared to Matlab
+00:22:11 Why GNU Octave and not simply Octave
+00:23:06 GNU Octave licence
+00:24:01 How often he uses GNU Octave
+00:24:18 Juan's numerous contributions to the project
+00:25:27 GNU octave for companies
+00:27:45 Arguments for teaching with GNU Octave instead of Matlab
+00:29:32 How many are involved in the project?
+00:30:37 Communication channels within the project
+00:31:34 Is the project actively looking for developers?
+00:32:11 Skills required to contribute
+00:33:14 The two-level language dilemma
+00:34:59 Juan's vision about FLOSS and its importance for science
+00:37:09 Possible negative impacts of FLOSS and converting non-FLOSS users
+00:40:17 The most notable scientific discovery in recent years
+00:41:46 Juan's favourite text processing tools
+00:42:38 Things we forgot to ask about
+00:43:57 Anything else to share?
+00:44:25 How to contact Juan
+00:44:50 Outro
 ---
 
 <audio controls>
@@ -49,7 +84,7 @@ Your browser does not support the audio element.
 
 # Outline
 
-In episode 20, we interviewed Arfon Smith, Editor-in-chief of the Journal of Open Source Software (JOSS) and Head of Data Science at the Space Telescope Science Institute. We talked with him about the creation of JOSS and its role in peer reviewed publications of research software. He described to us how to start a peer reviewed scientific journal and the challenges and competition that he faces. We chatted about how, by using automation, reusing existing tools and staying nimble, JOSS manages to publish with low operational costs. We also discussed about the submission process and what is reviewed during the peer review. Finally, we had a discussion about the importance of FLOSS and  in science and how science and FLOSS could inspire each other. 
+In episode 21, we interviewed Juan Pablo Carbajal, an Argentinian physicist currently working as a postdoctoral researcher in the Department of Urban Water Management at the ETH domain in Switzerland. We had a great discussion about GNU Octave and how it can help scientists. We compared its core functions and its expandability through packages to its commercial equivalent Matlab and its toolboxes. An interesting feature of GNU Octave that we explored with Juan is the possibility to migrate code from Matlab directly to GNU Octave and to a certain point maintain code compatible with both. Juan shared with us that since the introduction of an integrated GUI in 2015, he noticed a continuous growth in popularity for the project. We then discussed about a few of the reasons why companies are  interested by GNU Octave and why universities should teach using free/libre software. Before asking our usual quick questions, Juan talked with us about the reasons why FLOSS is important for science and the importance of exposing non-FLOSS users to the benefits of FLOSS.
 
 # About Juan Pablo Carbajal:
 
