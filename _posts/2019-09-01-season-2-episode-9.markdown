@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "EP021 High-level Scientific Computing with GNU Octave"
-date: 2019-08-06 00:00:00
+date: 2019-09-04 00:00:00
 author: Admin
 categories: 
  - developer
@@ -11,31 +11,31 @@ podcast_episode_title: "High-level Scientific Computing with GNU Octave"
 #Image of the blog post
 img: FFS021_header.png
 #Thumbnail of the blog post
-thumb: FFS020_thumb.png
+thumb: FFS021_thumb.png
 #Link to the mp3 file of the episode
-podcast_link: https://media.blubrry.com/flossforscience/archive.org/download/flossforscienceep020arfonsmithjoss/FLOSSforscience_EP020_Arfon_Smith_JOSS.mp3
+podcast_link: https://media.blubrry.com/flossforscience/archive.org/download/FFS021_juan_pablo_carbajal_gnu_octave/FLOSSforscience_EP021_Juan_Pablo_Carbajal_GNU-Octave.mp3
 #Link to the ogg file of the episode
-podcast_link_ogg: https://media.blubrry.com/flossforscience/archive.org/download/flossforscienceep020arfonsmithjoss/FLOSSforscience_EP020_Arfon_Smith_JOSS.ogg
+podcast_link_ogg: https://media.blubrry.com/flossforscience/archive.org/download/FFS021_juan_pablo_carbajal_gnu_octave/FLOSSforscience_EP021_Juan_Pablo_Carbajal_GNU-Octave.ogg
 #File size in MB of the mp3 file
-podcast_file_size: 30.6 MB
+podcast_file_size: 22.5 MB
 #File size in MB of the ogg file
-podcast_file_size_ogg: 33.4 MB
+podcast_file_size_ogg: 21.9 MB
 #Length of the episode in minutes (is the same for ogg and mp3)
-podcast_duration: "1:03:24"
+podcast_duration: "0:46:30"
 #File size in bytes of the mp3 file
-podcast_length: 30579819
+podcast_length: 22464651
 #File size in bytes of the ogg file
-podcast_length_ogg: 33408593
+podcast_length_ogg: 21915004
 #Unique id of the mp3 file (sha256)
-podcast_guid: 44b4ccf05c579e320fed5dac97246b460e251c4d0e6cf9463cb71e9bf12d5ed1
+podcast_guid: 562305a86bc282406a0704ab991e53b1af6b90c6e5f5a2cd9ceb930f3b8b9cf7
 #“full” for normal episodes; “trailer” to promote an upcoming show, season, or episode; or “bonus” for extra content related to a show, season, or episode.
 podcast_episode_type: full
 #Season number only
 podcast_season_number: 02
 #Episode number only
-podcast_episode_number: 008
+podcast_episode_number: 009
 #Subtitle of the episode 
-podcast_subtitle: An interview with Arfon Smith from the Journal of Open Source Software
+podcast_subtitle: An interview with Juan Pablo Carbajal
 #Description of the podcast
 podcast_description: |
   In episode 21, we interviewed Juan Pablo Carbajal, an Argentinian physicist currently working as a postdoctoral researcher in the Department of Urban Water Management at the ETH domain in Switzerland. We had a great discussion about GNU Octave and how it can help scientists. We compared its core functions and its expandability through packages to its commercial equivalent Matlab and its toolboxes. An interesting feature of GNU Octave that we explored with Juan is the possibility to migrate code from Matlab directly to GNU Octave and to a certain point maintain code compatible with both. Juan shared with us that since the introduction of an integrated GUI in 2015, he noticed a continuous growth in popularity for the project. We then discussed about a few of the reasons why companies are  interested by GNU Octave and why universities should teach using free/libre software. Before asking our usual quick questions, Juan talked with us about the reasons why FLOSS is important for science and the importance of exposing non-FLOSS users to the benefits of FLOSS.
