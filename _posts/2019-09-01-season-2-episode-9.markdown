@@ -40,7 +40,7 @@ podcast_subtitle: An interview with Arfon Smith from the Journal of Open Source 
 podcast_description: |
   In episode 21, we interviewed Juan Pablo Carbajal, an Argentinian physicist currently working as a postdoctoral researcher in the Department of Urban Water Management at the ETH domain in Switzerland. We had a great discussion about GNU Octave and how it can help scientists. We compared its core functions and its expandability through packages to its commercial equivalent Matlab and its toolboxes. An interesting feature of GNU Octave that we explored with Juan is the possibility to migrate code from Matlab directly to GNU Octave and to a certain point maintain code compatible with both. Juan shared with us that since the introduction of an integrated GUI in 2015, he noticed a continuous growth in popularity for the project. We then discussed about a few of the reasons why companies are  interested by GNU Octave and why universities should teach using free/libre software. Before asking our usual quick questions, Juan talked with us about the reasons why FLOSS is important for science and the importance of exposing non-FLOSS users to the benefits of FLOSS.
 
-00:00:00 Message to our listeners
+  00:00:00 Message to our listeners
 00:00:29 Intro
 00:00:45 Introducing Juan Pablo Carbajal
 00:01:32 30 seconds elevator pitch for GNU Octave
