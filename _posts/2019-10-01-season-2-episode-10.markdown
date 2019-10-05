@@ -7,11 +7,11 @@ categories:
  - developer
  - podcast
 #Title of the podcast episode without the episode number
-podcast_episode_title: "High-level Scientific Computing with GNU Octave"
+podcast_episode_title: "Symbolic Calculation with Maxima"
 #Image of the blog post
-img: FFS021_header.png
+img: FFS022_header.png
 #Thumbnail of the blog post
-thumb: FFS021_thumb.png
+thumb: FFS022_thumb.png
 #Link to the mp3 file of the episode
 podcast_link: https://media.blubrry.com/flossforscience/archive.org/download/FFS021_juan_pablo_carbajal_gnu_octave/FLOSSforscience_EP021_Juan_Pablo_Carbajal_GNU-Octave.mp3
 #Link to the ogg file of the episode
@@ -33,9 +33,9 @@ podcast_episode_type: full
 #Season number only
 podcast_season_number: 02
 #Episode number only
-podcast_episode_number: 009
+podcast_episode_number: 010
 #Subtitle of the episode 
-podcast_subtitle: An interview with Juan Pablo Carbajal
+podcast_subtitle: An interview with Robert Dodier
 #Description of the podcast
 podcast_description: |
   In episode 21, we interviewed Juan Pablo Carbajal, an Argentinian physicist currently working as a postdoctoral researcher in the Department of Urban Water Management at the ETH domain in Switzerland. We had a great discussion about GNU Octave and how it can help scientists. We compared its core functions and its expandability through packages to its commercial equivalent Matlab and its toolboxes. An interesting feature of GNU Octave that we explored with Juan is the possibility to migrate code from Matlab directly to GNU Octave and to a certain point maintain code compatible with both. Juan shared with us that since the introduction of an integrated GUI in 2015, he noticed a continuous growth in popularity for the project. We then discussed about a few of the reasons why companies are  interested by GNU Octave and why universities should teach using free/libre software. Before asking our usual quick questions, Juan talked with us about the reasons why FLOSS is important for science and the importance of exposing non-FLOSS users to the benefits of FLOSS.
@@ -111,15 +111,8 @@ called Maxima.
 
 # Links
 
-* [GNU Octave home page](www.octave.org)
-* [Octave Forge: packages for GNU Octave](https://octave.sourceforge.io/)
-* [GNU Octave’s wiki](https://wiki.octave.org)
-* [GPU acceleration for GNU Octave](https://sourceforge.net/projects/octave-ocl/)
-* [GNU Octave virtual classroom (Spanish)](https://sites.google.com/site/octavecole/)
-* [Publications using Octave](https://wiki.octave.org/Publications_using_Octave)
-* [Introduction to GNU Octave (2nd Edition)](https://www.lulu.com/shop/jason-lachniet/introduction-to-gnu-octave/paperback/product-23933033.html)
-* [Octave’s projects page](https://wiki.octave.org/Projects)
-* [Summer of code ideas](https://wiki.octave.org/Summer_of_Code_Project_Ideas)
+* [Maxima home page](http://maxima.sourceforge.net/)
+* [wxMaxima home page](https://wxmaxima-developers.github.io/wxmaxima/)
 
 
 Listen to this episode here or add our [rss feed](https://flossforscience.com/feed.xml) to your favourite podcast application. 
