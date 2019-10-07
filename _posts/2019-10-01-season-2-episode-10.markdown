@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "EP022 Symbolic Calculation with Maxima"
-date: 2019-09-04 00:00:00
+date: 2019-10-02 00:00:00
 author: Admin
 categories: 
  - developer
@@ -11,23 +11,23 @@ podcast_episode_title: "Symbolic Calculation with Maxima"
 #Image of the blog post
 img: FFS022_header.png
 #Thumbnail of the blog post
-thumb: FFS022_thumb.png
+thumb: FFS022_thumb.jpg
 #Link to the mp3 file of the episode
-podcast_link: https://media.blubrry.com/flossforscience/archive.org/download/FFS021_juan_pablo_carbajal_gnu_octave/FLOSSforscience_EP021_Juan_Pablo_Carbajal_GNU-Octave.mp3
+podcast_link: https://media.blubrry.com/flossforscience/archive.org/download/FFS022_Maxima_Robert_Dodier/FFS_Maxima_Robert_Dodier.mp3
 #Link to the ogg file of the episode
-podcast_link_ogg: https://media.blubrry.com/flossforscience/archive.org/download/FFS021_juan_pablo_carbajal_gnu_octave/FLOSSforscience_EP021_Juan_Pablo_Carbajal_GNU-Octave.ogg
+podcast_link_ogg: https://media.blubrry.com/flossforscience/archive.org/download/FFS022_Maxima_Robert_Dodier/FFS_Maxima_Robert_Dodier.ogg
 #File size in MB of the mp3 file
-podcast_file_size: 22.5 MB
+podcast_file_size: 22.0 MB
 #File size in MB of the ogg file
-podcast_file_size_ogg: 21.9 MB
+podcast_file_size_ogg: 22.6 MB
 #Length of the episode in minutes (is the same for ogg and mp3)
-podcast_duration: "0:46:30"
+podcast_duration: "0:45:36"
 #File size in bytes of the mp3 file
-podcast_length: 22464651
+podcast_length: 22030481
 #File size in bytes of the ogg file
-podcast_length_ogg: 21915004
+podcast_length_ogg: 22551236
 #Unique id of the mp3 file (sha256)
-podcast_guid: 562305a86bc282406a0704ab991e53b1af6b90c6e5f5a2cd9ceb930f3b8b9cf7
+podcast_guid: d9a2381cd853681b557680e252f614d313359ed608e1cc0666ac1993e4100eb7
 #“full” for normal episodes; “trailer” to promote an upcoming show, season, or episode; or “bonus” for extra content related to a show, season, or episode.
 podcast_episode_type: full
 #Season number only
@@ -38,42 +38,40 @@ podcast_episode_number: 010
 podcast_subtitle: An interview with Robert Dodier
 #Description of the podcast
 podcast_description: |
-  In episode 21, we interviewed Juan Pablo Carbajal, an Argentinian physicist currently working as a postdoctoral researcher in the Department of Urban Water Management at the ETH domain in Switzerland. We had a great discussion about GNU Octave and how it can help scientists. We compared its core functions and its expandability through packages to its commercial equivalent Matlab and its toolboxes. An interesting feature of GNU Octave that we explored with Juan is the possibility to migrate code from Matlab directly to GNU Octave and to a certain point maintain code compatible with both. Juan shared with us that since the introduction of an integrated GUI in 2015, he noticed a continuous growth in popularity for the project. We then discussed about a few of the reasons why companies are  interested by GNU Octave and why universities should teach using free/libre software. Before asking our usual quick questions, Juan talked with us about the reasons why FLOSS is important for science and the importance of exposing non-FLOSS users to the benefits of FLOSS.
+  In episode 22, we interviewed Robert Dodier from the Maxima project. After a brief introduction and a presentation of Robert's current uses for Maxima he introduced what is Maxima and what can be achieved with it. We discussed some core concepts of Maxima's language as well as how to access the documentation within the software to help users. Then discussion went on about the interesting origin story of Maxima and its origin as a tool for AI. We then talked about the current state of the project and how can someone provide help. As well as our usual quick questions, we had an interesting discussion about the social aspects within FLOSS and other self-organized projects. 
 
-  00:00:00 Message to our listeners
-  00:00:29 Intro
-  00:00:45 Introducing Juan Pablo Carbajal
-  00:01:32 30 seconds elevator pitch for GNU Octave
-  00:02:20 How does the Octave programming language compares to other common programming languages
-  00:03:23 Compatibility between GNU Octave and Matlab
-  00:06:29 Matlab's toolboxes compared to GNU Octave packages
-  00:07:31 Simulink models with GNU Octave
-  00:09:06 Parallel processing with GNU Octave
-  00:10:40 The issue with CUDA in GNU Octave
-  00:11:48 How GNU Octaves differs rom other open source Matlab equivalents
-  00:13:34 Syntax compatibility to ease transition and reusing code from Matlab
-  00:15:11 Resources to start using GNU Octave
-  00:16:40 GNU Octave's graphical user interface and the old QT Octave GUI
-  00:20:14 GNU Octave's graphical user interface compared to Matlab
-  00:22:11 Why GNU Octave and not simply Octave
-  00:23:06 GNU Octave licence
-  00:24:01 How often he uses GNU Octave
-  00:24:18 Juan's numerous contributions to the project
-  00:25:27 GNU octave for companies
-  00:27:45 Arguments for teaching with GNU Octave instead of Matlab
-  00:29:32 How many are involved in the project?
-  00:30:37 Communication channels within the project
-  00:31:34 Is the project actively looking for developers?
-  00:32:11 Skills required to contribute
-  00:33:14 The two-level language dilemma
-  00:34:59 Juan's vision about FLOSS and its importance for science
-  00:37:09 Possible negative impacts of FLOSS and converting non-FLOSS users
-  00:40:17 The most notable scientific discovery in recent years
-  00:41:46 Juan's favourite text processing tools
-  00:42:38 Things we forgot to ask about
-  00:43:57 Anything else to share?
-  00:44:25 How to contact Juan
-  00:44:50 Outro
+  00:00:17 Introduction
+  00:00:26 Presentation of Robert Dodier
+  00:02:01 The scope of Maxima and its application for Bayesian inferences
+  00:02:57 Why not use R or another programming language for Bayesian inferences?
+  00:05:03 When did he discover Maxima?
+  00:05:29 Maxima's core features stability since 2003
+  00:06:04 His 30 seconds elevator pitchfor Maxima
+  00:06:43 Reference manual and Maxima's documentation
+  00:07:52 Accessing Maxima's documentation
+  00:08:41 Comparison with Maple and Mathematica
+  00:10:50 The concept of "code equal data"?
+  00:12:54 Maxima's language complexity/simplicity
+  00:15:13 User interfaces for Maxima
+  00:16:24 Console interface for Maxima
+  00:17:12 Presentation of the resulting equations or results
+  00:17:46 Integrating Maxima and LaTeX
+  00:19:08 The origin story of Maxima
+  00:25:17 Licensing status before the relicensing to GPL
+  00:26:00 Maxima for undergrad students and researchers
+  00:28:33 Robert's contributions to the project and its self-organized structure
+  00:31:39 How many people are involved in the project
+  00:32:13 Communication channels for the project
+  00:32:52 Underlying technologies in Maxima
+  00:34:27 Ressources for newcomers
+  00:35:47 Robert's vision about FLOSS in science
+  00:36:26 Negative impacts of FLOSS on science
+  00:37:25 The most notable scientific discovery in recent years
+  00:39:22 Robert's favourite text processing tool
+  00:40:04 The social aspect of FLOSS
+  00:42:34 Anything else he wanted to share with us?
+  00:43:39 How to contact Robert
+  00:43:57 Outro
 
 ---
 
@@ -85,7 +83,7 @@ Your browser does not support the audio element.
 
 # Outline
 
-In episode 21, we interviewed Robert Dodier
+In episode 22, we interviewed Robert Dodier from the Maxima project. After a brief introduction and a presentation of Robert's current uses for Maxima he introduced what is Maxima and what can be achieved with it. We discussed some core concepts of Maxima's language as well as how to access the documentation within the software to help users. Then discussion went on about the interesting origin story of Maxima and its origin as a tool for AI. We then talked about the current state of the project and how can someone provide help. As well as our usual quick questions, we had an interesting discussion about the social aspects within FLOSS and other self-organized projects. 
 
 # About Robert Dodier:
 
@@ -112,6 +110,8 @@ called Maxima.
 # Links
 
 * [Maxima home page](http://maxima.sourceforge.net/)
+* [Maxima online documentation](http://maxima.sourceforge.net/documentation.html)
+* [Maxima mailing list](http://maxima.sourceforge.net/maximalist.html)
 * [wxMaxima home page](https://wxmaxima-developers.github.io/wxmaxima/)
 
 
