@@ -1,77 +1,78 @@
 ---
 layout: post
-title: "EP023 Symbolic Calculation with Maxima"
-date: 2019-11-02 00:00:00
+title: "EP023 Reproducible Science and Synthetic Datasets using R"
+date: 2019-11-06 00:00:00
 author: Admin
 categories: 
  - user
  - podcast
 #Title of the podcast episode without the episode number
-podcast_episode_title: "Symbolic Calculation with Maxima"
+podcast_episode_title: "Reproducible Science and Synthetic Datasets using R"
 #Image of the blog post
-img: FFS022_header.png
+img: FFS023_header.png
 #Thumbnail of the blog post
-thumb: FFS022_thumb.jpg
+thumb: FFS023_thumb.jpg
 #Link to the mp3 file of the episode
-podcast_link: https://media.blubrry.com/flossforscience/archive.org/download/FFS022_Maxima_Robert_Dodier/FFS_Maxima_Robert_Dodier.mp3
+podcast_link: https://media.blubrry.com/flossforscience/archive.org/download/ffsep023quintana/FFS_EP023_Quintana.mp3
 #Link to the ogg file of the episode
-podcast_link_ogg: https://media.blubrry.com/flossforscience/archive.org/download/FFS022_Maxima_Robert_Dodier/FFS_Maxima_Robert_Dodier.ogg
+podcast_link_ogg: https://media.blubrry.com/flossforscience/archive.org/download/ffsep023quintana/FFS_EP023_Quintana.ogg
 #File size in MB of the mp3 file
-podcast_file_size: 22.0 MB
+podcast_file_size: 26.8 MB
 #File size in MB of the ogg file
-podcast_file_size_ogg: 22.6 MB
+podcast_file_size_ogg: 30.5 MB
 #Length of the episode in minutes (is the same for ogg and mp3)
-podcast_duration: "0:45:36"
+podcast_duration: "0:55:36"
 #File size in bytes of the mp3 file
-podcast_length: 22030481
+podcast_length: 26830937
 #File size in bytes of the ogg file
-podcast_length_ogg: 22551236
+podcast_length_ogg: 30466222
 #Unique id of the mp3 file (sha256)
-podcast_guid: d9a2381cd853681b557680e252f614d313359ed608e1cc0666ac1993e4100eb7
+podcast_guid: 360ea6b0f9d02eac28efc3dda39ca8e3e1989a13ce6a87b800dbf18c95804750
 #“full” for normal episodes; “trailer” to promote an upcoming show, season, or episode; or “bonus” for extra content related to a show, season, or episode.
 podcast_episode_type: full
 #Season number only
 podcast_season_number: 02
 #Episode number only
-podcast_episode_number: 10
+podcast_episode_number: 11
 #Subtitle of the episode 
-podcast_subtitle: An interview with Robert Dodier
+podcast_subtitle: An interview with Dan Quintana
 #Description of the podcast
 podcast_description: |
-  In episode 22, we interviewed Robert Dodier from the Maxima project. After a brief introduction and a presentation of Robert's current uses for Maxima he introduced what is Maxima and what can be achieved with it. We discussed some core concepts of Maxima's language as well as how to access the documentation within the software to help users. Then discussion went on about the interesting origin story of Maxima and its origin as a tool for AI. We then talked about the current state of the project and how can someone provide help. As well as our usual quick questions, we had an interesting discussion about the social aspects within FLOSS and other self-organized projects. 
+  In episode 23, we interviewed Dan Quintana from the University of Oslo. We started the discussion with him by asking the link between all his subjects of interest and where R fits into his workflow. We then had an extensive discussion about R including his must have R packages and the synthpop package for generating synthetic datasets. We then widened the discussion and talked about the multiple facets of open science and reproducibility. Dan then talked about what he sees as one of the next big challenge of science. We finished the interview with our usual quick questions. 
 
-  00:00:17 Introduction
-  00:00:26 Presentation of Robert Dodier
-  00:02:01 The scope of Maxima and its application for Bayesian inferences
-  00:02:57 Why not use R or another programming language for Bayesian inferences?
-  00:05:03 When did he discover Maxima?
-  00:05:29 Maxima's core features stability since 2003
-  00:06:04 His 30 seconds elevator pitchfor Maxima
-  00:06:43 Reference manual and Maxima's documentation
-  00:07:52 Accessing Maxima's documentation
-  00:08:41 Comparison with Maple and Mathematica
-  00:10:50 The concept of "code equal data"?
-  00:12:54 Maxima's language complexity/simplicity
-  00:15:13 User interfaces for Maxima
-  00:16:24 Console interface for Maxima
-  00:17:12 Presentation of the resulting equations or results
-  00:17:46 Integrating Maxima and LaTeX
-  00:19:08 The origin story of Maxima
-  00:25:17 Licensing status before the relicensing to GPL
-  00:26:00 Maxima for undergrad students and researchers
-  00:28:33 Robert's contributions to the project and its self-organized structure
-  00:31:39 How many people are involved in the project
-  00:32:13 Communication channels for the project
-  00:32:52 Underlying technologies in Maxima
-  00:34:27 Ressources for newcomers
-  00:35:47 Robert's vision about FLOSS in science
-  00:36:26 Negative impacts of FLOSS on science
-  00:37:25 The most notable scientific discovery in recent years
-  00:39:22 Robert's favourite text processing tool
-  00:40:04 The social aspect of FLOSS
-  00:42:34 Anything else he wanted to share with us?
-  00:43:39 How to contact Robert
-  00:43:57 Outro
+  00:00:18 Introduction
+  00:00:39 Presentation of Dan Quintana
+  00:01:55 The links between his research interests
+  00:04:00 Where does R fits in his workflow
+  00:05:22 His 30 seconds elevator pitch for R
+  00:06:28 How difficult is it to switch from SPSS to R?
+  00:08:05 The best time to switch to R
+  00:08:40 JASP and Jamovi as a gateway to R
+  00:10:53 Standing on the shoulders of giants with R
+  00:12:15 R or Python?
+  00:14:00 Dan's must have R packages
+  00:15:59 Ressources to learn R
+  00:17:21 Introduction to synthetic datasets
+  00:21:54 Synthetic datasets for privacy and their limitations
+  00:24:52 How much time should be spent to publish datasets and code
+  00:26:58 Dan's view on open science practices
+  00:28:27 FLOSS and open science practices
+  00:30:49 The licence he uses for sharing code and data
+  00:32:06 Obtaining a DOI with the Open Science Framework
+  00:32:21 Journal of Open Source Software
+  00:34:15 The importance of publishing in open access journals
+  00:37:28 Publishig in open access journals and plan S
+  00:39:09 The lack of affordability for open access publishing
+  00:40:22 Preprints as a solution?
+  00:43:04 How to publish a perfectly reproducible paper
+  00:46:02 How to convince other scientists to share their data and code
+  00:46:42 The next big challenge of science
+  00:48:55 The most notable discovery in recent years
+  00:51:20 Favourite text processing tool
+  00:51:43 A topic in science he recently changed his mind about
+  00:52:49 Anything else?
+  00:53:34 How to contact Dan Quintana
+  00:53:56 Conclusion
 
 ---
 
@@ -83,7 +84,7 @@ Your browser does not support the audio element.
 
 # Outline
 
-In episode 22, we interviewed Robert Dodier from the Maxima project. After a brief introduction and a presentation of Robert's current uses for Maxima he introduced what is Maxima and what can be achieved with it. We discussed some core concepts of Maxima's language as well as how to access the documentation within the software to help users. Then discussion went on about the interesting origin story of Maxima and its origin as a tool for AI. We then talked about the current state of the project and how can someone provide help. As well as our usual quick questions, we had an interesting discussion about the social aspects within FLOSS and other self-organized projects. 
+In episode 23, we interviewed Dan Quintana from the University of Oslo. We started the discussion with him by asking the link between all his subjects of interest and where R fits into his workflow. We then had an extensive discussion about R including his must have R packages and the synthpop package for generating synthetic datasets. We then widened the discussion and talked about the multiple facets of open science and reproducibility. Dan then talked about what he sees as one of the next big challenge of science. We finished the interview with our usual quick questions. 
 
 # About Dan Quintana:
 
