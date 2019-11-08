@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "EP023 Reproducible Science and Synthetic Datasets using R"
+title: "EP023 Reproducible Science and Synthetic Datasets Using R"
 date: 2019-11-06 00:00:00
 author: Admin
 categories: 
  - user
  - podcast
 #Title of the podcast episode without the episode number
-podcast_episode_title: "Reproducible Science and Synthetic Datasets using R"
+podcast_episode_title: "Reproducible Science and Synthetic Datasets Using R"
 #Image of the blog post
 img: FFS023_header.png
 #Thumbnail of the blog post
