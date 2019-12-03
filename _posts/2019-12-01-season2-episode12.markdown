@@ -102,6 +102,10 @@ Simon is a member of the UKRI expert group on e-Infrastructure. He has a backgro
 
 # Links
 
+* [The Software Sustainability Institute](www.software.ac.uk)
+* [The University of Southampton](https://www.southampton.ac.uk/)
+* [The Society of Research Software Engineering](https://society-rse.org/)
+* [Simon on Twitter](https://twitter.com/sjh5000)
 
 
 Listen to this episode here or add our [rss feed](https://flossforscience.com/feed.xml) to your favourite podcast application. 
