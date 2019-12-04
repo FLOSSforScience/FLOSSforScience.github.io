@@ -88,7 +88,7 @@ In episode 23, we interviewed Dan Quintana from the University of Oslo. We start
 
 # About the Society of Research Software Engineering:
 
-
+The Society of Research Software Engineering was founded on the belief that a world which relies on software must recognise the people who develop it. Its mission is to establish a research environment that recognises the vital role of software in research
 
 # About Simon Hettrick:
 
