@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "EP024 Reproducible Science and Synthetic Datasets Using R"
+title: "EP024 UK RSE and Software Sustainability"
 date: 2019-12-04 00:00:00
 author: Admin
 categories: 
  - user
  - podcast
 #Title of the podcast episode without the episode number
-podcast_episode_title: "Reproducible Science and Synthetic Datasets Using R"
+podcast_episode_title: "UK RSE and Software Sustainability"
 #Image of the blog post
 img: FFS024_header.png
 #Thumbnail of the blog post
