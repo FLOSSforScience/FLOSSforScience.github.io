@@ -79,15 +79,26 @@ Your browser does not support the audio element.
 # Outline
 
 
-# About freeCAD:
+# About FreeCAD:
 
+FreeCAD is a cross-platform parametric 3D modeler. Architecturally, it is a Qt application with a C++ core extended with Python, and uses a modular, workbench-based approach. Besides traditional CAD functionality, FreeCAD offers computer-aided engineering and manufacturing features, integrating with other open source projects like OpenFOAM (CFD), Gmsh & Netgen (meshers), CalculiX & Elmer (FEA solvers), IFCOpenShell (BIM), OpenCAMLib (CAM/CNC) as well as integration with KiCAD for electronics design automation.
 
 # About Kurt Kremitzki:
 
+Kurt Kremitzki is a biosystems engineer, an admin/developer for the FreeCAD project, and a Debian Maintainer on the Science Team. During the day, he works as a Scientific Software Developer for Enthought, a digital transformation company at the heart of the scientific Python ecosystem.
 
 # Links
 
-* [The Software Sustainability Institute](www.software.ac.uk)
+* [FreeCAD](https://www.freecadweb.org)
+* [Debian Science](https://wiki.debian.org/DebianScience)
+* [Enthought](https://www.enthought.com/)
+* [Assembly 3 Workbench](https://github.com/realthunder/FreeCAD_assembly3)
+* [Finite element modeling section of FreeCAD's forums](https://forum.freecadweb.org/viewforum.php?f=18)
+* [CAM/CNC section of FreeCAD's forums](https://forum.freecadweb.org/viewforum.php?f=15)
+* [FreeCAD subreddit with highlights from the forums](https://www.reddit.com/r/FreeCAD)
+* [FOSDEM talk: Open-source design ecosystems around FreeCAD](https://fosdem.org/2020/schedule/event/freecad/)
+* [Kurt's blog](https://www.kwk.systems/blog/)
+* [Kurt on Twitter](https://www.twitter.com/thekurtwk)
 
 
 Listen to this episode here or add our [rss feed](https://flossforscience.com/feed.xml) to your favourite podcast application. 
