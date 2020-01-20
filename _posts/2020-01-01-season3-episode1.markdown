@@ -100,6 +100,10 @@ Kurt Kremitzki is a biosystems engineer, an admin/developer for the FreeCAD proj
 * [Kurt's blog](https://www.kwk.systems/blog/)
 * [Kurt on Twitter](https://www.twitter.com/thekurtwk)
 
+# Related epsiodes
+
+* [EP020 Peer-reviewed Publication of Research Software](https://flossforscience.com/podcast/season-2-episode-8)
+* [EP009 Finite element meshing with gmsh](https://flossforscience.com/podcast/season-1-episode-09)
 
 Listen to this episode here or add our [rss feed](https://flossforscience.com/feed.xml) to your favourite podcast application. 
 
