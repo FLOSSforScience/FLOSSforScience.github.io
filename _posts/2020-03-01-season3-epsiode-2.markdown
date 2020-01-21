@@ -82,15 +82,23 @@ Your browser does not support the audio element.
 
 # About Pandas:
 
+pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
 
+pandas is a NumFOCUS sponsored project. This will help ensure the success of development of pandas as a world-class open-source project, and makes it possible to donate to the project.
 
 # About Bhavani Ravi:
 
-
+Bhavani Ravi is a Research Engineer at  Saama Technologies working on deploying clean, scalable and quality machine learning models to production systems. Even though her career is enough to keep her busy, she likes to pay forward all the motivation and support she received by running WomenTechMakers chennai community, where she enables a forum for talented women to explore the male-dominated tech world. Outside of development and communities, she is a blogger, bibliophile, wannapreneur, and constant learner. You can find more about her at bhavaniravi.com
 
 # Links
 
 * [The Software Sustainability Institute](www.software.ac.uk)
+* [Bhavani on Twitter](https://twitter.com/geeky_bhavani)
+* [Bhavani Ravi](bhavaniravi.com)
+* [Datacamp - Getting Started with Pandas](https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python)
+* [Pandas from Scratch](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/)
+* [Pandas Zero to Hero blog series](https://medium.com/series/python-pandas-101-55f5e47ac7c8)
+
 
 
 Listen to this episode here or add our [rss feed](https://flossforscience.com/feed.xml) to your favourite podcast application. 
