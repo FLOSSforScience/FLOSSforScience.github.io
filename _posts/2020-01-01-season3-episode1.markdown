@@ -4,7 +4,7 @@ title: "EP025 FreeCAD, a 3D Parametric Modeler"
 date: 2020-02-05 00:00:00
 author: Admin
 categories: 
- - Developer
+ - developer
  - podcast
 #Title of the podcast episode without the episode number
 podcast_episode_title: "FreeCAD, a 3D Parametric Modeler"
