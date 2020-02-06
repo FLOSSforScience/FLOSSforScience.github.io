@@ -4,7 +4,7 @@ title: "EP016 Management of High Performance Computing Infrastructures with Open
 date: 2019-04-03 00:00:00
 author: Admin
 categories: 
- - Developer
+ - developer
  - podcast
 #Title of the podcast episode without the episode number
 podcast_episode_title: Management of High Performance Computing Infrastructures with OpenHPC
