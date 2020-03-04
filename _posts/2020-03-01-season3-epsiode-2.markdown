@@ -9,7 +9,7 @@ categories:
 #Title of the podcast episode without the episode number
 podcast_episode_title: "UK RSE and Software Sustainability"
 #Image of the blog post
-img: FFS024_header.png
+img: FFS026_header.png
 #Thumbnail of the blog post
 thumb: FFS024_thumb.jpg
 #Link to the mp3 file of the episode
