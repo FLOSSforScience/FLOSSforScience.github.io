@@ -11,7 +11,7 @@ podcast_episode_title: "UK RSE and Software Sustainability"
 #Image of the blog post
 img: FFS026_header.png
 #Thumbnail of the blog post
-thumb: FFS024_thumb.jpg
+thumb: FFS026_thumb.jpg
 #Link to the mp3 file of the episode
 podcast_link: https://media.blubrry.com/flossforscience/archive.org/download/ffsep024ukrse/FFS_EP024_UK_RSE.mp3
 #Link to the ogg file of the episode
