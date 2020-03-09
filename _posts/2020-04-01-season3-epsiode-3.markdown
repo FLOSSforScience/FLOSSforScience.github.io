@@ -82,17 +82,33 @@ Your browser does not support the audio element.
 
 # Outline
 
-# About numpy:
+# About NumPy:
 
-# About scipy:
+NumPy is the fundamental package for numerical and scientific computing with Python. It provides an N-dimensional array data structure and a large set of numerical functions that operate on it. Its array computing concepts – vectorization, broadcasting, indexing, and universal functions (ufuncs) – are used throughout the scientific Python ecosystem, and have also inspired similar libraries in other programming languages. The NumPy API and concepts have been adapted to other Python libraries, such as Dask and Xarray for distributed computing and PyTorch and CuPy for GPU computing. 
+
+# About SciPy:
+
+SciPy is a library of numerical routines for the Python programming language that provides fundamental building blocks for modeling and solving scientific problems. SciPy includes algorithms for optimization, integration, interpolation, eigenvalue problems, algebraic equations, differential equations and many other classes of problems; it also provides specialized data structures, such as sparse matrices and k-dimensional trees. SciPy is built on top of NumPy, which provides array data structures and related fast numerical routines, and SciPy is itself the foundation upon which higher level scientific libraries, including scikit-learn and scikit-image, are built. 
 
 # About Ralf Gommers:
 
+Ralf has been deeply involved in the SciPy and PyData communities for over a decade. He is a maintainer of NumPy, SciPy and PyWavelets, and has contributed widely throughout the SciPy ecosystem. Ralf is currently the SciPy Steering Council Chair, and he served on the NumFOCUS Board of Directors from 2012-2018.
+
+Ralf directs Quansight Labs, which consists of developers, community managers, designers, and documentation writers who build open-source technology and grow open-source communities around data science and scientific computing projects. Previously Ralf has worked in industrial R&D, on topics as diverse as MRI, lithography and forestry. 
 
 # Links
 
-* [ADD](Links)
-
+- [NumPy website](https://www.numpy.org)
+- [NumPy documentation](https://numpy.org/devdocs/)
+- [NumPy development](https://github.com/numpy/numpy)
+- [NumPy on Twitter](twitter.com/numpy_team)
+- [SciPy website](https://www.scipy.org)
+- [SciPy documentation](https://docs.scipy.org)
+- [SciPy development](https://github.com/scipy/scipy)
+- [NumFOCUS projects](https://numfocus.org/sponsored-projects)
+- [Ralf on GitHub](github.com/rgommers/)
+- [Ralf on Twitter](https://twitter.com/ralfgommers)
+- [Ralf's blog](https://rgommers.github.io/)
 
 
 Listen to this episode here or add our [rss feed](https://flossforscience.com/feed.xml) to your favourite podcast application. 
