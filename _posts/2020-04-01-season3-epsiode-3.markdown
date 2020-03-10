@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "EP027 Data Analysis with pandas"
-date: 2020-04-01 00:00:00
+date: 2022-04-01 00:00:00
 author: Admin
 categories: 
  - developer
