@@ -48,9 +48,8 @@ social:
      name: FLOSSforscience
    - title: rss
      url: https://flossforscience.com/feed.xml 
-#  - title: tumblr
-#    url:
-
+   - title: youtube
+     url: https://www.youtube.com/channel/UChwl6BI6ZGiukucsL8rtrRA
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines:
