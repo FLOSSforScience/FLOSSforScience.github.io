@@ -85,7 +85,7 @@ Your browser does not support the audio element.
 # About NumFocus:
 
 
-# About Ralf Gommers:
+# About Leah Silen:
 
 # Links
 
