@@ -9,9 +9,9 @@ categories:
 #Title of the podcast episode without the episode number
 podcast_episode_title: "Data Analysis with pandas"
 #Image of the blog post
-img: FFS026_header.png
+img: FFS027_header.png
 #Thumbnail of the blog post
-thumb: FFS026_thumb.jpg
+thumb: FFS027_thumb.jpg
 #Link to the mp3 file of the episode
 podcast_link: https://media.blubrry.com/flossforscience/archive.org/download/ffsep026pandas/FFS_EP026_pandas.mp3
 #Link to the ogg file of the episode
