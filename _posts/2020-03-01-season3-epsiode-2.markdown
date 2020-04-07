@@ -97,9 +97,9 @@ Bhavani Ravi is a Research Engineer at  Saama Technologies working on deploying 
 
 # Links
 
-* [The Software Sustainability Institute](www.software.ac.uk)
+* [The Software Sustainability Institute](https://www.software.ac.uk)
 * [Bhavani on Twitter](https://twitter.com/geeky_bhavani)
-* [Bhavani Ravi](bhavaniravi.com)
+* [Bhavani Ravi](https://bhavaniravi.com)
 * [Datacamp - Getting Started with Pandas](https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python)
 * [Pandas from Scratch](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/)
 * [Pandas Zero to Hero blog series](https://medium.com/series/python-pandas-101-55f5e47ac7c8)
