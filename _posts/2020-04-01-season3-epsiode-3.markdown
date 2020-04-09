@@ -1,76 +1,90 @@
 ---
 layout: post
-title: "EP027 Data Analysis with pandas"
-date: 2020-04-01 00:00:00
+title: "EP027 Scientific Computing with SciPy and NumPy"
+date: 2020-04-08 00:00:00
 author: Admin
 categories: 
  - developer
  - podcast
 #Title of the podcast episode without the episode number
-podcast_episode_title: "Data Analysis with pandas"
+podcast_episode_title: "Scientific Computing with SciPy and NumPy"
 #Image of the blog post
 img: FFS027_header.png
 #Thumbnail of the blog post
 thumb: FFS027_thumb.jpg
 #Link to the mp3 file of the episode
-podcast_link: https://media.blubrry.com/flossforscience/archive.org/download/ffsep026pandas/FFS_EP026_pandas.mp3
+podcast_link: https://media.blubrry.com/flossforscience/archive.org/download/ffsep027numpyscipy/FFS_EP027_NumPy_SciPy.mp3
 #Link to the ogg file of the episode
-podcast_link_ogg: https://media.blubrry.com/flossforscience/archive.org/download/ffsep026pandas/FFS_EP026_pandas.ogg
+podcast_link_ogg: https://media.blubrry.com/flossforscience/archive.org/download/ffsep027numpyscipy/FFS_EP027_NumPy_SciPy.ogg
 #File size in MB of the mp3 file
-podcast_file_size: 13.4 MB
+podcast_file_size: 28.5 MB
 #File size in MB of the ogg file
-podcast_file_size_ogg: 13.7 MB
+podcast_file_size_ogg: 30.6 MB
 #Length of the episode in minutes (is the same for ogg and mp3)
-podcast_duration: "0:27:35"
+podcast_duration: "0:59:05"
 #File size in bytes of the mp3 file
-podcast_length: 13381255
+podcast_length: 28509008
 #File size in bytes of the ogg file
-podcast_length_ogg: 13709754
+podcast_length_ogg: 30598312
 #Unique id of the mp3 file (sha256)
-podcast_guid: 0ec9f46c45094e6fbdb8790721d9c09d4f811bda7f31e972e3d8eb6761168435
+podcast_guid: 764b98ad5a87227ff22a529ec46b5b34be2014978bb5760ec1d935ddaf09e0ce
 #“full” for normal episodes; “trailer” to promote an upcoming show, season, or episode; or “bonus” for extra content related to a show, season, or episode.
 podcast_episode_type: full
 #Season number only
 podcast_season_number: 03
 #Episode number only
-podcast_episode_number: 02
+podcast_episode_number: 03
 #Subtitle of the episode 
-podcast_subtitle: An interview with Bhavani Ravi
+podcast_subtitle: An interview with Ralf Gommers
 #Description of the podcast
 podcast_description: |
-  In episode 26, we interviewed Bhavani Ravi about the Python data analysis library pandas. After a brief introduction about her use of machine leaning models for pharmaceutical research, we talked extensively about pandas. She told us how much pandas is important for her everyday tasks and the strict quality standards of the project. We talked about the features provided by pandas and its compatibility with other Python libraries. We then discussed the importance of FLOSS in her industry and how they are contributing back to important projects. She share with us her experience as a first time contributor to pandas and how to find good first time issues for newcomers. We finished the interview with out usual quick questions.  
+  In episode 27, we interviewed Ralf Gommers from the NumPy and SciPy projects. We started our discussion by talking about his past research experience as a physicist and his transition to open source software and programming. This led him to get involved in projects such as PyWavelets, NumPy and SciPy. Following that, we had a great discussion about NumPy, its many features, its target audience and its performance. We learned why NumPy is not included in Python's standard library and its overlap with Scipy. We also compared the combination of Matlab to NumPy and Python and how users could transition to this open source solution. We then had a brief discussion about SciPy and the features it provides. Ralf informed us of the positive results from Google's previous Summer of Code and Season of Docs participations.  We discussed how to reach the project and the many kinds of contributions that they are looking for. We talked about the importance of FLOSS for science and attribution of research output. We finished the interview with our classic quick questions and a reflection from Ralf about the need for more sustainability in open source software development as volunteer effort may not be sufficient in the future.  
 
-  00:00:17 Introduction
-  00:00:26 Introducing Bhavani Ravi
-  00:00:49 Using machine learning models for pharmaceutical research
-  00:02:46 How she got involed in the pandas project
-  00:04:29 Her elevator pitch for pandas
-  00:04:43 How she use pandas in her everyday job
-  00:05:24 What does pandas bring that is lacking in basic Python
-  00:06:53 Preparing data for machine learning algorithms
-  00:08:12 The performance of pandas
-  00:09:21 Data formats supported by pandas
-  00:11:03 Data structures provided by pandas
-  00:11:42 Data analysis tools provided by pandas
-  00:12:32 Using pandas data structures with scikit-learn
-  00:12:55 Plotting data from pandas
-  00:13:39 Transition to Python version 2
-  00:14:51 Commercial usage of pandas
-  00:15:16 Companies contributing back to pandas
-  00:16:02 Exposition of students to pandas
-  00:16:42 Tutorials to start with pandas
-  00:18:26 Python libraries dependencies of pandas
-  00:18:55 Main communication channels
-  00:19:44 Her experience contributing to pandas
-  00:21:14 Skills to contribute to the project
-  00:21:49 List of good first issues
-  00:22:21 Tasks for non-programmers
-  00:23:12 FLOSS and the industry
-  00:24:16 The most notable scientific discovery in recent years
-  00:24:33 Her favourite text processing tool
-  00:25:06 Anything else?
-  00:25:38 How to contact Bhavani
-  00:25:57 Outro
+  00:00:00 Intro
+  00:00:18 Introduction
+  00:00:33 Introducing Ralf Gommers
+  00:02:05 Research during his PhD and and PostDoc
+  00:03:20 When he started to use open source tools
+  00:03:52 Learning to code
+  00:04:39 PyWavelets, another sideproject he likes
+  00:05:55 His elevator pitch for NumPy
+  00:06:55 Vector arrays in Python before NumPy
+  00:07:49 How he got involved in the NumPy project
+  00:10:13 Traget users for NumPy
+  00:11:36 NumPy as part of the standard library?
+  00:13:24 Features provided by NumPy
+  00:14:22 Major differences between Python built-in list and NumPy's array
+  00:16:01 Structured data
+  00:16:45 Why appending a row to an array is made hard
+  00:18:09 Multithreaded code with NumPy
+  00:19:48 Distributed array processing
+  00:20:50 GPU computation with Python and NumPy
+  00:22:16 Linear algebra functions in NumPy
+  00:23:25 Overlap between SciPy and NumPy for linear algebra
+  00:23:55 Python speed as an interpreted language
+  00:25:43 Python with NumPy compared to Matlab
+  00:28:07 How easy is the transition between Matlab and Python Numpy
+  00:29:26 Performance difference between Matlab and Python
+  00:31:00 Commercial applications of NumPy
+  00:32:15 Contributions from the industry ans incentives to contribute
+  00:34:10 Elevator pitch for SciPy
+  00:35:37 Overview of some of the submodules in SciPy
+  00:38:11 The size of the communities
+  00:39:33 Participation in Google Summer of Code
+  00:40:24 Participation in Google Season of Docs
+  00:41:48 Communication channels in the project
+  00:43:25 Where to ask for support?
+  00:44:48 Possible contributions
+  00:46:25 Skills usefull to contribute to the NumPy project
+  00:48:12 Identifying possible contributions
+  00:48:52 The importance of FLOSS for science
+  00:52:02 Possible negative impact of FLOSS on science
+  00:52:49 Crediting contributions in science
+  00:53:42 Most notable scientific discovery in recent years
+  00:54:49 His favourite text processing tool
+  00:55:30 Volunteer effort may not be sufficient anymore
+  00:56:58 Contact informations for Ralf Gommers
+  00:57:27 Outro
 
 ---
 
@@ -81,6 +95,8 @@ Your browser does not support the audio element.
 </audio>
 
 # Outline
+
+In episode 27, we interviewed Ralf Gommers from the NumPy and SciPy projects. We started our discussion by talking about his past research experience as a physicist and his transition to open source software and programming. This led him to get involved in projects such as PyWavelets, NumPy and SciPy. Following that, we had a great discussion about NumPy, its many features, its target audience and its performance. We learned why NumPy is not included in Python's standard library and its overlap with Scipy. We also compared the combination of Matlab to NumPy and Python and how users could transition to this open source solution. We then had a brief discussion about SciPy and the features it provides. Ralf informed us of the positive results from Google's previous Summer of Code and Season of Docs participations.  We discussed how to reach the project and the many kinds of contributions that they are looking for. We talked about the importance of FLOSS for science and attribution of research output. We finished the interview with our classic quick questions and a reflection from Ralf about the need for more sustainability in open source software development as volunteer effort may not be sufficient in the future.  
 
 # About NumPy:
 
@@ -100,13 +116,14 @@ Ralf directs Quansight Labs, which consists of developers, community managers, d
 
 - [NumPy website](https://www.numpy.org)
 - [NumPy documentation](https://numpy.org/devdocs/)
+- [NumPy: the absolute basics for beginners](https://numpy.org/devdocs/user/absolute_beginners.html)
 - [NumPy development](https://github.com/numpy/numpy)
-- [NumPy on Twitter](twitter.com/numpy_team)
+- [NumPy on Twitter](https://twitter.com/numpy_team)
 - [SciPy website](https://www.scipy.org)
 - [SciPy documentation](https://docs.scipy.org)
 - [SciPy development](https://github.com/scipy/scipy)
 - [NumFOCUS projects](https://numfocus.org/sponsored-projects)
-- [Ralf on GitHub](github.com/rgommers/)
+- [Ralf on GitHub](https://github.com/rgommers/)
 - [Ralf on Twitter](https://twitter.com/ralfgommers)
 - [Ralf's blog](https://rgommers.github.io/)
 
