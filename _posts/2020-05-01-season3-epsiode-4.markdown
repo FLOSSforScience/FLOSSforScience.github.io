@@ -84,8 +84,17 @@ Your browser does not support the audio element.
 
 # About NumFocus:
 
+ The mission of NumFOCUS is to promote open practices in research, data, and scientific computing by serving as a fiscal sponsor for open source projects and organizing community-driven educational programs. We envision an inclusive scientific and research community that utilizes actively supported open source software to make impactful discoveries for a better world. 
+  NumFOCUS provides a stable, independent, and professional home for the open source projects powering contemporary scientific inquiry and business processes. We aim to ensure that funding and resources are available to sustain projects in the scientific data stack over the long haul.
+  NumFOCUS connects the community with expertise from knowledgeable and trusted sources.
+- Our Corporate Sponsorship Program provides a vehicle for communication and collaboration between projects and industry.
+- Our Research Partnerships Program provides guidance on how educational and research institutions can better support scientific software development, maintenance, research, and advancement.
+- Our Diversity & Inclusion in Scientific Computing (DISC) Program provides guidance on how to best promote diversity and inclusion within open source data science communities. We believe that diversity drives innovation and discovery.
+- Our PyData global network is a community-driven educational program that promotes discussion of best practices, new approaches, and emerging technologies for data management, processing, analytics, and visualization.
 
 # About Leah Silen:
+
+Leah has been with NumFOCUS from its beginning in 2012, working with the founding board members to write the application for NumFOCUS’s nonprofit status. She worked in the nonprofit sector as a Public Relations and Program Director with a focus on community relations and fundraising. Leah has also volunteered and sat on several boards of nonprofit organizations.
 
 # Links
 
