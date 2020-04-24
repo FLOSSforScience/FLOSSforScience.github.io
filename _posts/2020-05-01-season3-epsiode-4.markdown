@@ -98,7 +98,10 @@ Leah has been with NumFOCUS from its beginning in 2012, working with the foundin
 
 # Links
 
-- [NumPy website](https://www.numpy.org)
+- [NumFocus](https://numfocus.org/)
+- [Numfocus @ Twitter](https://twitter.com/numfocus/)
+- [NumFocus @ GitHub](https://github.com/numfocus)
+- [spaCy](https://spacy.io/)
 
 
 Listen to this episode here or add our [rss feed](https://flossforscience.com/feed.xml) to your favourite podcast application. 
