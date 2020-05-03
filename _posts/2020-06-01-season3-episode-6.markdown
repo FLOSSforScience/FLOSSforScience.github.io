@@ -93,13 +93,18 @@ Your browser does not support the audio element.
 
 # About Python setuptools:
 
+Setuptools is the dominant way to build Python packages for distributing that functionality to other users via pip and the Python Package Index. Setuptools support simple, pure-Python packages all the way to complex packages requiring compilation (such as from C or Rust) and features like entry points and console scripts.
 
 # About Jason R. Coombs:
 
+Jason has been a Python enthusiast for over two decades and a contributor to open-source for just as long. As a core contributor to Python and maintainer of over 140 packages in PyPI, Jason has worked tirelessly to streamline packaging workflows and automate best practices around package distribution. Jason has used Python across government, commercial, and non-profit sectors to produce enterprise-grade software on Python. Jason is currently a Site Reliability Manager at Google in Pittsburgh.
 
 # Links
 
-* [FreeCAD](https://www.freecadweb.org)
+* [Setuptools](https://pypi.org/project/setuptools)
+* [CherryPy](https://cherrypy.org)
+* [Jason R. Coombs](https://www.jaraco.com/)
+* [Python Packaging Users Guide](https://packaging.python.org/)
 
 # Related epsiodes
 
