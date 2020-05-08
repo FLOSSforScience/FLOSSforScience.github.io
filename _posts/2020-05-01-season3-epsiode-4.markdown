@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "EP027 Data Analysis with pandas"
-date: 2022-04-01 00:00:00
+title: "EP028 Num Focus: A Nonprofit Supporting Open Source"
+date: 2022-05-01 00:00:00
 author: Admin
 categories: 
  - developer
@@ -9,9 +9,9 @@ categories:
 #Title of the podcast episode without the episode number
 podcast_episode_title: "Data Analysis with pandas"
 #Image of the blog post
-img: FFS026_header.png
+img: FFS028_header.png
 #Thumbnail of the blog post
-thumb: FFS026_thumb.jpg
+thumb: FFS028_thumb.jpg
 #Link to the mp3 file of the episode
 podcast_link: https://media.blubrry.com/flossforscience/archive.org/download/ffsep026pandas/FFS_EP026_pandas.mp3
 #Link to the ogg file of the episode
