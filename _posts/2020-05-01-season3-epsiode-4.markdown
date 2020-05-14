@@ -1,76 +1,86 @@
 ---
 layout: post
-title: "EP028 Num Focus: A Nonprofit Supporting Open Source"
-date: 2022-05-01 00:00:00
+title: "EP028 NumFocus: A Nonprofit Supporting Open Source"
+date: 2020-05-06 00:00:00
 author: Admin
 categories: 
- - developer
  - podcast
 #Title of the podcast episode without the episode number
-podcast_episode_title: "Data Analysis with pandas"
+podcast_episode_title: "NumFocus: A Nonprofit Supporting Open Source"
 #Image of the blog post
 img: FFS028_header.png
 #Thumbnail of the blog post
 thumb: FFS028_thumb.jpg
 #Link to the mp3 file of the episode
-podcast_link: https://media.blubrry.com/flossforscience/archive.org/download/ffsep026pandas/FFS_EP026_pandas.mp3
+podcast_link: https://media.blubrry.com/flossforscience/archive.org/download/ffs-ep-028-num-focus/FFS_EP028_NumFocus_Leah_Silen.mp3
 #Link to the ogg file of the episode
-podcast_link_ogg: https://media.blubrry.com/flossforscience/archive.org/download/ffsep026pandas/FFS_EP026_pandas.ogg
+podcast_link_ogg: https://media.blubrry.com/flossforscience/archive.org/download/ffs-ep-028-num-focus/FFS_EP028_NumFocus_Leah_Silen.ogg
 #File size in MB of the mp3 file
-podcast_file_size: 13.4 MB
+podcast_file_size: 21.8 MB
 #File size in MB of the ogg file
-podcast_file_size_ogg: 13.7 MB
+podcast_file_size_ogg: 21.8 MB
 #Length of the episode in minutes (is the same for ogg and mp3)
-podcast_duration: "0:27:35"
+podcast_duration: "0:45:10"
 #File size in bytes of the mp3 file
-podcast_length: 13381255
+podcast_length: 21828804
 #File size in bytes of the ogg file
-podcast_length_ogg: 13709754
+podcast_length_ogg: 21773914
 #Unique id of the mp3 file (sha256)
-podcast_guid: 0ec9f46c45094e6fbdb8790721d9c09d4f811bda7f31e972e3d8eb6761168435
+podcast_guid: ea49c20854f6ab2785e87f2e2b03daae5a7fd5c53ef68716c11c4ab1eb4a3577
 #“full” for normal episodes; “trailer” to promote an upcoming show, season, or episode; or “bonus” for extra content related to a show, season, or episode.
 podcast_episode_type: full
 #Season number only
 podcast_season_number: 03
 #Episode number only
-podcast_episode_number: 02
+podcast_episode_number: 04
 #Subtitle of the episode 
-podcast_subtitle: An interview with Bhavani Ravi
+podcast_subtitle: An interview with Leah Silen
 #Description of the podcast
 podcast_description: |
-  In episode 26, we interviewed Bhavani Ravi about the Python data analysis library pandas. After a brief introduction about her use of machine leaning models for pharmaceutical research, we talked extensively about pandas. She told us how much pandas is important for her everyday tasks and the strict quality standards of the project. We talked about the features provided by pandas and its compatibility with other Python libraries. We then discussed the importance of FLOSS in her industry and how they are contributing back to important projects. She share with us her experience as a first time contributor to pandas and how to find good first time issues for newcomers. We finished the interview with out usual quick questions.  
+  In episode 28, we interviewed Leah Silen from the NumFocus organization. She introduced us to the goals and the mission of the organization. We then had a discussion about the different levels of support provided by the organization to its member projects. She informed us about the legal, financial, technological and logistical support that can be provided by NumFocus. Following that, we asked her about the revenue sources of the organization as well as the possible influence from the corporate sponsors over the decisions and governance of the organization. We also discussed of the requirements to become part of NumFocus including details about the application process. We had a brief discussion about the history of the project and the evolution of the scope of projects that are part of the organization. After discussing the governance of the organization, we concluded the interview with our usual questions. 
 
-  00:00:17 Introduction
-  00:00:26 Introducing Bhavani Ravi
-  00:00:49 Using machine learning models for pharmaceutical research
-  00:02:46 How she got involed in the pandas project
-  00:04:29 Her elevator pitch for pandas
-  00:04:43 How she use pandas in her everyday job
-  00:05:24 What does pandas bring that is lacking in basic Python
-  00:06:53 Preparing data for machine learning algorithms
-  00:08:12 The performance of pandas
-  00:09:21 Data formats supported by pandas
-  00:11:03 Data structures provided by pandas
-  00:11:42 Data analysis tools provided by pandas
-  00:12:32 Using pandas data structures with scikit-learn
-  00:12:55 Plotting data from pandas
-  00:13:39 Transition to Python version 2
-  00:14:51 Commercial usage of pandas
-  00:15:16 Companies contributing back to pandas
-  00:16:02 Exposition of students to pandas
-  00:16:42 Tutorials to start with pandas
-  00:18:26 Python libraries dependencies of pandas
-  00:18:55 Main communication channels
-  00:19:44 Her experience contributing to pandas
-  00:21:14 Skills to contribute to the project
-  00:21:49 List of good first issues
-  00:22:21 Tasks for non-programmers
-  00:23:12 FLOSS and the industry
-  00:24:16 The most notable scientific discovery in recent years
-  00:24:33 Her favourite text processing tool
-  00:25:06 Anything else?
-  00:25:38 How to contact Bhavani
-  00:25:57 Outro
+  00:00:00 Intro
+  00:00:18 Introducing Leah Silen
+  00:02:28 Goals and mission of NumFocus
+  00:03:06 Examples of supported projects
+  00:03:39 Status of sponsorded and affiliated projects
+  00:05:04 Advantages of one status over the other
+  00:05:48 Legal challenges for open source scientific projects
+  00:07:19 Financial support for scientific open source projects
+  00:10:13 Assistance to apply for external grants
+  00:11:01 Paying developers from outside of US?
+  00:11:43 Revenue sources for NumFocus
+  00:12:21 Levels of corporate sponshorships
+  00:13:14 The influence of corporate sponsors
+  00:13:56 Motivations of corporate sponsors
+  00:15:02 Some of the sponsors of the NumFocus organization
+  00:16:05 Technological support for projects
+  00:17:03 Events previously supported by the organization
+  00:18:09 The kind of support that can be provided for events
+  00:19:22 Requirements for new projects
+  00:21:10 Clarification about the meaning of being a scientific oriented project
+  00:23:11 Requirements about the team size and strong governance within projects
+  00:24:58 The application process
+  00:26:18 Duration of support
+  00:26:44 Timeframe to receive a response for an application
+  00:28:30 Feedback in the case of rejection
+  00:29:12 Are there downsides of becoming a part of NumFocus?
+  00:30:32 Additional administrative overhead?
+  00:32:01 Location of NumFocus staff members
+  00:33:00 Foudation of NumFocus and initial projects
+  00:34:05 Opening to projects outside of the Python ecosystem
+  00:34:54 Favourite project?
+  00:35:46 Initial role in NumFocus
+  00:36:53 Term duration for positions at the board of directors
+  00:37:24 Selection process for the board of directors
+  00:38:31 Leah's vision about FLOSS and its importance for the openness of science
+  00:39:04 Negative impacts of FLOSS
+  00:39:33 Most notable scientific discovery in recent years
+  00:39:59 Favourite text processing tool
+  00:40:37 A topic in science about which she changed her mind about
+  00:41:36 Anything else we forgot to ask about?
+  00:42:54 How to contact Leah Silen
+  00:43:14 Outro
 
 ---
 
@@ -81,6 +91,8 @@ Your browser does not support the audio element.
 </audio>
 
 # Outline
+
+In episode 28, we interviewed Leah Silen from the NumFocus organization. She introduced us to the goals and the mission of the organization. We then had a discussion about the different levels of support provided by the organization to its member projects. She informed us about the legal, financial, technological and logistical support that can be provided by NumFocus. Following that, we asked her about the revenue sources of the organization as well as the possible influence from the corporate sponsors over the decisions and governance of the organization. We also discussed of the requirements to become part of NumFocus including details about the application process. We had a brief discussion about the history of the project and the evolution of the scope of projects that are part of the organization. After discussing the governance of the organization, we concluded the interview with our usual questions.
 
 # About NumFocus:
 
