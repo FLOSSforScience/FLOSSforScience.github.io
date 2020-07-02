@@ -1,84 +1,84 @@
 ---
 layout: post
-title: "EP029 FreeCAD, a 3D Parametric Modeler"
-date: 2020-06-01 00:00:00
+title: "EP029 Distributing Python packages with setuptools"
+date: 2020-01-07 00:00:00
 author: Admin
 categories: 
  - developer
  - podcast
 #Title of the podcast episode without the episode number
-podcast_episode_title: "FreeCAD, a 3D Parametric Modeler"
+podcast_episode_title: "Distributing Python packages with setuptools"
 #Image of the blog post
-img: FFS025_header.png
+img: FFS029_header.jpg
 #Thumbnail of the blog post
-thumb: FFS025_thumb.jpg
+thumb: FFS029_thumb.jpg
 #Link to the mp3 file of the episode
-podcast_link: https://media.blubrry.com/flossforscience/archive.org/download/ffsep025freecad/FFS_EP025_FreeCAD.mp3
+podcast_link: https://media.blubrry.com/flossforscience/archive.org/download/ffs-ep-029-setuptools/FFS_EP029_setuptools.mp3
 #Link to the ogg file of the episode
-podcast_link_ogg: https://media.blubrry.com/flossforscience/archive.org/download/ffsep025freecad/FFS_EP025_FreeCAD.ogg
+podcast_link_ogg: https://media.blubrry.com/flossforscience/archive.org/download/ffs-ep-029-setuptools/FFS_EP029_setuptools.ogg
 #File size in MB of the mp3 file
-podcast_file_size: 24.9 MB
+podcast_file_size: 32.4 MB
 #File size in MB of the ogg file
-podcast_file_size_ogg: 25.8 MB
+podcast_file_size_ogg: 32.7 MB
 #Length of the episode in minutes (is the same for ogg and mp3)
-podcast_duration: "0:51:30"
+podcast_duration: "1:07:17"
 #File size in bytes of the mp3 file
-podcast_length: 24869311
+podcast_length: 32441919
 #File size in bytes of the ogg file
-podcast_length_ogg: 25784395
+podcast_length_ogg: 32653256
 #Unique id of the mp3 file (sha256)
-podcast_guid: ba5dcb1ae0dc58325333e763d037dd08dbb1110dfa771e43c12574a674561b7a
+podcast_guid: 66ff8ae1bf6ca9d3ae8996a79c89c27b4d8664bf6613367962e573353d4fb886
 #“full” for normal episodes; “trailer” to promote an upcoming show, season, or episode; or “bonus” for extra content related to a show, season, or episode.
 podcast_episode_type: full
 #Season number only
 podcast_season_number: 03
 #Episode number only
-podcast_episode_number: 1
+podcast_episode_number: 6
 #Subtitle of the episode 
-podcast_subtitle: An interview with Kurt Kremitzki
+podcast_subtitle: An interview with Jason R Coombs
 #Description of the podcast
 podcast_description: |
-  In episode 25, we interviewed Kurt Kremitzki about the paramatric 3D modelling tool FreeCAD.  After discussing his previous experiences with CAD software and how he got involved in the FreeCAD project, we asked him about the current development status of the project before digging deeper into a few of the workbenches offered by FreeCAD. We also compared FreeCAD to LibreCAD and QCAD for applications only requiring 2D drawing instead of parametric 3D models and we discussed about compatibility with commercial CAD systems and standard exchange file formats. We were pleased to learn about the development status of a stable topological naming engine paving the way for the integration of an official assembly workbench in future releases. We then discussed about the spread of FreeCAD in companies and universities as well as ways to contribute to the FreeCAD project. We finished the interview with out usual quick questions and with a mention of their recent presentions at FOSDEM 2020. 
+  In episode 29, we interviewed Jason R Coombs from the setuptools project. We started with a discussion about his background and his interest for Python and other programming languages. Following that, we had a thorough discussion about setuptools. We covered topics such as how he got involved in the project, the nature and composition of a Python package, why packaging your code can be important even for small projects, the hidden complexity of binary packages in the Python Package Index and how to maintain compatibility between Python versions. We also had a brief segment about the security aspects of Python packages. He informed us about how you could start contributing to the project and where to discuss Python packaging. We then followed with a general discussion about FLOSS in science and the problem of long-term maintenance in academia. We concluded the interview with our usual quick questions. 
 
-  00:00:18 Introducing Kurt Kremitzki
-  00:02:16 How he got involved with FreeCAD
-  00:03:22 His previous CAD experience before working on FreeCAD
-  00:04:35 One minute elevator pitch for FreeCAD
-  00:05:50 Current general development status of FreeCAD
-  00:07:12 BIM with FreeCAD
-  00:09:24 What are workbenches in FreeCAD?
-  00:10:46 Core FreeCAD workbenches
-  00:11:40 Technical drawing with FreeCAD
-  00:13:44 FEM libraries integrated within FreeCAD
-  00:16:15 Multiphysics simulations
-  00:18:16 Model updates recalculations
-  00:19:04 Technical drawings and annotations
-  00:19:49 FreeCAD for 2D CAD drawing vs other FLOSS alternatives
-  00:21:08 Compatibility with commercial CAD systems and standard exchange file formats
-  00:23:41 Performance of STEP files conversion
-  00:24:54 FreeCAD's native file format
-  00:25:44 Version control with FreeCAD
-  00:27:01 File formats that are supported by FreeCAD
-  00:29:16 Integration of Python in FreeCAD
-  00:30:56 Assemblies with FreeCAD
-  00:33:29 Stable topological naming
-  00:35:10 Manual approach for static assemblies
-  00:36:30 When to expect a stable assembly workbench
-  00:37:20 How to test assemblies right now
-  00:38:33 FreeCAD's software license
-  00:39:16 Companies using FreeCAD
-  00:39:42 Universities using FreeCAD
-  00:40:16 FreeCAD's use in science and citations of FreeCAD
-  00:42:29 How many people are involved in the project
-  00:43:04 Main communication channels
-  00:43:54 How to contribute to FreeCAD
-  00:45:45 Kurt's vision of FLOSS and its importance for the openness of science
-  00:47:13 Most notable scientific discovery in recent years
-  00:47:47 Favourite text processing tool
-  00:48:11 A topic he changed his mind about in science
-  00:48:28 FreeCAD at FOSDEM 2020
-  00:49:33 How to contact Kurt
-  00:49:54 Outro
+  00:00:00.000 Intro
+  00:00:23 Introducing Jason R. Coombs
+  00:01:28 The first programming languages he learned and how he got into Python
+  00:03:46 New interesting programming languages
+  00:05:07 His favourite past Python projects
+  00:06:53 His one minute elevator pitch for setuptools
+  00:08:00 The relation between setuptools, PIP and Anaconda
+  00:10:43 How he got involved with the setuptools project
+  00:14:43 What is a Python package ?
+  00:16:07 What can be included in a package?
+  00:16:36 At which point is it beneficial to create a package ?
+  00:18:04 Managing compatibility with multiple versions of Python
+  00:20:33 Advantages of packages for small projects
+  00:22:46 How much work is required to create a package ?
+  00:25:05 Files required to create a Python package
+  00:27:45 Licenses and readme for Python packages
+  00:30:51 The nature of distribution archives
+  00:31:27 Compatibility of binary archives
+  00:32:39 Eggs and wheel files
+  00:34:32 Dealing with non portable packages in the Python Package Index across multiple operating systems
+  00:37:49 Uploading packages to the Python Package Index
+  00:39:12 Review for broken or malicious code
+  00:40:08 Vulneraility from package removal in the Python Package Index
+  00:43:24 Package name collisions
+  00:45:13 How many packages are in the Python Package Index
+  00:45:25 Alternatives to the main Python Package Index
+  00:46:35 Other packaging tools
+  00:47:39 How many developpers are involved in the project
+  00:48:31 Communication channels and discussions about Python packaging
+  00:49:53 Openings for new contributors
+  00:50:59 Skills required to contribute
+  00:52:24 The challenge of long term maintenance of packages in academia
+  00:55:43 His vision about the importance of FLOSS for the openess of science
+  00:59:18 Disadvantage of using FLOSS
+  01:01:24 The most notable scientific discovery in recent years
+  01:02:13 Favourite text processing tool
+  01:03:23 A topic in science about which he recently changed his mind
+  01:04:50 Contact informations
+  01:05:23 Conclusion
 
 ---
 
@@ -90,6 +90,7 @@ Your browser does not support the audio element.
 
 # Outline
 
+In episode 29, we interviewed Jason R Coombs from the setuptools project. We started with a discussion about his background and his interest for Python and other programming languages. Following that, we had a thorough discussion about setuptools. We covered topics such as how he got involved in the project, the nature and composition of a Python package, why packaging your code can be important even for small projects, the hidden complexity of binary packages in the Python Package Index and how to maintain compatibility between Python versions. We also had a brief segment about the security aspects of Python packages. He informed us about how you could start contributing to the project and where to discuss Python packaging. We then followed with a general discussion about FLOSS in science and the problem of long-term maintenance in academia. We concluded the interview with our usual quick questions. 
 
 # About Python setuptools:
 
