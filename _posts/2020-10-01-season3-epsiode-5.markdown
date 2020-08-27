@@ -99,15 +99,35 @@ Your browser does not support the audio element.
 
 # About GNU project:
 
+* [What is GNU?](https://www.gnu.org/)
+* [The GNU Operating System](https://www.gnu.org/gnu/gnu.html)
+* [About the GNU Operating System](https://www.gnu.org/gnu/about-gnu.html)
+* [Overview of the GNU System](https://www.gnu.org/gnu/gnu-history.html)
+* [The Structure and Administration of the GNU Project](https://www.gnu.org/gnu/gnu-structure.html)
+
 
 # About GNU licenses:
+
+* This [licensing list]( https://www.gnu.org/licenses/license-list.html) starts with the best summary of each of the licenses in the GPL family and beyond.
 
 
 # About Craig Topham:
 
+Craig has been an Associate Member since 2007, and he came to work for the Free Software Foundation as a Copyright and Licensing Associate at the end of 2018. Prior to the FSF, Craig worked as a PC/Network Technician for the City of Eugene, Oregon for twelve years. Some of Craig's FSF duties include: handling copyright assignments, GPL compliance for FSF-copyrighted works, and helping with the Respect Your Freedom program. Besides the desire to see free software thrive, Craig also envisions a world where everyone's inner light shines bright.
+
 # Links
 
-- [NumPy website](https://www.numpy.org)
+* [Detailed history of the GNU Project](https://www.gnu.org/gnu/thegnuproject.html)
+* [FSF licensing and compliance team](https://www.fsf.org/licensing/)
+* [Respect your Freedom](https://ryf.fsf.org)
+* [The Principles of Community-Oriented GPL Enforcement](https://www.fsf.org/licensing/enforcement-principles)
+* [Free GNU/Linux distributions](https://www.gnu.org/distros/free-distros.html)
+* [Seminars on free software licensing & GPL compliance](https://www.fsf.org/licensing/seminars/)
+* [Various Licenses and Comments about Them](https://www.gnu.org/licenses/license-list.html)
+* [How to choose a license for your own work](https://www.gnu.org/licenses/license-recommendations.html)
+* [How to use GNU licenses for your own software](https://www.gnu.org/licenses/gpl-howto.html)
+* [Why you shouldn't use the Lesser GPL for your next library](https://www.gnu.org/licenses/why-not-lgpl.html)
+* [Free Software Directory](https://directory.fsf.org) for the Free Software Directory IRC meetings, in the #fsf Freenode, Every Friday 12:00 PM to 3:00 PM EDT.
 
 
 Listen to this episode here or add our [rss feed](https://flossforscience.com/feed.xml) to your favourite podcast application. 
