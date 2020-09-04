@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "EP030 Spack: a package manager for supercomputers"
-date: 2020-03-09 00:00:00
+date: 2020-09-03 00:00:00
 author: Admin
 categories:
  - developer
@@ -11,7 +11,7 @@ podcast_episode_title: "Spack: a package manager for supercomputers"
 #Image of the blog post
 img: FFS030_header.png
 #Thumbnail of the blog post
-thumb: FFS030_thumb.jpg
+thumb: FFS030_thumb.png
 #Link to the mp3 file of the episode
 podcast_link: https://media.blubrry.com/flossforscience/archive.org/download/ffs-ep-030-spack/FFS_EP030_Spack.mp3
 #Link to the ogg file of the episode
