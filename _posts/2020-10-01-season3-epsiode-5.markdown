@@ -92,7 +92,7 @@ Craig has been an Associate Member since 2007, and he came to work for the Free 
 
 Craig asked us to post some clarifications after he listend to the recording:
 
-* 7:55, I utterly failed to mention an exclusive member benefit, our membership card which is a bootable USB Drive! <https://www.fsf.org/associate/card> I think I was distracted when I heard "credit card", weird.
+* 7:55, I utterly failed to mention an exclusive member benefit, our membership card which is a bootable [USB Drive](https://www.fsf.org/associate/card) I think I was distracted when I heard "credit card", weird.
 * 8:11, Libreplanet was held virtually in both [2020](https://libreplanet.org/2021/) and [2021](https://libreplanet.org/2021/)! Not the best joke, but I got a laugh! 
 * 22:29, I said "other programs" interacting with LGPL software, when I should have said "other code compiled together" with LGPL source code.
 * 23:21, I messed up "Service as a Software Substitute" (SAASS), useful [article](https://www.gnu.org/philosophy/who-does-that-server-really-serve.en.html).
