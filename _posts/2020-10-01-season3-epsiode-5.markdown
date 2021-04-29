@@ -88,6 +88,18 @@ Craig has been an Associate Member since 2007, and he came to work for the Free 
 * [Why you shouldn't use the Lesser GPL for your next library](https://www.gnu.org/licenses/why-not-lgpl.html)
 * [Free Software Directory](https://directory.fsf.org) for the Free Software Directory IRC meetings, in the #fsf Freenode, Every Friday 12:00 PM to 3:00 PM EDT.
 
+# Clarifications
+
+Craig asked us to post some clarifications after he listend to the recording:
+
+* 7:55, I utterly failed to mention an exclusive member benefit, our membership card which is a bootable USB Drive! <https://www.fsf.org/associate/card> I think I was distracted when I heard "credit card", weird.
+* 8:11, Libreplanet was held virtually in both [2020](https://libreplanet.org/2021/) and [2021](https://libreplanet.org/2021/)! Not the best joke, but I got a laugh! 
+* 22:29, I said "other programs" interacting with LGPL software, when I should have said "other code compiled together" with LGPL source code.
+* 23:21, I messed up "Service as a Software Substitute" (SAASS), useful [article](https://www.gnu.org/philosophy/who-does-that-server-really-serve.en.html).
+* 30:51, I said GPL instead of GPLv3
+* 36:56, I could have avoided saying, "that should be enough to cover it", but instead emphasized useful programs like the [FSFE's REUSE](https://reuse.software/).
+* 37:39, I should not have said, "as far as legality goes" around the COPYING and README files in the source code. A more appropriate replacement would be, "as far as what is required by the GPL and other common practices".
+* 37:54, I misspoke. I meant to say that an author should register their work (source code) with the Copyright Office in order to defend ownership in court. They would not register it "as licensed under the GPL", only that they are the author of the work.
 
 Listen to this episode here or add our [rss feed](https://flossforscience.com/feed.xml) to your favourite podcast application. 
 
