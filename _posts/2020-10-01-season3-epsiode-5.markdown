@@ -88,7 +88,7 @@ Craig has been an Associate Member since 2007, and he came to work for the Free 
 * [Why you shouldn't use the Lesser GPL for your next library](https://www.gnu.org/licenses/why-not-lgpl.html)
 * [Free Software Directory](https://directory.fsf.org) for the Free Software Directory IRC meetings, in the #fsf Freenode, Every Friday 12:00 PM to 3:00 PM EDT.
 
-# Clarifications
+# Addendum
 
 Craig asked us to post some clarifications after he listend to the recording:
 
